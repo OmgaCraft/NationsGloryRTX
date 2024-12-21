@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "tiles-small",
+      "heightmap" : "tiles-small_heightmap",
+      "metalness_emissive_roughness" : "tiles-small_mer"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "metal_cloute",
+      "heightmap" : "metal_cloute_heightmap",
+      "metalness_emissive_roughness" : "metal_cloute_mer"
+    }
+  }
+  

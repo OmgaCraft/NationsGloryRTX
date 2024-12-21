@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:cow_armor_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "cow_armor_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

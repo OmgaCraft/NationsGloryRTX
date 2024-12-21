@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:apocalypse_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "apocalypse_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

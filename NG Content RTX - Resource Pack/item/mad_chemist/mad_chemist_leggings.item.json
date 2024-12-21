@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:mad_chemist_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "mad_chemist_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

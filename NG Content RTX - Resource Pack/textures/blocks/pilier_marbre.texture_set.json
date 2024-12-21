@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "pilier_marbre",
+      "heightmap" : "pilier_marbre_heightmap",
+      "metalness_emissive_roughness" : "pilier_marbre_mer"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "brique_claire",
+      "heightmap" : "brique_claire_heightmap",
+      "metalness_emissive_roughness" : "brique_claire_mer"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "lablargesteel_side",
+      "heightmap" : "lablargesteel-side_heightmap",
+      "metalness_emissive_roughness" : "lablargesteel-side_mer"
+    }
+  }
+  

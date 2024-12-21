@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "tuile_brown",
+      "metalness_emissive_roughness": "tuile_brown_mer",
+      "heightmap" : "tuile_brown_heightmap"
+    }
+  }
+  

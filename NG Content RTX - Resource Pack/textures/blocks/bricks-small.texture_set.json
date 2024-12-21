@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "bricks-small",
+      "heightmap" : "bricks-small_heightmap",
+      "metalness_emissive_roughness" : "bricks-small_mer"
+    }
+  }
+  

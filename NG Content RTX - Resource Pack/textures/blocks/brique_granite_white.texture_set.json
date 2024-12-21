@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "brique_granite_white",
+      "heightmap" : "brique_granite_white_heightmap",
+      "metalness_emissive_roughness" : "brique_granite_white_mer"
+    }
+  }
+  

@@ -1,0 +1,118 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.spartan_helmet",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 2, 0]
+			},
+			"bones": [
+				{
+					"name": "waist",
+					"pivot": [0, 20.4, 0]
+				},
+				{
+					"name": "head",
+					"parent": "waist",
+					"pivot": [0, 18.4, 1.445],
+					"cubes": [
+						{
+							"origin": [-5.3125, 24.04025, -4.30254],
+							"size": [10.625, 3.1875, 10.625],
+							"uv": {
+								"north": {"uv": [10, 25], "uv_size": [10, 3]},
+								"east": {"uv": [0, 25], "uv_size": [10, 3]},
+								"south": {"uv": [30, 25], "uv_size": [10, 3]},
+								"west": {"uv": [20, 25], "uv_size": [10, 3]},
+								"up": {"uv": [10, 15], "uv_size": [10, 10]},
+								"down": {"uv": [20, 25], "uv_size": [10, -10]}
+							}
+						},
+						{
+							"origin": [3.1875, 21.91525, -4.30254],
+							"size": [2.125, 2.125, 10.625],
+							"uv": {
+								"north": {"uv": [10, 74], "uv_size": [2, 2]},
+								"east": {"uv": [0, 74], "uv_size": [10, 2]},
+								"south": {"uv": [22, 74], "uv_size": [2, 2]},
+								"west": {"uv": [12, 74], "uv_size": [10, 2]},
+								"up": {"uv": [10, 64], "uv_size": [2, 10]},
+								"down": {"uv": [12, 74], "uv_size": [2, -10]}
+							}
+						},
+						{
+							"origin": [-5.3125, 21.91525, -4.30254],
+							"size": [2.125, 2.125, 10.625],
+							"uv": {
+								"north": {"uv": [69, 39], "uv_size": [2, 2]},
+								"east": {"uv": [59, 39], "uv_size": [10, 2]},
+								"south": {"uv": [81, 39], "uv_size": [2, 2]},
+								"west": {"uv": [71, 39], "uv_size": [10, 2]},
+								"up": {"uv": [69, 29], "uv_size": [2, 10]},
+								"down": {"uv": [71, 39], "uv_size": [2, -10]}
+							}
+						},
+						{
+							"origin": [-5.3125, 16.76525, 4.35996],
+							"size": [10.625, 6.375, 1.0625],
+							"pivot": [0, 28.04025, 4.59121],
+							"rotation": [17.5, 0, 0],
+							"uv": {
+								"north": {"uv": [82, 15], "uv_size": [10, 6]},
+								"east": {"uv": [81, 15], "uv_size": [1, 6]},
+								"south": {"uv": [93, 15], "uv_size": [10, 6]},
+								"west": {"uv": [92, 15], "uv_size": [1, 6]},
+								"up": {"uv": [82, 14], "uv_size": [10, 1]},
+								"down": {"uv": [92, 15], "uv_size": [10, -1]}
+							}
+						},
+						{
+							"origin": [-3.1875, 13.57775, 5.42246],
+							"size": [6.375, 11.6875, 1.0625],
+							"pivot": [0, 28.04025, 4.59121],
+							"rotation": [17.5, 0, 0],
+							"uv": {
+								"north": {"uv": [41, 85], "uv_size": [6, 11]},
+								"east": {"uv": [40, 85], "uv_size": [1, 11]},
+								"south": {"uv": [48, 85], "uv_size": [6, 11]},
+								"west": {"uv": [47, 85], "uv_size": [1, 11]},
+								"up": {"uv": [41, 84], "uv_size": [6, 1]},
+								"down": {"uv": [47, 85], "uv_size": [6, -1]}
+							}
+						},
+						{
+							"origin": [-4.78125, 26.12775, -3.98379],
+							"size": [9.5625, 2.125, 10.30625],
+							"uv": {
+								"north": {"uv": [41, 33], "uv_size": [9, 2]},
+								"east": {"uv": [32, 33], "uv_size": [9, 2]},
+								"south": {"uv": [59, 33], "uv_size": [9, 2]},
+								"west": {"uv": [50, 33], "uv_size": [9, 2]},
+								"up": {"uv": [41, 24], "uv_size": [9, 9]},
+								"down": {"uv": [50, 33], "uv_size": [9, -9]}
+							}
+						},
+						{
+							"origin": [-1.0625, 24.04025, -1.63379],
+							"size": [2.125, 8.5, 13.70625],
+							"pivot": [0, 29.634, 0.50058],
+							"rotation": [-15, 0, 0],
+							"uv": {
+								"north": {"uv": [43, 15], "uv_size": [2, 8]},
+								"east": {"uv": [31, 15], "uv_size": [12, 8]},
+								"south": {"uv": [57, 15], "uv_size": [2, 8]},
+								"west": {"uv": [45, 15], "uv_size": [12, 8]},
+								"up": {"uv": [43, 3], "uv_size": [2, 12]},
+								"down": {"uv": [45, 15], "uv_size": [2, -12]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

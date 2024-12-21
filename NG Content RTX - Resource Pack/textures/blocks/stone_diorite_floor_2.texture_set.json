@@ -1,0 +1,9 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "stone_diorite_floor_2",
+      "heightmap" : "stone_custom_floor_2_heightmap"
+    }
+  }
+  

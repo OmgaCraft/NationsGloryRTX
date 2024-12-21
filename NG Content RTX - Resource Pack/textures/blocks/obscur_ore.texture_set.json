@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "obscur_ore",
+      "heightmap" : "shadow_ore_heightmap",
+      "metalness_emissive_roughness" : "shadow_ore_mer"
+    }
+  }
+  

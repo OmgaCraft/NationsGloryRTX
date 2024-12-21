@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:magic_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "magic_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

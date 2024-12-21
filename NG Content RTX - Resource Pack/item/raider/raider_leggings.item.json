@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:raider_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "raider_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

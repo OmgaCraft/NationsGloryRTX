@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:alpha_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "alpha_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

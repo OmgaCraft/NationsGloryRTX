@@ -1,0 +1,68 @@
+{
+   "block_sounds" : {
+      "nationsglory:volcanite" : {
+         "events" : {
+            "break" : {
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "default" : "meuh",
+            "hit" : {
+               "pitch" : [ 0.50, 1.20 ],
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "item.use.on" : {
+               "pitch" : 0.80,
+               "sound" : "meuh"
+            },
+            "place" : {
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "power.off" : {
+               "pitch" : 0.50,
+               "sound" : "meuh"
+            },
+            "power.on" : {
+               "pitch" : 0.60,
+               "sound" : "meuh"
+            }
+         },
+         "pitch" : 1.0,
+         "volume" : 1.0
+      },
+	  "volcanite" : {
+         "events" : {
+            "break" : {
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "default" : "meuh",
+            "hit" : {
+               "pitch" : [ 0.50, 1.20 ],
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "item.use.on" : {
+               "pitch" : 0.80,
+               "sound" : "meuh"
+            },
+            "place" : {
+               "sound" : "meuh",
+               "volume" : 1.0
+            },
+            "power.off" : {
+               "pitch" : 0.50,
+               "sound" : "meuh"
+            },
+            "power.on" : {
+               "pitch" : 0.60,
+               "sound" : "meuh"
+            }
+         },
+         "pitch" : 1.0,
+         "volume" : 1.0
+      }
+   }
+}

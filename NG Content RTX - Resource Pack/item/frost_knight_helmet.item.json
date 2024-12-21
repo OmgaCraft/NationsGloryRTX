@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:frost_knight_helmet",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "frost_knight_helmet",
+            "minecraft:render_offsets": "helmet"
+        }
+    }
+}

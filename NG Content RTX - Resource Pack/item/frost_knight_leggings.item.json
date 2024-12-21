@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:frost_knight_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "frost_knight_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

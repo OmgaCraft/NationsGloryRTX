@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:pirate_chestplate",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "pirate_chestplate",
+            "minecraft:render_offsets": "chestplate"
+        }
+    }
+}

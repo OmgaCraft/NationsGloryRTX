@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "roche_sculpte",
+      "heightmap" : "roche_sculpte_heightmap",
+      "metalness_emissive_roughness" : "roche_sculpte_mer"
+    }
+  }
+  

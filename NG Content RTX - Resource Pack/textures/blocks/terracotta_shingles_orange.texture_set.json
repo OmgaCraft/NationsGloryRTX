@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "terracotta_shingles_orange",
+      "heightmap" : "terracotta_shingles_heightmap",
+      "metalness_emissive_roughness" : "terracotta_shingles_mer"
+    }
+  }
+  

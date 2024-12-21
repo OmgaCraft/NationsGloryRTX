@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:gamma_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "gamma_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

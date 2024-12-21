@@ -1,0 +1,67 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.spartan_chestplate",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 6,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "waist",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "waist",
+					"pivot": [0, 24.7, 0],
+					"cubes": [
+						{"origin": [-4.5, 12, -2.5], "size": [9, 12, 5], "uv": [0, 46]},
+						{"origin": [-2.5, 12, -1.5], "size": [5, 12, 5], "pivot": [0, 18, 1], "rotation": [-2.5, 0, 0], "uv": [60, 11]},
+						{"origin": [-6.7, 18, -4], "size": [13.4, 6, 8], "inflate": -0.2, "uv": [0, 0]},
+						{"origin": [-2.5, 12.6, -4], "size": [5, 10, 4], "pivot": [0, 18, 0], "rotation": [12.5, 0, 0], "uv": [21, 76]},
+						{"origin": [-3, 19, -5], "size": [6, 5, 2], "pivot": [0, 23.5, -2], "rotation": [-10, 0, 0], "uv": [15, 64]},
+						{"origin": [-5, 23, -5], "size": [4, 3, 10], "uv": [29, 50], "mirror": true},
+						{"origin": [1, 23, -5], "size": [4, 3, 10], "uv": [29, 50]},
+						{"origin": [-1, 23, -4.5], "size": [2, 2, 9], "uv": [25, 64]},
+						{"origin": [-2.5, 7, 0.5], "size": [5, 3, 2], "pivot": [0, 12.5, 1.5], "rotation": [12.5, 0, 0], "uv": [81, 22]},
+						{"origin": [-2.5, 10, -3.5], "size": [5, 3, 2], "pivot": [0, 12.5, -1.5], "rotation": [-12.5, 0, 0], "uv": [81, 22]},
+						{"origin": [-2.5, 10, 1.5], "size": [5, 3, 2], "pivot": [0, 12.5, 1.5], "rotation": [12.5, 0, 0], "uv": [81, 22]}
+					]
+				},
+				{
+					"name": "leftArm",
+					"parent": "body",
+					"pivot": [4, 22, 0],
+					"cubes": [
+						{"origin": [7, 18, -1.4], "size": [2, 4, 2.8], "inflate": -0.5, "uv": [0, 15]},
+						{"origin": [4.99381, 21.72671, -2.4], "size": [6.6, 6, 4.8], "inflate": -0.5, "pivot": [7.79381, 25.22671, 0], "rotation": [0, 0, -20], "uv": [0, 77]},
+						{"origin": [5.96876, 24.85461, -1.3837], "size": [2, 2.4, 8], "inflate": -0.5, "pivot": [6.96876, 26.05461, 2.6163], "rotation": [135, 0, -22.5], "uv": [76, 3]},
+						{"origin": [6.35265, 26.82671, -5], "size": [2, 2.4, 8], "inflate": -0.5, "pivot": [8.35265, 25.32671, 0], "rotation": [45, 0, -22.5], "uv": [76, 3]},
+						{"origin": [11.48182, 22.71069, -1.5], "size": [2.5, 2, 3], "inflate": -0.5, "pivot": [14.48182, 21.21069, 0], "rotation": [0, 0, 5], "uv": [70, 87]},
+						{"origin": [3, 22.3, -3.3], "size": [10, 4, 6.6], "inflate": -0.5, "pivot": [6, 23, 0], "rotation": [0, 0, 12.5], "uv": [48, 0]},
+						{"origin": [3, 20.3, -2.3], "size": [8, 3, 4.6], "inflate": -0.5, "pivot": [6, 23, 0], "rotation": [0, 0, 12.5], "uv": [68, 42]}
+					]
+				},
+				{
+					"name": "rightArm",
+					"parent": "body",
+					"pivot": [-4, 22, 0],
+					"cubes": [
+						{"origin": [-9, 18, -1.4], "size": [2, 4, 2.8], "inflate": -0.5, "uv": [0, 15], "mirror": true},
+						{"origin": [-11.59381, 21.72671, -2.4], "size": [6.6, 6, 4.8], "inflate": -0.5, "pivot": [-7.79381, 25.22671, 0], "rotation": [0, 0, 20], "uv": [0, 77], "mirror": true},
+						{"origin": [-7.96876, 24.85461, -1.3837], "size": [2, 2.4, 8], "inflate": -0.5, "pivot": [-6.96876, 26.05461, 2.6163], "rotation": [135, 0, 22.5], "uv": [76, 3], "mirror": true},
+						{"origin": [-8.35265, 26.82671, -5], "size": [2, 2.4, 8], "inflate": -0.5, "pivot": [-8.35265, 25.32671, 0], "rotation": [45, 0, 22.5], "uv": [76, 3], "mirror": true},
+						{"origin": [-13.98182, 22.71069, -1.5], "size": [2.5, 2, 3], "inflate": -0.5, "pivot": [-14.48182, 21.21069, 0], "rotation": [0, 0, -5], "uv": [70, 87], "mirror": true},
+						{"origin": [-13, 22.3, -3.3], "size": [10, 4, 6.6], "inflate": -0.5, "pivot": [-6, 23, 0], "rotation": [0, 0, -12.5], "uv": [48, 0], "mirror": true},
+						{"origin": [-11, 20.3, -2.3], "size": [8, 3, 4.6], "inflate": -0.5, "pivot": [-6, 23, 0], "rotation": [0, 0, -12.5], "uv": [68, 42], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

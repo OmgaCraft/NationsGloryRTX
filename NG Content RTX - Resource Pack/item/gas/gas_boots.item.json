@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:gas_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "gas_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

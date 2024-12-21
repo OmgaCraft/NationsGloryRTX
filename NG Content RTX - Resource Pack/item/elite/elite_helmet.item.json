@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:elite_helmet",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "elite_helmet",
+            "minecraft:render_offsets": "helmet"
+        }
+    }
+}

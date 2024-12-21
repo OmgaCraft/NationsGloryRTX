@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "parquet_fonce",
+      "heightmap" : "parquet_fonce_heightmap",
+      "metalness_emissive_roughness" : "parquet_fonce_mer"
+    }
+  }
+  

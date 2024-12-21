@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "desh_ore",
+      "heightmap" : "desh_ore_heightmap",
+      "metalness_emissive_roughness" : "desh_ore_mer"
+    }
+  }
+  

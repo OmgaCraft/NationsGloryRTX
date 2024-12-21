@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "cut_iron",
+      "heightmap" : "cut_gold_heightmap",
+      "metalness_emissive_roughness" : "cut_gold_mer"
+    }
+  }
+  

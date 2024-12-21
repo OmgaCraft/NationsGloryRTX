@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "onyx_ore",
+      "heightmap" : "onyx_ore_heightmap",
+      "metalness_emissive_roughness" : "onyx_ore_mer"
+    }
+  }
+  

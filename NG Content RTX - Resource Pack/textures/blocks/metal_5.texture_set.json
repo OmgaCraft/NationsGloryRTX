@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "metal_5",
+      "heightmap" : "gold_block_2_heightmap",
+      "metalness_emissive_roughness" : "gold_block_2_mer"
+    }
+  }
+  

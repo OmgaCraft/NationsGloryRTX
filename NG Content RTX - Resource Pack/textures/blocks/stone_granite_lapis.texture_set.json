@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "stone_granite_lapis",
+      "heightmap" : "stone_custom_pillar_heightmap",
+      "metalness_emissive_roughness" : "stone_custom_pillar_mer"
+    }
+  }
+  

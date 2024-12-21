@@ -1,0 +1,44 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.frost_knight_boots",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "waist",
+					"pivot": [-6.6, -10.4, -3]
+				},
+				{
+					"name": "body",
+					"parent": "waist",
+					"pivot": [-2, 24, 0]
+				},
+				{
+					"name": "leftLeg",
+					"parent": "body",
+					"pivot": [0.7, 1.75, -2.38125],
+					"cubes": [
+						{"origin": [-1.675, -10.4, -4.6], "size": [5.6, 6, 5.95], "inflate": 0.25, "uv": [0, 101]},
+						{"origin": [-1.675, -10.4, -5.6], "size": [5.6, 1, 0.925], "inflate": 0.25, "uv": [60, 24]}
+					]
+				},
+				{
+					"name": "rightLeg",
+					"parent": "body",
+					"pivot": [-4.7, 1.75, -2.3875],
+					"cubes": [
+						{"origin": [-7.8, -10.4, -4.6], "size": [5.6, 6, 5.925], "inflate": 0.25, "uv": [95, 0]},
+						{"origin": [-7.9, -10.4, -5.6], "size": [5.6, 1, 0.925], "inflate": 0.25, "uv": [26, 46]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "brique_saumon",
+      "heightmap" : "brique_saumon_heightmap",
+      "metalness_emissive_roughness" : "brique_saumon_mer"
+    }
+  }
+  

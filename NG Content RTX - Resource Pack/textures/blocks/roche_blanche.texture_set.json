@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "roche_blanche",
+      "heightmap" : "roche_blanche_heightmap",
+      "metalness_emissive_roughness" : "roche_blanche_mer"
+    }
+  }
+  

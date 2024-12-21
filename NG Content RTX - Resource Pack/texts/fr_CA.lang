@@ -1,0 +1,2386 @@
+﻿item.nationsglory:halloween_hammer.name=§4☠ Marteau d'Halloween ☠	#
+item.nationsglory:lootbox_halloween.name=§4Lootbox légendaire d'Halloween
+item.nationsglory:christmas_biscuit.name=Biscuit de Noel    #
+item.nationsglory:christmas_candycane_blue.name=Canne à Sucre Bleu  #
+item.nationsglory:christmas_candycane_green.name=Canne à Sucre Vert #
+item.nationsglory:christmas_candycane_red.name=Canne à Sucre Rouge  #
+item.nationsglory:christmas_easteregg_green.name=Oeuf de Paques Vert    #
+item.nationsglory:christmas_easteregg_lime.name=Oeuf de Paques Lime #
+item.nationsglory:christmas_easteregg_purple.name=Oeuf de Paques Violet #
+item.nationsglory:christmas_easteregg_red.name=Oeuf de Paques Rouge #
+item.nationsglory:christmas_gift_blue.name=Cadeau Bleu  #
+item.nationsglory:christmas_gift_green.name=Cadeau Vert #
+item.nationsglory:christmas_gift_red.name=Cadeau Rouge  #
+item.nationsglory:christmas_milk.name=Verre de Lait #
+item.nationsglory:christmas_santaclaus_boots.name=Bottes du Père Noel   #
+item.nationsglory:christmas_santaclaus_chestplate.name=Veste du Père Noel   #
+item.nationsglory:christmas_santaclaus_helmet.name=Bonnet du Père Noel  #
+item.nationsglory:christmas_santaclaus_leggings.name=Pantalon du Père Noel  #
+item.nationsglory:christmas_snowflake.name=Flocon de Neige  #
+item.nationsglory:christmas_snowglobe.name=Boule à Neige    #
+item.nationsglory:christmas_star.name=Etoile de Noel    #
+tile.nationsglory:swamp_grass.name=Herbe des marais
+tile.nationsglory:dark_grass.name=Herbe sombre
+tile.nationsglory:jungle_grass.name=Herbe de la jungle
+tile.nationsglory:grass_1.name=Herbes
+tile.nationsglory:jungle_grass_rocky.name=Herbe de jungle rocailleuse
+tile.nationsglory:white_granite.name=Granite Blanc
+tile.nationsglory:white_granite_sculpted.name=Pierre Sculptée de Granite Blanc
+tile.nationsglory:white_granite_cracked.name=Roche Craquelée de Granite Blanc
+tile.nationsglory:white_granite_square.name=Pierre Carrée de Granite Blanc
+tile.nationsglory:white_granite_cobble.name=Pierres de Granite Blanc
+tile.nationsglory:dry_stone_2.name=Pierre Sèche
+tile.nationsglory:jungle_grass_rocky_2.name=Herbe Jungle Caillouteuse
+tile.nationsglory:swamp_grass_rocky.name=Herbe des marais Caillouteuse
+tile.nationsglory:dark_grass_rocky.name=Herbe sombre Caillouteuse
+tile.nationsglory:dry_stone.name=Pierre Sèche
+tile.nationsglory:clean_dry_stone.name=Pierre Sèche
+tile.nationsglory:pebbled_dirt.name=Terre Caillouteuse
+item.nationsglory:builder_armor_helmet.name=§eCasque de constructeur	#
+item.nationsglory:builder_armor_chestplate.name=§ePlastron de constructeur	#
+item.nationsglory:builder_armor_leggings.name=§eJambières de constructeur	#
+item.nationsglory:builder_armor_boots.name=§eBottes de constructeur	#
+tile.nationsglory:museum_glass_bottom.name=Vitre de musée (Bas)
+tile.nationsglory:museum_glass_bottom_corner.name=Vitre de musée (Coin Bas)
+tile.nationsglory:museum_glass_center.name=Vitre de musée (Centre)
+tile.nationsglory:museum_glass_side.name=Vitre de musée (Côté)
+tile.nationsglory:museum_glass_top.name=Vitre de musée (Haut)
+tile.nationsglory:museum_glass_top_corner.name=Vitre de musée (Coin Haut)
+tile.nationsglory:museum_glass_up.name=Vitre de musée (Supérieure)
+tile.nationsglory:museum_lamp.name=Lampe de musée
+tile.nationsglory:museum_lamp_floor.name=Lampe de musée au sol
+tile.nationsglory:museum_pedestal_center_metal.name=Socle central en métal
+tile.nationsglory:museum_pedestal_metal.name=Piédestal en métal
+tile.nationsglory:museum_pedestal_top_metal.name=Haut du piédestal en métal
+tile.nationsglory:wall_flag.name=Drapeau mural
+tile.nationsglory:museum_table.name=Table de musée
+tile.nationsglory:museum_table_corner.name=Drapeau mural (Coin)
+item.nationsglory:potion_boost_xp_1.name=Potion Boost XP I
+item.nationsglory:potion_boost_xp_2.name=Potion Boost XP II
+item.nationsglory:potion_boost_xp_3.name=Potion Boost XP III
+item.nationsglory:potion_boost_atm_1.name=Potion Boost ATM I
+item.nationsglory:potion_boost_atm_2.name=Potion Boost ATM II
+item.nationsglory:potion_boost_atm_3.name=Potion Boost ATM III
+item.nationsglory:potion_boost_skill_all_1.name=Potion Boost Skill All I
+item.nationsglory:potion_boost_skill_all_2.name=Potion Boost Skill All II
+item.nationsglory:potion_boost_skill_all_3.name=Potion Boost Skill All III
+item.nationsglory:potion_boost_skill_builder_1.name=Potion Boost Skill Builder I
+item.nationsglory:potion_boost_skill_builder_2.name=Potion Boost Skill Builder II
+item.nationsglory:potion_boost_skill_builder_3.name=Potion Boost Skill Builder III
+item.nationsglory:potion_boost_skill_miner_1.name=Potion Boost Skill Miner I
+item.nationsglory:potion_boost_skill_miner_2.name=Potion Boost Skill Miner II
+item.nationsglory:potion_boost_skill_miner_3.name=Potion Boost Skill Miner III
+item.nationsglory:potion_boost_skill_farmer_1.name=Potion Boost Skill Farmer I
+item.nationsglory:potion_boost_skill_farmer_2.name=Potion Boost Skill Farmer II
+item.nationsglory:potion_boost_skill_farmer_3.name=Potion Boost Skill Farmer III
+item.nationsglory:potion_boost_skill_hunter_1.name=Potion Boost Skill Hunter I
+item.nationsglory:potion_boost_skill_hunter_2.name=Potion Boost Skill Hunter II
+item.nationsglory:potion_boost_skill_hunter_3.name=Potion Boost Skill Hunter III
+item.nationsglory:potion_boost_skill_lumberjack_1.name=Potion Boost Skill Lumberjack I
+item.nationsglory:potion_boost_skill_lumberjack_2.name=Potion Boost Skill Lumberjack II
+item.nationsglory:potion_boost_skill_lumberjack_3.name=Potion Boost Skill Lumberjack III
+item.nationsglory:potion_boost_skill_engineer_1.name=Potion Boost Skill Engineer I
+item.nationsglory:potion_boost_skill_engineer_2.name=Potion Boost Skill Engineer II
+item.nationsglory:potion_boost_skill_engineer_3.name=Potion Boost Skill Engineer III
+item.nationsglory:lait_frais.name=Verre de lait frais	#
+item.nationsglory:cookie_noisette.name=Cookie à la noisette	#
+item.nationsglory:sucre_orge.name=Sucre d'orge	#
+item.nationsglory:noel_key_1.name=§eClé de l'ange (N°1)
+item.nationsglory:noel_key_2.name=§eClé du lutin (N°2)
+item.nationsglory:noel_key_3.name=§eClé du flocon (N°3)
+item.nationsglory:noel_key_4.name=§eClé du cadeau (N°4)
+item.nationsglory:noel_key_5.name=§eClé du cassenoisette (N°5)
+item.nationsglory:noel_key_6.name=§eClé du père noel (N°6)
+item.nationsglory:noel_key_7.name=§eClé du bonhomme de neige (N°7)
+item.nationsglory:noel_key_8.name=§eClé du sapin (N°8)
+item.nationsglory:noel_key_9.name=§eClé du sucre d'orge (N°9)
+item.nationsglory:noel_mega_key.name=§4Méga clé de Noel
+
+tile.nationsglory:sand_wall.name=Muret
+tile.nationsglory:sand_wall_corner.name=Muret Coin
+tile.nationsglory:stone_wall.name=Muret
+tile.nationsglory:stone_wall_corner.name=Muret Coin
+tile.nationsglory:market_furniture_fountain_neblion_statue.name=Fontaine Néblion
+tile.nationsglory:fountain_water_jet.name=Jet d'eau de fontaine
+tile.nationsglory:bush_azela.name=Buisson
+tile.nationsglory:bush_oak.name=Buisson
+
+tile.nationsglory:dry_stone.name=Pierre Sèche
+tile.nationsglory:clean_dry_stone.name=Pierre Sèche
+tile.nationsglory:pebbled_dirt.name=Terre Caillouteuse
+tile.nationsglory:grassy_dirt.name=Terre Herbeuse
+item.nationsglory:christmas_stocking.name=Chausette de Noel #
+entity.nationsglory:postbox_cylinder_blue.name=Boîte aux lettres §7§oen fer
+
+item.nationsglory:divinghelmet.name=§4Casque de plongée	#
+item.nationsglory:postbox_cylinder_blue.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_cylinder_green.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_cylinder_green.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_cylinder_red.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_cylinder_red.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_cylinder_yellow.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_cylinder_yellow.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_house_iron_blue.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_house_iron_blue.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_house_iron_green.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_house_iron_green.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_house_iron_red.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_house_iron_red.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_house_iron_yellow.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_house_iron_yellow.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_metal_blue.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_metal_blue.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_metal_green.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_metal_green.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_metal_red.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_metal_red.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_metal_yellow.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_metal_yellow.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_simple_iron_blue.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_simple_iron_blue.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_simple_iron_green.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_simple_iron_green.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_simple_iron_red.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_simple_iron_red.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_simple_iron_yellow.name=Boîte aux lettres §7§oen fer
+item.nationsglory:postbox_simple_iron_yellow.name=Boîte aux lettres §7§oen fer
+
+entity.nationsglory:postbox_cylinder_oak_blue.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_cylinder_oak_blue.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_cylinder_oak_green.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_cylinder_oak_green.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_cylinder_oak_red.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_cylinder_oak_red.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_cylinder_oak_yellow.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_cylinder_oak_yellow.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_house_oak_blue.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_house_oak_blue.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_house_oak_green.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_house_oak_green.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_house_oak_red.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_house_oak_red.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_house_oak_yellow.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_house_oak_yellow.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_metal_oak_blue.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_metal_oak_blue.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_metal_oak_green.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_metal_oak_green.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_metal_oak_red.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_metal_oak_red.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_metal_oak_yellow.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_metal_oak_yellow.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_simple_oak_blue.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_simple_oak_blue.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_simple_oak_green.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_simple_oak_green.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_simple_oak_red.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_simple_oak_red.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_simple_oak_yellow.name=Boîte aux lettres §7§oen chêne
+item.nationsglory:postbox_simple_oak_yellow.name=Boîte aux lettres §7§oen chêne
+
+entity.nationsglory:postbox_cylinder_spruce_blue.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_cylinder_spruce_blue.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_cylinder_spruce_green.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_cylinder_spruce_green.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_cylinder_spruce_red.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_cylinder_spruce_red.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_cylinder_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_cylinder_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_house_spruce_blue.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_house_spruce_blue.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_house_spruce_green.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_house_spruce_green.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_house_spruce_red.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_house_spruce_red.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_house_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_house_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_metal_spruce_blue.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_metal_spruce_blue.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_metal_spruce_green.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_metal_spruce_green.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_metal_spruce_red.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_metal_spruce_red.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_metal_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_metal_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_simple_spruce_blue.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_simple_spruce_blue.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_simple_spruce_green.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_simple_spruce_green.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_simple_spruce_red.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_simple_spruce_red.name=Boîte aux lettres §7§oen sapin
+
+entity.nationsglory:postbox_simple_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:postbox_simple_spruce_yellow.name=Boîte aux lettres §7§oen sapin
+item.nationsglory:frost_knight_boots.name=Bottes Guerrier de Glace  #
+item.nationsglory:frost_knight_chestplate.name=Torse Guerrier de Glace  #
+item.nationsglory:frost_knight_leggings.name=Jambières Guerrier de Glace    #
+item.nationsglory:frost_knight_helmet.name=Casque Guerrier de Glace #
+item.nationsglory:frost_knight_axe.name=Hache Guerrier de Glace #
+item.nationsglory:apocalypse_helmet.name=Casque Apocalispe	#
+item.nationsglory:apocalypse_chestplate.name=Plastron Apocalispe	#
+item.nationsglory:apocalypse_leggings.name=Jambières Apocalispe	#
+item.nationsglory:apocalypse_boots.name=Bottes Apocalispe	#
+item.nationsglory:spice.name=épice	#
+item.nationsglory:spice_rare.name=épice rare	#
+item.nationsglory:beer.name=bière	#
+item.nationsglory:bonbonblanc.name=Bonbon blanc	#
+item.nationsglory:bonbonbleu.name=Bonbon bleu	#
+item.nationsglory:bonbonjaune.name=Bonbon jaune	#
+item.nationsglory:bonbonnoir.name=Bonbon noir	#
+item.nationsglory:bonbonorange.name=Bonbon orange	#
+item.nationsglory:bonbonrose.name=Bonbon rose	#
+item.nationsglory:can.name=canette	#
+item.nationsglory:beer_mug.name=Chope à bière	#
+item.nationsglory:dried_kelp.name=Algue séchée	#
+item.nationsglory:magmarock.name=Pierre de magma	#
+item.nationsglory:ng_icon.name=Icon NG	#
+item.nationsglory:pufferfish.name=Poisson globe	#
+item.nationsglory:pineapple.name=Ananas	#
+item.nationsglory:yellow_apple.name=Pomme	#
+item.nationsglory:green_apple.name=Pomme	#
+item.nationsglory:red_apple.name=Pomme	#
+item.nationsglory:yellow_candy.name=Pomme	#
+item.nationsglory:rotten_apple.name=Pomme putréfié	#
+item.nationsglory:bananas.name=Bananes	#
+item.nationsglory:banana.name=Banane	#
+item.nationsglory:beach_ball.name=Ballon de plage	#
+item.nationsglory:empty_bottle.name=Bouteille vide	#
+item.nationsglory:blue_bottle.name=Bouteille bleue	#
+item.nationsglory:red_bottle.name=Boutille rouge	#
+item.nationsglory:purple_bottle.name=Bouteille violette	#
+item.nationsglory:green_bottle.name=Bouteille verte	#
+item.nationsglory:blue_bucket.name=Sceau de plage	#
+item.nationsglory:green_bucket.name=Sceau de plage	#
+item.nationsglory:red_bucket.name=Sceau de plage	#
+item.nationsglory:casserole.name=Casserole	#
+item.nationsglory:cherries.name=Cerises	#
+
+
+tile.nationsglory:frame_1_1.name=Affiche  1, 1 	#
+tile.nationsglory:frame_1_2.name=Affiche ( 1, 2 )	#
+tile.nationsglory:frame_1_3.name=Affiche ( 1, 3 )	#
+tile.nationsglory:frame_1_4.name=Affiche ( 1, 4 )	#
+tile.nationsglory:frame_1_5.name=Affiche ( 1, 5 )	#
+tile.nationsglory:frame_1_6.name=Affiche ( 1, 6 )	#
+tile.nationsglory:frame_1_7.name=Affiche ( 1, 7 )	#
+tile.nationsglory:frame_2_1.name=Affiche ( 2, 1 )	#
+tile.nationsglory:frame_2_2.name=Affiche ( 2, 2 )	#
+tile.nationsglory:frame_2_3.name=Affiche ( 2, 3 )	#
+tile.nationsglory:frame_2_4.name=Affiche ( 2, 4 )	#
+tile.nationsglory:frame_2_5.name=Affiche ( 2, 5 )	#
+tile.nationsglory:frame_2_6.name=Affiche ( 2, 6 )	#
+tile.nationsglory:frame_2_7.name=Affiche ( 2, 7 )	#
+tile.nationsglory:frame_3_1.name=Affiche ( 3, 1 )	#
+tile.nationsglory:frame_3_2.name=Affiche ( 3, 2 )	#
+tile.nationsglory:frame_3_3.name=Affiche ( 3, 3 )	#
+tile.nationsglory:frame_3_4.name=Affiche ( 3, 4 )	#
+tile.nationsglory:frame_3_5.name=Affiche ( 3, 5 )	#
+tile.nationsglory:frame_3_6.name=Affiche ( 3, 6 )	#
+tile.nationsglory:frame_3_7.name=Affiche ( 3, 7 )	#
+tile.nationsglory:frame_4_1.name=Affiche ( 4, 1 )	#
+tile.nationsglory:frame_4_2.name=Affiche ( 4, 2 )	#
+tile.nationsglory:frame_4_3.name=Affiche ( 4, 3 )	#
+tile.nationsglory:frame_4_4.name=Affiche ( 4, 4 )	#
+tile.nationsglory:frame_4_5.name=Affiche ( 4, 5 )	#
+tile.nationsglory:frame_4_6.name=Affiche ( 4, 6 )	#
+tile.nationsglory:frame_4_7.name=Affiche ( 4, 7 )	#
+
+item.nationsglory:staff_coin_0.name=Pièce sigma	#
+item.nationsglory:staff_coin_1.name=Pièce blue	#
+item.nationsglory:staff_coin_2.name=Pièce coral	#
+item.nationsglory:staff_coin_3.name=Pièce cyan	#
+item.nationsglory:staff_coin_4.name=Pièce gamma	#
+item.nationsglory:staff_coin_5.name=Pièce lime	#
+item.nationsglory:staff_coin_6.name=Pièce orange	#
+item.nationsglory:staff_coin_7.name=Pièce pink	#
+item.nationsglory:staff_coin_8.name=Pièce purple	#
+item.nationsglory:staff_coin_9.name=Pièce alpha	#
+item.nationsglory:staff_coin_10.name=Pièce omega	#
+item.nationsglory:staff_coin_11.name=Pièce delta	#
+item.nationsglory:staff_coin_12.name=Pièce epsilon	#
+item.nationsglory:staff_dish_0.name=Plat en sauce	#
+item.nationsglory:staff_dish_1.name=Plat en sauce	#
+item.nationsglory:staff_dish_2.name=Plat en sauce	#
+item.nationsglory:staff_dish_3.name=Plat en sauce	#
+item.nationsglory:salmon.name=Saumon	#
+item.nationsglory:staff_flipflops.name=Tongs	#
+item.nationsglory:staff_fried_eggs.name=Oeuf au plat	#
+item.nationsglory:staff_grapes_0.name=Raisin	#
+item.nationsglory:staff_grapes_1.name=Raisin	#
+item.nationsglory:staff_icecream_0.name=Crème glacée	#
+item.nationsglory:staff_icecream_1.name=Crème glacée	#
+item.nationsglory:staff_icecream_2.name=Crème glacée	#
+item.nationsglory:staff_lemon_0.name=Citron	#
+item.nationsglory:staff_lemon_1.name=Citron	#
+item.nationsglory:staff_lifebelt.name=Bouée de sauvetage	#
+item.nationsglory:staff_mag.name=Loupe	#
+item.nationsglory:staff_orange_0.name=Orange	#
+item.nationsglory:staff_orange_1.name=Orange putréfié	#
+item.nationsglory:staff_paper_0.name=Papier sigma	#
+item.nationsglory:staff_paper_1.name=Papier blue	#
+item.nationsglory:staff_paper_2.name=Papier coral	#
+item.nationsglory:staff_paper_3.name=Papier cyan	#
+item.nationsglory:staff_paper_4.name=Papier gamma	#
+item.nationsglory:staff_paper_5.name=Papier lime	#
+item.nationsglory:staff_paper_6.name=Papier orange	#
+item.nationsglory:staff_paper_7.name=Papier pink	#
+item.nationsglory:staff_paper_8.name=Papier purple	#
+item.nationsglory:staff_paper_9.name=Papier alpha	#
+item.nationsglory:staff_paper_10.name=Papier omega	#
+item.nationsglory:staff_paper_11.name=Papier delta	#
+item.nationsglory:staff_paper_12.name=Papier ruby	#
+item.nationsglory:staff_paper_13.name=Papier epsilon	#
+item.nationsglory:staff_pear_0.name=Poire	#
+item.nationsglory:staff_pear_1.name=Poire putréfié	#
+item.nationsglory:staff_pearl_bracelet.name=Collier de perles	#
+item.nationsglory:staff_pizza_slice.name=Part de pizza	#
+item.nationsglory:staff_pumpkin.name=Citrouille	#
+item.nationsglory:staff_rubber_ring_0.name=Bouée	#
+item.nationsglory:staff_rubber_ring_1.name=Bouée	#
+item.nationsglory:staff_shell_0.name=Coquillage	#
+item.nationsglory:staff_shell_1.name=Coquillage	#
+item.nationsglory:staff_skewer.name=Brochette	#
+item.nationsglory:staff_skewer_peppers.name=Brochette	#
+item.nationsglory:staff_snorkeling_mask.name=Masque de plongée	#
+item.nationsglory:staff_spatula_0.name=Spatule	#
+item.nationsglory:staff_spatula_1.name=Spatule	#
+item.nationsglory:staff_starfish.name=Etoile de mer	#
+item.nationsglory:staff_strawberry_0.name=Fraise	#
+item.nationsglory:staff_strawberry_1.name=Fraise putréfié	#
+item.nationsglory:staff_sunscreen.name=Crème solaire	#
+item.nationsglory:staff_sushi_0.name=Maki	#
+item.nationsglory:staff_sushi_1.name=Nigiri	#
+item.nationsglory:staff_watergun_0.name=Pistolet à eau	#
+item.nationsglory:staff_watergun_1.name=Pistolet à eau	#
+item.nationsglory:staff_crystal_0.name=Crystal rose	#
+item.nationsglory:staff_crystal_1.name=Crystal bleu	#
+item.nationsglory:staff_crystal_2.name=Crystal blanc	#
+item.nationsglory:staff_crystal_3.name=Crystal vert	#
+item.nationsglory:staff_crystal_4.name=Crystal jaune	#
+item.nationsglory:staff_crystal_5.name=Crystal rouge	#
+item.nationsglory:staff_crystal_6.name=Crystal orange	#
+item.nationsglory:staff_extractmineral_0.name=Fragment orange	#
+item.nationsglory:staff_extractmineral_1.name=Fragment noir	#
+item.nationsglory:staff_extractmineral_2.name=Fragment bleu	#
+item.nationsglory:staff_extractmineral_3.name=Fragment cyan	#
+item.nationsglory:staff_extractmineral_4.name=Fragment blanc	#
+item.nationsglory:staff_extractmineral_5.name=Fragment vert	#
+item.nationsglory:staff_extractmineral_6.name=Fragment jaune	#
+item.nationsglory:staff_extractmineral_7.name=Fragment violet	#
+item.nationsglory:staff_extractmineral_8.name=Fragment rouge	#
+item.nationsglory:staff_gem_0.name=Gemme noire	#
+item.nationsglory:staff_gem_1.name=Gemme bleue	#
+item.nationsglory:staff_gem_2.name=Gemme verte	#
+item.nationsglory:staff_gem_3.name=Gemme lime	#
+item.nationsglory:staff_gem_4.name=Gemme cyan	#
+item.nationsglory:staff_gem_5.name=Gemme orange	#
+item.nationsglory:staff_gem_6.name=Gemme rose	#
+item.nationsglory:staff_gem_7.name=Gemme violette	#
+item.nationsglory:staff_gem_8.name=Gemme rouge	#
+item.nationsglory:staff_gem_9.name=Gemme blanche	#
+item.nationsglory:staff_gem_10.name=Gemme jaune	#
+item.nationsglory:staff_ingot_0.name=Lingot orange	#
+item.nationsglory:staff_ingot_1.name=Lingot noir	#
+item.nationsglory:staff_ingot_2.name=Lingot gris	#
+item.nationsglory:staff_ingot_3.name=Lingot jaune	#
+item.nationsglory:staff_rawmineral_0.name=Minerai brut orange	#
+item.nationsglory:staff_rawmineral_1.name=Minerai brut noir	#
+item.nationsglory:staff_rawmineral_2.name=Minerai brut bleu	#
+item.nationsglory:staff_rawmineral_3.name=Minerai brut cyan	#
+item.nationsglory:staff_rawmineral_4.name=Minerai brut blanc	#
+item.nationsglory:staff_rawmineral_5.name=Minerai brut vert	#
+item.nationsglory:staff_rawmineral_6.name=Minerai brut jaune	#
+item.nationsglory:staff_rawmineral_7.name=Minerai brut violet	#
+item.nationsglory:staff_rawmineral_8.name=Minerai brut rouge	#
+item.nationsglory:staff_stone_0.name=Pierre noire	#
+item.nationsglory:staff_stone_1.name=Pierre grise	#
+item.nationsglory:staff_stone_2.name=Pierre noire 2	#
+item.nationsglory:staff_whistle.name=Sifflet	#
+item.nationsglory:volcanite_ingot.name=Lingot de Volcanite	  #
+item.nationsglory:volcanite_stick.name=Bâton de Volcanite	  #
+item.nationsglory:volcanite_sword.name=Epée Volcanite	#
+item.nationsglory:volcanite_axe.name=Hache Volcanite	#
+item.nationsglory:volcanite_shovel.name=Pelle Volcanite	#
+item.nationsglory:volcanite_hoe.name=Faux volcanite	#
+item.nationsglory:volcanite_pickaxe.name=Pioche volcanite	#
+item.nationsglory:volcanite_helmet.name=Casque Volcanite	#
+item.nationsglory:volcanite_chestplate.name=Plastron Volcanite	#
+item.nationsglory:volcanite_leggings.name=Jambières Volcanite	#
+item.nationsglory:volcanite_boots.name=Bottes Volcanite	#
+item.nationsglory:staff_bone_1.name=Os	#
+item.nationsglory:staff_bone_2.name=Os	#
+item.nationsglory:staff_brain_1.name=Cerveau	#
+item.nationsglory:staff_brain_2.name=Cerveau	#
+item.nationsglory:staff_candy_1.name=Bonbon bleu	#
+item.nationsglory:staff_candy_2.name=Bonbon vert	#
+item.nationsglory:staff_candy_3.name=Bonbon orange	#
+item.nationsglory:staff_candy_4.name=Bonbon rouge	#
+item.nationsglory:staff_candy_5.name=Bonbon jaune	#
+item.nationsglory:staff_candycauldron.name=Chaudron de bonbons	#
+item.nationsglory:staff_cauldron.name=Chaudron	#
+item.nationsglory:staff_cursed_skull_0.name=Crâne maudit	#
+item.nationsglory:staff_cursed_skull_1.name=Crâne maudit	#
+item.nationsglory:staff_cursed_skull_2.name=Crâne maudit	#
+item.nationsglory:staff_cursed_skull_3.name=Crâne maudit	#
+item.nationsglory:staff_cursed_skull_4.name=Crâne maudit	#
+item.nationsglory:staff_cursed_skull_5.name=Crâne maudit	#
+item.nationsglory:staff_eye_human.name=Oeil humain	#
+item.nationsglory:staff_eye_monster.name=Oeil de monstre	#
+item.nationsglory:staff_eye_zombie.name=Oeil de zombie	#
+item.nationsglory:staff_ghost.name=Fantôme	#
+item.nationsglory:staff_hall_bucket.name=Sceau citrouille	#
+item.nationsglory:staff_hall_pumpkin.name=Citrouille	#
+item.nationsglory:staff_hand_human.name=Main humaine	#
+item.nationsglory:staff_hand_monster.name=Main de monstre	#
+item.nationsglory:staff_hand_zombie.name=Main de zombie	#
+item.nationsglory:staff_magiccauldron_1.name=Chaudron magique	#
+item.nationsglory:staff_magiccauldron_2.name=Chaudron magique	#
+item.nationsglory:staff_magiccauldron_3.name=Chaudron magique	#
+item.nationsglory:staff_magicwand_1.name=Baguette magique	#
+item.nationsglory:staff_magicwand_2.name=Baguette magique	#
+item.nationsglory:staff_pentagram.name=Pentagramme	#
+item.nationsglory:staff_soul_1.name=Âme	#
+item.nationsglory:staff_soul_2.name=Âme	#
+item.nationsglory:staff_soul_3.name=Âme	#
+item.nationsglory:staff_soul_4.name=Âme	#
+item.nationsglory:staff_soul_5.name=Âme	#
+item.nationsglory:staff_witchhat.name=Chapeau de sorcière	#
+item.nationsglory:lootbox_frozen_legendary.name=§4Lootbox légendaire de Noël	#
+item.nationsglory:desh_boots.name=Bottes Desh	#
+item.nationsglory:desh_chestplate.name=Plastron Desh	#
+item.nationsglory:desh_helmet.name=Casque Desh	#
+item.nationsglory:desh_leggings.name=Jambières Desh	#
+item.nationsglory:onyx_boots.name=Bottes Onyx	#
+item.nationsglory:onyx_chestplate.name=Plastron Onyx	#
+item.nationsglory:onyx_helmet.name=Casque Onyx	#
+item.nationsglory:onyx_leggings.name=Jambières Onyx	#
+item.nationsglory:solidtech_boots.name=Bottes SolidTech	#
+item.nationsglory:solidtech_chestplate.name=Plastron SolidTech	#
+item.nationsglory:solidtech_helmet.name=Casque SolidTech	#
+item.nationsglory:solidtech_leggings.name=Jambières SolidTech	#
+item.nationsglory:prototype_boots.name=Bottes Prototype	#
+item.nationsglory:prototype_chestplate.name=Plastron Prototype	#
+item.nationsglory:prototype_helmet.name=Casque Prototype	#
+item.nationsglory:prototype_leggings.name=Jambières Prototype	#
+item.nationsglory:speed_leggings.name=Speed Leggings	#
+
+tile.nationsglory:dry_stone.name=Pierre Sèche
+tile.nationsglory:clean_dry_stone.name=Pierre Sèche
+tile.nationsglory:pebbled_dirt.name=Terre Caillouteuse
+tile.nationsglory:grassy_dirt.name=Terre Herbeuse
+tile.nationsglory:weed_bush.name=Mauvaise Herbe
+tile.nationsglory:swamp_grass.name=Herbe des marais
+tile.nationsglory:dark_grass.name=Herbe sombre
+tile.nationsglory:jungle_grass.name=Herbe de la jungle
+tile.nationsglory:grass_1.name=Herbes
+tile.nationsglory:jungle_grass_rocky.name=Herbe de jungle rocailleuse
+tile.nationsglory:white_granite.name=Granite Blanc
+tile.nationsglory:white_granite_sculpted.name=Pierre Sculptée de Granite Blanc
+tile.nationsglory:white_granite_cracked.name=Roche Craquelée de Granite Blanc
+tile.nationsglory:white_granite_square.name=Pierre Carrée de Granite Blanc
+tile.nationsglory:white_granite_cobble.name=Pierres de Granite Blanc
+tile.nationsglory:dry_stone_2.name=Pierre Sèche
+tile.nationsglory:jungle_grass_rocky_2.name=Herbe Jungle Caillouteuse
+tile.nationsglory:swamp_grass_rocky.name=Herbe des marais Caillouteuse
+tile.nationsglory:dark_grass_rocky.name=Herbe sombre Caillouteuse
+tile.nationsglory:lumiere_delta.name=Lumiere delta
+tile.nationsglory:blackstone_1.name=Roche noire
+tile.nationsglory:blackstone_2.name=Roche noire
+tile.nationsglory:blackstone_squared.name=Pierre carrée de Roche noire
+tile.nationsglory:blackstone_sculpted.name=Pierre Sculptée de Roche Noire
+tile.nationsglory:blackstone_3.name=Roche Noire
+tile.nationsglory:garden_fences.name=Barrieres de jardin
+tile.nationsglory:bush.name=Buisson
+tile.nationsglory:defense_barricade.name=Barricade de Défense
+tile.nationsglory:caisse_warzone.name=Caisse Warzone
+item.nationsglory:jump_boots.name=Jump Boots	#
+item.nationsglory:magic_boots.name=Magic Boots	#
+item.nationsglory:adamentium_boots.name=Bottes Adamentium	#
+item.nationsglory:adamentium_chestplate.name=Plastron Adamentium	#
+item.nationsglory:adamentium_helmet.name=Casque Adamentium	#
+item.nationsglory:adamentium_leggings.name=Jambières Adamentium	#
+item.nationsglory:demonic_sword.name=§5Epée Demonic	#
+item.nationsglory:white_spartan_sword.name=§bEpée Spartan	#
+item.nationsglory:white_spartan_shield.name=§bBouclier Spartan	#
+item.nationsglory:onyx_sword.name=Epée Onyx	#
+item.nationsglory:onyx_pickaxe.name=Pioche Onyx	#
+item.nationsglory:onyx_shovel.name=Pelle Onyx	#
+item.nationsglory:onyx_axe.name=Hache Onyx	#
+item.nationsglory:onyx_hoe.name=Houe Onyx	#
+item.nationsglory:battery.name=Accumulateur	#
+item.nationsglory:megalodon_sword.name=§2Epée Megalodon	#
+item.nationsglory:bag.name=Sac à dos	#
+item.nationsglory:jerrican.name=Jerrican	#
+item.nationsglory:money.name=Billet	#
+item.nationsglory:tiber_circuit.name=Tiber Circuit	#
+item.nationsglory:tiber_compressed.name=Tiber Compressé	#
+item.nationsglory:key.name=Clée	#
+item.nationsglory:blueprint.name=Plan	#
+item.nationsglory:eco_ingot.name=Lingot d'Eco	#
+item.nationsglory:eco_compressed.name=Eco compressé	#
+item.nationsglory:eco_plate.name=Plaque Eco	#
+item.nationsglory:copper_plate.name=Plaque de cuivre	#
+item.nationsglory:eco_item.name=Eco brut	#
+item.nationsglory:electric_collector.name=Collecteur Electrique	#
+item.nationsglory:electric_meter.name=Compteur Electrique	#
+item.nationsglory:upgrade_radius.name=Circuit d'amélioration	#
+item.nationsglory:upgrade_automation.name=Circuit d'amélioration	#
+item.nationsglory:upgrade_durability.name=Circuit d'amélioration	#
+item.nationsglory:upgrade_productivity.name=Circuit d'amélioration	#
+item.nationsglory:liquid_tank.name=Citerne	#
+item.nationsglory:pumping_jack.name=Pétrolier	#
+item.nationsglory:refinery.name=Rafinerie	#
+item.nationsglory:ecotron.name=Ecotron	#
+item.nationsglory:anti_aircraft_turret.name=Tourelle Anti Aérienne	#
+item.nationsglory:eco_helmet.name=Casque Eco	#
+item.nationsglory:eco_chestplate.name=Plastron Eco	#
+item.nationsglory:eco_leggings.name=Jambières Eco	#
+item.nationsglory:eco_boots.name=Bottes Eco	#
+item.nationsglory:eco_sword.name=Epee Eco	#
+item.nationsglory:eco_pickaxe.name=Pioche Eco	#
+item.nationsglory:eco_shovel.name=Pelle Eco	#
+item.nationsglory:eco_axe.name=Hache Eco	#
+item.nationsglory:eco_hoe.name=Houe Eco	#
+item.nationsglory:holy_helmet.name=Casque Saint	#
+item.nationsglory:holy_chestplate.name=Plastron Saint	#
+item.nationsglory:holy_leggings.name=Jambières Saint	#
+item.nationsglory:holy_boots.name=Bottes Saint	#
+item.nationsglory:mad_chemist_helmet.name=Casque Scientifique Fou	#
+item.nationsglory:mad_chemist_chestplate.name=Plastron Scientifique Fou	#
+item.nationsglory:mad_chemist_leggings.name=Jambières Scientifique Fou	#
+item.nationsglory:mad_chemist_boots.name=Bottes Scientifique Fou	#
+item.nationsglory:necromantine_helmet.name=Casque Necromantien	#
+item.nationsglory:necromantine_chestplate.name=Plastron Necromantien	#
+item.nationsglory:necromantine_leggings.name=Jambières Necromantien	#
+item.nationsglory:necromantine_boots.name=Bottes Necromantien	#
+item.nationsglory:ninja_helmet.name=Casque Ninja	#
+item.nationsglory:ninja_chestplate.name=Plastron Ninja	#
+item.nationsglory:ninja_leggings.name=Jambières Ninja	#
+item.nationsglory:ninja_boots.name=Bottes Ninja	#
+item.nationsglory:pirate_helmet.name=Casque Pirate	#
+item.nationsglory:pirate_chestplate.name=Plastron Pirate	#
+item.nationsglory:pirate_leggings.name=Jambières Pirate	#
+item.nationsglory:pirate_boots.name=Bottes Pirate	#
+item.nationsglory:raider_helmet.name=Casque Raider	#
+item.nationsglory:raider_chestplate.name=Plastron Raider	#
+item.nationsglory:raider_leggings.name=Jambières Raider	#
+item.nationsglory:raider_boots.name=Bottes Raider	#
+item.nationsglory:templar_helmet.name=Casque Templier	#
+item.nationsglory:templar_chestplate.name=Plastron Templier	#
+item.nationsglory:templar_leggings.name=Jambières Templier	#
+item.nationsglory:templar_boots.name=Bottes Templier	#
+item.nationsglory:shadowassassin_helmet.name=Casque Assassin de l'Ombre	#
+item.nationsglory:shadowassassin_chestplate.name=Plastron Assassin de l'Ombre	#
+item.nationsglory:shadowassassin_leggings.name=Jambières Assassin de l'Ombre	#
+item.nationsglory:shadowassassin_boots.name=Bottes Assassin de l'Ombre	#
+item.nationsglory:corsaire_helmet.name=Casque Corsaire	#
+item.nationsglory:corsaire_chestplate.name=Plastron Corsaire	#
+item.nationsglory:corsaire_leggings.name=Jambières Corsaire	#
+item.nationsglory:corsaire_boots.name=Bottes Corsaire	#
+item.nationsglory:crown.name=Couronne	#
+item.nationsglory:holy_sword.name=Epée Sainte	#
+item.nationsglory:katana.name=Katana	#
+item.nationsglory:necromantine_sword.name=Epée Necromantien	#
+item.nationsglory:air_element.name=Element Air	#
+item.nationsglory:amethyst.name=Amethyst	#
+item.nationsglory:ancien_coin.name=Pièce Ancienne	#
+item.nationsglory:ancien_scroll.name=Parchemin Ancien	#
+item.nationsglory:arcane_spell.name=Sort Arcanes	#
+item.nationsglory:artifact.name=Artefact	#
+item.nationsglory:baseball.name=Batte de Baseball	#
+item.nationsglory:batton.name=Tonfa	#
+item.nationsglory:bo_staff.name=Bo Staff	#
+item.nationsglory:broken_orb.name=Orbe Cassée	#
+item.nationsglory:bronze_staff.name=Crosse Bronze	#
+item.nationsglory:chicken_sword.name=Epée Poulet	#
+item.nationsglory:clarinet.name=Clarinette	#
+item.nationsglory:bronze_coin.name=Pièce Bronze	#
+item.nationsglory:diamond_coin.name=Pièce Diamant	#
+item.nationsglory:emerald_coin.name=Pièce Emeraude	#
+item.nationsglory:gold_coin.name=Pièce Or	#
+item.nationsglory:iron_coin.name=Pièce Fer	#
+item.nationsglory:stone_coin.name=Pièce Pierre	#
+item.nationsglory:wood_coin.name=Pièce Bois	#
+item.nationsglory:combat_knife.name=Couteau de Combat	#
+item.nationsglory:crowbar.name=Pieds de Biche	#
+item.nationsglory:demonic_staff.name=Crosse Démoniaque	#
+item.nationsglory:diamond_staff.name=Crosse Diamant	#
+item.nationsglory:earth_element.name=Element Terre	#
+item.nationsglory:emerald_staff.name=Crosse Emeraude	#
+item.nationsglory:excalibur.name=Excalibur	#
+item.nationsglory:fire_element.name=Element Feu	#
+item.nationsglory:fire_spell.name=Sort Feu	#
+item.nationsglory:gold_staff.name=Crosse Or	#
+item.nationsglory:gun_chainsow.name=Epée Tronconneuse	#
+item.nationsglory:hammer.name=Marteau	#
+item.nationsglory:handcuffs.name=Menottes	#
+item.nationsglory:heart.name=Coeur	#
+item.nationsglory:holy_spell.name=Sort Saint	#
+item.nationsglory:ice_spell.name=Sort Glace	#
+item.nationsglory:kunai.name=Kunai	#
+item.nationsglory:pipe.name=Tuyau	#
+item.nationsglory:leaf_blade.name=Epée Feuille	#
+item.nationsglory:letter.name=Lettre	#
+item.nationsglory:lighter.name=Briquet	#
+item.nationsglory:lightning_spell.name=Sort Foudre	#
+item.nationsglory:locket.name=Bracelet	#
+item.nationsglory:macuahuitl.name=Macuahuitl	#
+item.nationsglory:magic_wand.name=Baguette Magique	#
+item.nationsglory:mithril_staff.name=Crosse Mithril	#
+item.nationsglory:nature_spell.name=Sort Nature	#
+item.nationsglory:necklace.name=Collier	#
+item.nationsglory:ocarina.name=Ocarina	#
+item.nationsglory:orb.name=Orbe	#
+item.nationsglory:pendant.name=Pendantif	#
+item.nationsglory:phone.name=Smartphone	#
+item.nationsglory:plans.name=Plans	#
+item.nationsglory:rapier.name=Rapière	#
+item.nationsglory:ring.name=Anneau	#
+item.nationsglory:ruby.name=§4§lRuby	#
+item.nationsglory:saber.name=Sabre	#
+item.nationsglory:sai_blade.name=Sai	#
+item.nationsglory:saphire.name=Saphire	#
+item.nationsglory:satchel.name=Sacoche	#
+item.nationsglory:ear.name=Oreille	#
+item.nationsglory:silk.name=Soie	#
+item.nationsglory:skull.name=Crane	#
+item.nationsglory:sledgehammer.name=Masse de Destruction	#
+item.nationsglory:stone_staff.name=Crosse Pierre	#
+item.nationsglory:swiss_knife.name=Couteau Suisse	#
+item.nationsglory:tablet.name=Tablette	#
+item.nationsglory:usb.name=Clée USB	#
+item.nationsglory:water_element.name=Element Eau	#
+item.nationsglory:wood_staff.name=Crosse Bois	#
+item.nationsglory:wrench.name=§6Outil staff	#
+item.nationsglory:desh_stick.name=Baton Desh	#
+item.nationsglory:anti_ballistic_missile.name=Missile Anti-Ballistic	#
+item.nationsglory:coalgenerator.name=Generateur à Charbon	#
+item.nationsglory:electriccompressor.name=Compresseur Electrique	#
+item.nationsglory:steel_compressed.name=Steel Compressé	#
+item.nationsglory:steel_dust.name=Poudre Steel	#
+item.nationsglory:steel_ingot.name=Lingot Steel	#
+item.nationsglory:fuelloader.name=Chargeur de Fuel	#
+item.nationsglory:advanced_circuit.name=Circuit Avancé	#
+item.nationsglory:elite_circuit.name=Circuit Elite	#
+item.nationsglory:gallium_circuit.name=Circuit Gallium	#
+item.nationsglory:magnesium_compressed.name=Magnesium Compressé	#
+item.nationsglory:niobium_compressed.name=Niobium Compressé	#
+item.nationsglory:server_choose.name=§bServeurs	#
+tile.nationsglory:reinforced_concrete.name=Reinforced Concrete	#
+tile.nationsglory:volcanite.name=Volcanite	#
+tile.nationsglory:terracotta_shingles_gray.name=Terracotta Shingles Gray	#
+tile.nationsglory:terracotta_shingles_green.name=Terracotta Shingles Green	#
+tile.nationsglory:terracotta_shingles_light_blue.name=Terracotta Shingles Light Blue	#
+tile.nationsglory:terracotta_shingles_light_gray.name=Terracotta Shingles Light Gray	#
+tile.nationsglory:terracotta_shingles_lime.name=Terracotta Shingles Lime	#
+tile.nationsglory:terracotta_shingles_magenta.name=Terracotta Shingles Magenta	#
+tile.nationsglory:terracotta_shingles_orange.name=Terracotta Shingles Orange	#
+tile.nationsglory:terracotta_shingles_pink.name=Terracotta Shingles Pink	#
+tile.nationsglory:terracotta_shingles_purple.name=Terracotta Shingles Purple	#
+tile.nationsglory:terracotta_shingles_red.name=Terracotta Shingles Red	#
+tile.nationsglory:terracotta_shingles_white.name=Terracotta Shingles White	#
+tile.nationsglory:terracotta_shingles_yellow.name=Terracotta Shingles Yellow	#
+tile.nationsglory:tiles_large.name=Tiles Large	#
+tile.nationsglory:tiles_medium.name=Tiles Medium	#
+tile.nationsglory:tiles_small.name=Tiles Small	#
+tile.nationsglory:twisted.name=Twisted	#
+tile.nationsglory:bench_butcher.name=Bench Butcher	#
+tile.nationsglory:braid.name=Braid	#
+tile.nationsglory:brick_orange_small_top_ornate.name=Brick Orange Ornate	#
+tile.nationsglory:bricks_cracked.name=Brick Cracked	#
+tile.nationsglory:bricks_encased.name=Brick Encased	#
+tile.nationsglory:bricks_small.name=Brick Small	#
+tile.nationsglory:bricks_soft.name=Brick Soft	#
+tile.nationsglory:bricks_soft_cracked.name=Brick Soft Cracked	#
+tile.nationsglory:bricks_solid.name=Brick Solid	#
+tile.nationsglory:bricks_triple.name=Brick Triple	#
+tile.nationsglory:chaotic_medium.name=Chaoctic Medium	#
+tile.nationsglory:chaotic_small.name=Chaoctic Small	#
+tile.nationsglory:circular.name=Circular	#
+tile.nationsglory:clear_screen.name=Clear Screen	#
+tile.nationsglory:cobalt_dots.name=Cobalt Dots	#
+tile.nationsglory:cobalt_scaffold.name=Cobalt Scaffold	#
+tile.nationsglory:cooper_block_2.name=Copper Block	#
+tile.nationsglory:cooper_block_3.name=Copper Block	#
+tile.nationsglory:cooper_block_4.name=Copper Block	#
+tile.nationsglory:cracked.name=Cracked	#
+tile.nationsglory:crate_3old.name=Crate	#
+tile.nationsglory:cut_gold.name=Cut Gold	#
+tile.nationsglory:cut_iron.name=Cut Iron	#
+tile.nationsglory:dent.name=Dent	#
+tile.nationsglory:french_1.name=French	#
+tile.nationsglory:french_2.name=French	#
+tile.nationsglory:gold_block_2.name=Gold Block	#
+tile.nationsglory:gold_block_3.name=Gold Block	#
+tile.nationsglory:gold_block_4.name=Gold Block	#
+tile.nationsglory:gold_block_scaffold.name=Gold Scaffold	#
+tile.nationsglory:gold_block_5.name=Gold Block	#
+tile.nationsglory:hazardgray.name=Hazard Block	#
+tile.nationsglory:hazardorange.name=Hazard Block	#
+tile.nationsglory:hazardred.name=Hazard Block	#
+tile.nationsglory:hazardyellow.name=Hazard Block	#
+tile.nationsglory:iron_block_2.name=Iron Block	#
+tile.nationsglory:iron_block_3.name=Iron Block	#
+tile.nationsglory:iron_block_4.name=Iron Block	#
+tile.nationsglory:jungle_stone.name=Jungle Stone	#
+tile.nationsglory:keystone_nether_brick.name=Nether Bricks	#
+tile.nationsglory:lab_large_steel_side.name=Large Steel	#
+tile.nationsglory:lab_small_steel_side.name=Small Steel	#
+tile.nationsglory:metal_3.name=Metal	#
+tile.nationsglory:metal_4.name=Metal	#
+tile.nationsglory:metal_5.name=Metal	#
+tile.nationsglory:metal_6.name=Metal	#
+tile.nationsglory:metal_dots.name=Metal Dots	#
+tile.nationsglory:metal_scaffold.name=Metal Scaffold	#
+tile.nationsglory:mosaic.name=Mosaic	#
+tile.nationsglory:ornate.name=Ornate	#
+tile.nationsglory:panel.name=Panel	#
+tile.nationsglory:plank_eucalyptus.name=plank_eucalyptus	#
+tile.nationsglory:planks_black_mapple.name=Planks Black Mapple	#
+tile.nationsglory:prism.name=Prism	#
+tile.nationsglory:road.name=Road	#
+tile.nationsglory:ruby_dots.name=Ruby Dots	#
+tile.nationsglory:ruby_scaffold.name=Ruby Scaffold	#
+tile.nationsglory:sand_brick.name=Sand Brick	#
+tile.nationsglory:sand_brick_small.name=Sand Brick Small	#
+tile.nationsglory:sand_brick_square.name=Sand Brick Square	#
+tile.nationsglory:sand_brick_square_small.name=Sand Brick Square Small	#
+tile.nationsglory:sand_carved.name=Sand Carved	#
+tile.nationsglory:sand_carved_2.name=Sand Carved	#
+tile.nationsglory:scienceblock.name=Science Block	#
+tile.nationsglory:scienceblock-dark.name=Science Block Dark	#
+tile.nationsglory:scienceblock_dark_tiles_small.name=Science Block Dark	#
+tile.nationsglory:scienceblock_tiles_small.name=Science Block Dark	#
+tile.nationsglory:small_tile.name=Small Tile	#
+tile.nationsglory:steeldots.name=Steel Dots	#
+tile.nationsglory:steelscaffold.name=Steel Scaffold	#
+tile.nationsglory:stone_andesite_brick.name=Andesite Brick	#
+tile.nationsglory:stone_andesite_carved.name=Andesite Carved	#
+tile.nationsglory:stone_andesite_chiseled_1.name=Andesite Chiseled	#
+tile.nationsglory:stone_andesite_chiseled_2.name=Andesite Chiseled	#
+tile.nationsglory:stone_andesite_chiseled_3.name=Andesite Chiseled	#
+tile.nationsglory:stone_andesite_chiseled_5.name=Andesite Chiseled	#
+tile.nationsglory:stone_andesite_chiseled_6.name=Andesite Chiseled	#
+tile.nationsglory:stone_andesite_redstone.name=Andesite Redstone	#
+tile.nationsglory:stone_andesite_smooth_1.name=Andesite Smooth	#
+tile.nationsglory:stone_base_chiseled_1.name=Base Chiseled	#
+tile.nationsglory:stone_base_chiseled_2.name=Base Chiseled	#
+tile.nationsglory:stone_base_chiseled_3.name=Base Chiseled	#
+tile.nationsglory:stone_base_chiseled_5.name=Base Chiseled	#
+tile.nationsglory:stone_base_chiseled_6.name=Base Chiseled	#
+tile.nationsglory:stone_black_brick_small.name=Black Brick Small	#
+tile.nationsglory:stone_black_brick_square.name=Black Brick Square	#
+tile.nationsglory:stone_black_brick_square_small.name=Black Brick Square Small	#
+tile.nationsglory:stone_black_carved.name=Black Carved	#
+tile.nationsglory:stone_black_carved_2.name=Black Carved	#
+tile.nationsglory:stone_diorite_brick.name=Diorite Bricks	#
+tile.nationsglory:stone_diorite_carved.name=Diorite Carved	#
+tile.nationsglory:stone_diorite_chiseled_1.name=Diorite Chiseled	#
+tile.nationsglory:stone_diorite_chiseled_2.name=Diorite Chiseled	#
+tile.nationsglory:stone_diorite_chiseled_5.name=Diorite Chiseled	#
+tile.nationsglory:stone_diorite_chiseled_6.name=Diorite Chiseled	#
+tile.nationsglory:stone_diorite_floor_2.name=Diorite Floor	#
+tile.nationsglory:stone_diorite_gold.name=Diorite Gold	#
+tile.nationsglory:stone_granite.name=Granite	#
+tile.nationsglory:stone_granite_brick.name=Granite Bricks	#
+tile.nationsglory:stone_granite_carved.name=Granite Carved	#
+tile.nationsglory:stone_granite_chiseled_1.name=Granite Chiseled	#
+tile.nationsglory:stone_granite_chiseled_2.name=Granite Chiseled	#
+tile.nationsglory:stone_granite_chiseled_3.name=Granite Chiseled	#
+tile.nationsglory:stone_granite_chiseled_5.name=Granite Chiseled	#
+tile.nationsglory:stone_granite_chiseled_6.name=Granite Chiseled	#
+tile.nationsglory:stone_granite_lapis.name=Granite Lapis	#
+tile.nationsglory:stone_green_brick.name=Stone Green Bricks	#
+tile.nationsglory:stone_green_brick_small.name=Stone Green Bricks Small	#
+tile.nationsglory:stone_green_brick_square.name=Stone Green Bricks Square	#
+tile.nationsglory:stone_green_brick_square_small.name=Stone Green Bricks Square Small	#
+tile.nationsglory:stone_green_carved.name=Stone Green Carved	#
+tile.nationsglory:stone_green_carved_2.name=Stone Green Carved	#
+tile.nationsglory:stone_jungle_brick.name=Stone Jungle Bricks	#
+tile.nationsglory:stone_jungle_carved.name=Stone Jungle Carved	#
+tile.nationsglory:stone_jungle_chiseled_1.name=Stone Jungle Chiseled	#
+tile.nationsglory:stone_jungle_chiseled_2.name=Stone Jungle Chiseled	#
+tile.nationsglory:stone_jungle_chiseled_3.name=Stone Jungle Chiseled	#
+tile.nationsglory:stone_jungle_chiseled_5.name=Stone Jungle Chiseled	#
+tile.nationsglory:stone_jungle_chiseled_6.name=Stone Jungle Chiseled	#
+tile.nationsglory:stone_jungle_clay.name=Stone Jungle Clay	#
+tile.nationsglory:stone_jungle_emerald.name=Stone Jungle Emerald	#
+tile.nationsglory:stone_jungle_smooth.name=Stone Jungle Smooth	#
+tile.nationsglory:stone_red_brick.name=Red Bricks	#
+tile.nationsglory:stone_red_brick_small.name=Red Bricks Small	#
+tile.nationsglory:stone_red_brick_square.name=Red Bricks Square	#
+tile.nationsglory:stone_red_brick_square_small.name=Red Bricks Square Small	#
+tile.nationsglory:stone_red_carved.name=Red Carved	#
+tile.nationsglory:stone_red_carved_2.name=Red Carved	#
+tile.nationsglory:stone_yellow_brick.name=Yellow Bricks	#
+tile.nationsglory:stone_yellow_brick_small.name=Yellow Bricks Small	#
+tile.nationsglory:stone_yellow_brick_square.name=Yellow Bricks Square	#
+tile.nationsglory:stone_yellow_brick_square_small.name=Yellow Bricks Square Small	#
+tile.nationsglory:stone_yellow_carved.name=Yellow Carved	#
+tile.nationsglory:stone_yellow_carved_2.name=Yellow Carved	#
+tile.nationsglory:terracotta_shingles.name=Terracotta Shingles	#
+tile.nationsglory:terracotta_shingles_black.name=Terracotta Shingles Black	#
+tile.nationsglory:terracotta_shingles_blue.name=Terracotta Shingles Blue	#
+tile.nationsglory:terracotta_shingles_brown.name=Terracotta Shingles Brown	#
+tile.nationsglory:terracotta_shingles_cyan.name=Terracotta Shingles Cyan	#
+tile.nationsglory:weaver.name=Weaver	#
+tile.nationsglory:wire_frame_white.name=Wire Frame White	#
+tile.nationsglory:copper_block_2.name=Copper Block	#
+tile.nationsglory:copper_block_3.name=Copper Block	#
+
+tile.nationsglory:small_tree.name=Small Tree	#
+tile.nationsglory:trophy_festival.name=Trophy	#
+tile.nationsglory:barrier.name=Barrier	#
+tile.nationsglory:spotlight_bar_vertical.name=Spotlight	#
+tile.nationsglory:spotlight_bar_horizontal.name=Spotlight	#
+tile.nationsglory:museum_wall_simple.name=Museum Wall	#
+tile.nationsglory:horizontal_bar_projector.name=Projector	#
+tile.nationsglory:museum_stone_chisel.name=Museum Stone	#
+
+
+tile.nationsglory:barrier_security_concert.name=Barrière de sécurité de concert
+tile.nationsglory:light_pad.name=Lumière de sol
+tile.nationsglory:concert_chair.name=Siège de concert
+tile.nationsglory:suspended_speaker.name=Enceintes suspendues
+tile.nationsglory:speaker.name=Enceinte
+tile.nationsglory:flag_update_small.name=Petit fanion événementiel
+tile.nationsglory:flag_update_small_2.name=Petit fanion événementiel
+
+
+
+tile.nationsglory:copper_block_4.name=Copper Block	#
+item.nationsglory:ng_phone.name=NG Phone	#
+item.nationsglory:upgrade_consumption.name=Circuit d'amélioration	#
+item.nationsglory:staff_basket.name=Panier	#
+item.nationsglory:staff_bell.name=Cloche	#
+item.nationsglory:staff_black_chocolate.name=Chocolat Noir	#
+item.nationsglory:staff_broken_easter.name=Oeuf Cassé	#
+item.nationsglory:staff_bronze_egg.name=Oeuf Bronze	#
+item.nationsglory:staff_chocolate_bunny.name=Lapin en Chocolat	#
+item.nationsglory:staff_chocolate_hen.name=Poule en Chocolat	#
+item.nationsglory:staff_counter_geiger.name=Compteur Geiger	#
+item.nationsglory:staff_dust_2.name=Poudre	#
+item.nationsglory:staff_dust_3.name=Poudre	#
+item.nationsglory:staff_dust_8.name=Poudre	#
+item.nationsglory:staff_dust_11.name=Poudre	#
+item.nationsglory:staff_dust_12.name=Poudre	#
+item.nationsglory:staff_dust_13.name=Poudre	#
+item.nationsglory:staff_easter_backet.name=Panier	#
+item.nationsglory:staff_easter_bell.name=Cloche	#
+item.nationsglory:staff_easter_egg_0.name=Oeuf de Paques	#
+item.nationsglory:staff_easter_egg_7.name=Oeuf de Paques	#
+item.nationsglory:staff_easter_egg_8.name=Oeuf de Paques	#
+item.nationsglory:staff_elec_circuit.name=Circuit Electrique	#
+item.nationsglory:staff_explosive.name=C4	#
+item.nationsglory:staff_gold_egg.name=Oeuf Or	#
+item.nationsglory:staff_milk_chocolat.name=Chocolat au Lait	#
+item.nationsglory:staff_newspaper.name=Journal	#
+item.nationsglory:staff_silver_egg.name=Oeuf Argent	#
+item.nationsglory:staff_white_chocolate.name=Chocolat Blanc	#
+item.nationsglory:electric_repeater.name=Poteau Electrique	#
+item.nationsglory:staff_wire_0.name=Cable	#
+item.nationsglory:staff_wire_1.name=Cable	#
+item.nationsglory:staff_wire_2.name=Cable	#
+item.nationsglory:staff_futurphone.name=Telephone	#
+item.nationsglory:sunlight_boots.name=Bottes SunLight	#
+item.nationsglory:sunlight_leggings.name=Jambières SunLight	#
+item.nationsglory:sunlight_chestplate.name=Plastron SunLight	#
+item.nationsglory:sunlight_helmet.name=Casque SunLight	#
+
+tile.nationsglory:carton.name=Carton	#
+
+tile.nationsglory:terracotta_shingles_yellow_slab.name=Dalle de tuiles jaunes	#
+tile.nationsglory:terracotta_shingles_white_slab.name=Dalle de tuiles blanches	#
+tile.nationsglory:terracotta_shingles_red_slab.name=Dalle de tuiles rouges	#
+tile.nationsglory:terracotta_shingles_purple_slab.name=Dalle de tuiles violettes	#
+tile.nationsglory:terracotta_shingles_orange_slab.name=Dalle de tuiles oranges	#
+tile.nationsglory:terracotta_shingles_lime_slab.name=Dalle de tuiles vertes	#
+tile.nationsglory:terracotta_shingles_light_gray_slab.name=Dalle de tuiles gris clair	#
+tile.nationsglory:terracotta_shingles_light_blue_slab.name=Dalle de tuiles bleues claires	#
+tile.nationsglory:terracotta_shingles_gray_slab.name=Dalle de tuiles grises	#
+tile.nationsglory:terracotta_shingles_green_slab.name=Dalle de tuiles vertes	#
+tile.nationsglory:terracotta_shingles_brown_slab.name=Dalle de tuiles marron	#
+tile.nationsglory:terracotta_shingles_blue_slab.name=Dalle de tuiles bleues	#
+tile.nationsglory:terracotta_shingles_black_slab.name=Dalle de tuiles noires	#
+tile.nationsglory:terracotta_shingles_pink_slab.name=Dalle de tuiles roses	#
+tile.nationsglory:terracotta_shingles_magenta_slab.name=Dalle de tuiles magenta	#
+
+item.nationsglory:chisel_station.name=Station de Ciselage	#
+tile.nationsglory:redsand_brick.name=Brique de sable rouge	#
+tile.nationsglory:purple_fruit.name=Fruit violet	#
+tile.nationsglory:portal_edora.name=Portail d'Edora	#
+tile.nationsglory:crate.name=Caisse	Science Block #
+tile.nationsglory:info_stand.name=Stand d'information	#
+tile.nationsglory:barrier_science.name=Barrière	#
+tile.nationsglory:redsand_brick2.name=Brique de sable rouge	#
+tile.nationsglory:redsand_bricksmall.name=Brique de sable rouge petite	#
+tile.nationsglory:redsand_bricksquare.name=Brique de sable rouge carrée	#
+tile.nationsglory:redsand_bricksmallsquare.name=Brique de sable rouge petite carrée	#
+
+
+tile.nationsglory:stone_granite_brown.name=Granite brown	#
+tile.nationsglory:onyx_ore.name=Minerai d'onyx	#
+tile.nationsglory:brique_saumon.name=Bloc de briques saumon	#
+tile.nationsglory:brique_basalt.name=Bloc de briques de basalt	#
+tile.nationsglory:bibliotheque.name=Bibliothèque	#
+tile.nationsglory:metal_cloute.name=Bloc de métal clouté	#
+tile.nationsglory:parquet_fonce.name=Bloc de parquet foncé	#
+tile.nationsglory:terre_sableuse.name=Bloc de terre sableuse	#
+tile.nationsglory:fer_oxide.name=Bloc de fer oxidé	#
+tile.nationsglory:brique_orange.name=Bloc de briques orangées	#
+tile.nationsglory:brique_claire.name=Bloc de briques claires	#
+tile.nationsglory:fer_noir.name=Bloc de fer noir	#
+tile.nationsglory:desh_ore.name=Minerai de Desh	#
+tile.nationsglory:parquet_croise.name=Bloc de parquet croisé	#
+tile.nationsglory:verre_sombre.name=Bloc de verre sombre	#
+tile.nationsglory:bloc_acier.name=Bloc Bloc d'acier	#
+tile.nationsglory:carreaux_ciment.name=Bloc de carreaux de ciment	#
+tile.nationsglory:chaume_croise.name=Bloc de chaume croisé	#
+tile.nationsglory:marbre_sculpte.name=Bloc de marbre sculpté	#
+tile.nationsglory:carreaux_marbre.name=Carreaux en marbre	#
+tile.nationsglory:pilier_marbre.name=Pilier en marbre	#
+tile.nationsglory:tuile_bleu.name=Bloc de tuiles bleues	#
+tile.nationsglory:tuile_rouge.name=Bloc de tuiles rouges	#
+tile.nationsglory:tuile_brown.name=Bloc de tuiles marrons	#
+tile.nationsglory:roche_blanche.name=Bloc de roche blanche	#
+tile.nationsglory:roche_sculpte.name=Bloc de roche sculptée	#
+tile.nationsglory:brique_rouge.name=Bloc de briques rouges	#
+tile.nationsglory:roche_sombre.name=Bloc de roche sombre	#
+tile.nationsglory:brique_sombre.name=Bloc de briques sombres	#
+tile.nationsglory:brique_granite_white.name=Briques en granite blanches	#
+tile.nationsglory:brique_grises.name=Bloc de briques grises	#
+tile.nationsglory:bloc_chaux.name=Bloc de chaux	#
+tile.nationsglory:bloc_ardoise.name=Bloc d'ardoise	#
+tile.nationsglory:chaume_claire.name=Bloc de chaume claire	#
+tile.nationsglory:chaume_foncee.name=Bloc de chaume foncée	#
+tile.nationsglory:brique_grises_foncee.name=Bloc de briques grises foncée	#
+tile.nationsglory:brique_beiges.name=Bloc de briques beiges	#
+tile.nationsglory:brique_rosees.name=Bloc de briques rosées	#
+tile.nationsglory:bois_plaque.name=Bloc de bois plaqué	#
+tile.nationsglory:shadow_ore.name=Minerai obscur	#
+tile.nationsglory:zirconium_ore.name=Minerai Zirconium	#
+tile.nationsglory:verre_cyan.name=Verre cyan	#
+tile.nationsglory:verre_gray.name=Verre gray	#
+tile.nationsglory:verre_lime.name=Verre lime	#
+tile.nationsglory:verre_magenta.name=Verre magenta	#
+tile.nationsglory:verre_orange.name=Verre orange	#
+tile.nationsglory:verre_red.name=Verre red	#
+
+
+item.nationsglory:deuterium_compressed.name=Deuterium Compressé	#
+item.nationsglory:deuterium_ingot.name=Lingot de Deuterium	#
+item.nationsglory:deuterium_plate.name=Plaque de Deuterium	#
+item.nationsglory:zirconium_plate.name=Plaque de Zirconium	#
+item.nationsglory:aluminium_plate.name=Plaque d'Aluminium	#
+item.nationsglory:volcanite_plate.name=Plaque de Volcanite	#
+item.nationsglory:sulfur_plate.name=Plaque de Soufre	#
+item.nationsglory:cryolite_plate.name=Plaque de Cryolite	#
+item.nationsglory:lead_plate.name=Plaque de Plomb	#
+item.nationsglory:gallium_plate.name=Plaque de Gallium	#
+item.nationsglory:niobium_plate.name=Plaque de Niobium	#
+item.nationsglory:meteoric_plate.name=Plaque de Météorite	#
+item.nationsglory:zirconium_circuit.name=Circuit de Zirconium	#
+item.nationsglory:cryolite_circuit.name=Circuit de Cryolite	#
+item.nationsglory:magnesium_ingot.name=Lingot de Magnésium	#
+item.nationsglory:gallium_ingot.name=Lingot de Gallium	#
+item.nationsglory:niobium_ingot.name=Lingot de Niobium	#
+item.nationsglory:zirconium_ingot.name=Lingot de Zirconium	#
+item.nationsglory:sulfur_ingot.name=Lingot de Soufre	#
+
+
+item.nationsglory:gallium_compressed.name=Gallium Compressé	#
+item.nationsglory:gold_compressed.name=Or Compressé	#
+item.nationsglory:magnesium_plate.name=Plaque de Magnésium	#
+item.nationsglory:sulfur_compressed.name=Soufre Compressé	#
+
+item.nationsglory:terminal.name=Terminal	#
+item.nationsglory:plateforme.name=Plateforme	#
+item.nationsglory:rocket_launcher.name=Rocket Launcher	#
+item.nationsglory:red_matter.name=Missile RedMatter	#
+item.nationsglory:anti_matter.name=Missile Anti-Matter	#
+item.nationsglory:earthquake.name=Earthquake	#
+item.nationsglory:nuke_cluster.name=Missile Nucléaire Fragmentation	#
+item.nationsglory:nuke.name=Missile Nucléaire	#
+
+item.nationsglory:thermobarique.name=Missile Thermobarique	#
+item.nationsglory:emp.name=Missile EMP	#
+item.nationsglory:incendiaire.name=Missile Incendiaire	#
+item.nationsglory:fragmentation.name=Missile Fragmentation	#
+item.nationsglory:repulsive.name=Missile Répulsif	#
+item.nationsglory:conventionnel.name=Missile Conventionnel	#
+item.nationsglory:shrapnel.name=Missile Shrapnel	#
+item.nationsglory:endothermique.name=Missile Endothermique	#
+
+
+item.nationsglory:tool_rotate.name=§6Outil de rotation	#
+item.nationsglory:key_reparator.name=Clé de maintenance	#
+item.nationsglory:group_electro.name=Groupe électrogène	#
+item.nationsglory:pile.name=Piles	#
+item.nationsglory:fusee.name=Fusée spatiale	#c
+item.nationsglory:bio_generator.name=Bio-générateur	#
+item.nationsglory:casino.name=Machine de Casino	#
+item.nationsglory:electric_collector.name=Collecteur électrique	#
+item.nationsglory:battery.name=Batterie	#
+item.nationsglory:battery_upgrade.name=Batterie améliorée	#
+item.nationsglory:server.name=Serveur	#
+item.nationsglory:solar_panel.name=Panneau solaire	#
+item.nationsglory:solar_panel_advanced.name=Panneau solaire amélioré	#
+
+item.nationsglory:machine_potion.name=Machine à potions	#
+item.nationsglory:machine_xp.name=Machine à XP	#
+item.nationsglory:compteur_electric.name=Compteur électrique	#
+item.nationsglory:compress_oxygen.name=Compresseur d'oxygène	#
+item.nationsglory:machine_reaper.name=Machine de réparation	#
+item.nationsglory:industry_reaper.name=Réparateur Industriel	#
+item.nationsglory:imprimante.name=Imprimante	#
+item.nationsglory:collector_oxygen.name=Collecteur d'oxygène	#
+item.nationsglory:workstation.name=Station de craft	#
+item.nationsglory:bombonne_oxygen.name=Bombonne d'oxygène	#
+item.nationsglory:electric_charger.name=Chargeur électrique	#
+item.nationsglory:gas_kettle.name=Bouilloire à gaz	#
+
+item.nationsglory:lootbox_classique.name=§3Lootbox classique	#
+item.nationsglory:lootbox_legendaire.name=§eLootbox légendaire	#
+item.nationsglory:lootbox_toxique.name=Lootbox Toxique	#
+item.nationsglory:lootbox_prime.name=Lootbox NGPrime	#
+item.nationsglory:lootbox_noel.name=Lootbox de Noel	#
+item.nationsglory:lootbox_noel_legendaire.name=Lootbox Légendaire de Noël	#
+item.nationsglory:lootbox_ultimate.name=§4Lootbox Ultime	#
+item.nationsglory:lootbox_twitch.name=Lootbox Twitch	#
+item.nationsglory:lootbox_twitter.name=Lootbox Twitter	#
+
+item.nationsglory:lootbox_discord.name=Lootbox Discord	#
+item.nationsglory:lootbox_birthday_10.name=§6Lootbox Anniversaire 10	#
+item.nationsglory:lootbox_birthday_10_free.name=Lootbox Anniversaire gratuit	#
+item.nationsglory:new_lootbox_chrismas.name=§4Lootbox de Noël	#
+item.nationsglory:lootbox_noel_2024.name=§4Lootbox de Noël	#
+item.nationsglory:lootbox_cryogenique.name=Lootbox Cryogénique	#
+item.nationsglory:frozen_2023_helmet.name=§cCasque d'hiver	#
+item.nationsglory:frozen_2023_chestplate.name=§cPlastron d'hiver	#
+item.nationsglory:frozen_2023_leggings.name=§cPantalon d'hiver	#
+item.nationsglory:frozen_2023_boots.name=§cBottes d'hiver	#
+
+item.nationsglory:frozen_2023_hammer.name=§cMarteau d'hiver	#
+item.nationsglory:white_spartan_helmet.name=§bCasque Spartan	#
+item.nationsglory:white_spartan_chestplate.name=§bPlastron Spartan	#
+item.nationsglory:white_spartan_leggings.name=§bPantalon Spartan	#
+item.nationsglory:white_spartan_boots.name=§bBottes Spartan	#
+
+
+item.nationsglory:mark_1.name=Lanceur Nucléaire	tier 1	#
+item.nationsglory:mark_2.name=Lanceur Nucléaire	tier 2	#
+item.nationsglory:mark_3.name=Lanceur Nucléaire	tier 3	#
+item.nationsglory:tritium_synthesizer.name=Synthétiseur de tritium	#
+item.nationsglory:uranium_brut.name=Uranium brut	#
+item.nationsglory:powder_uranium_235.name=Poudre d'uranium 235	#
+item.nationsglory:powder_uranium_238.name=Poudre d'uranium 238	#
+item.nationsglory:powder_purify_uranium_235.name=Poudre d'uranium 235 purifié	#
+item.nationsglory:powder_purify_uranium_238.name=Poudre d'uranium 238 purifié	#
+item.nationsglory:yellow_cake_uranium_235.name=Yellow Cake d'uranium 235	#
+item.nationsglory:yellow_cake_uranium_238.name=Yellow Cake d'uranium 238	#
+item.nationsglory:uranium_rode_235.name=Barre d'uranium 235	#
+item.nationsglory:uranium_rode_238.name=Barre d'uranium 238	#
+item.nationsglory:upgrade_fusee.name=§cAmélioration de fusée	#
+item.nationsglory:zirconium_brut.name=Zirconium Brut	#
+item.nationsglory:refinery_uranium.name=Raffinerie d'uranium	#
+item.nationsglory:nuclear_chamber.name=Chambre nucléaire	#
+item.nationsglory:centrifuge.name=Centrifugeuse	#
+item.nationsglory:uranium_compactor.name=Compacteur d'uranium	#
+item.nationsglory:uranium_extractor.name=Extracteur d'uranium	#
+item.nationsglory:chaudiere.name=Chaudière	#
+item.nationsglory:turbine.name=Turbine	#
+item.nationsglory:solar_generator.name=Générateur solaire	#
+item.nationsglory:nuclear_reactor.name=Réacteur nucléaire	#
+item.nationsglory:radioactive_collector.name=Collecteur radioactif	#
+item.nationsglory:gas_collector.name=Collecteur de gaz	#
+item.nationsglory:nuclear_chimney.name=Cheminée nucléaire	#
+item.nationsglory:nuclear_forge.name=Forge nucléaire	#
+item.nationsglory:liquid_azote_generator.name=Générateur d'azote liquide	#
+item.nationsglory:nuclear_waste.name=Déchets nucléaires	#
+
+item.nationsglory:nuclear_warhead_1.name=Ogive tier 1	#
+item.nationsglory:nuclear_warhead_2.name=Ogive tier 2	#
+item.nationsglory:nuclear_warhead_3.name=Ogive tier 3	#
+
+item.nationsglory:nuclear_fuel_loader.name=Chargeur nucléaire	#
+item.nationsglory:salt.name=Sel	#
+item.nationsglory:upgrade_double_loot.name=Amélioration de loot	#
+item.nationsglory:upgrade_rocket_durability.name=Amélioration de durabilité de fusée	#
+
+
+tile.nationsglory:trophy_awardglory.name=Trophée AwardGlory	#
+tile.nationsglory:trophy_diamond.name=Trophée Diamant	#
+tile.nationsglory:trophy_gold.name=Trophée Or	#
+tile.nationsglory:trophy_iron.name=Trophée Fer	#
+tile.nationsglory:salt_ore.name=Minerai de sel	#
+
+tile.nationsglory:border_2.name=Bordure	#
+tile.nationsglory:border_corner.name=Bordure	#
+tile.nationsglory:uranium_ore.name=Minerai d'uranium	#
+tile.nationsglory:steel_scaffolding.name=Echafaudage en acier	#
+tile.nationsglory:steel_block_2.name=Bloc d'acier	#
+tile.nationsglory:steel_block.name=Bloc d'acier	#
+tile.nationsglory:steel_hexagonal.name=Bloc d'acier hexagonal	#
+tile.nationsglory:steel_square.name=Bloc d'acier carré	#
+
+
+tile.nationsglory:ashstone_ore.name=Minerai d'Ashstone	#
+item.nationsglory:cog_desh.name=Rouage en Desh	#
+item.nationsglory:cog_copper.name=Rouage en cuivre	#
+item.nationsglory:cog_lead.name=Rouage en plomb	#
+item.nationsglory:cog_tin.name=Rouage en étain	#
+item.nationsglory:cog_aluminium.name=Rouage en aluminium	#
+item.nationsglory:cog_iron.name=Rouage en fer	#
+item.nationsglory:cog_gold.name=Rouage en or	#
+item.nationsglory:cog_onyx.name=Rouage en onyx	#
+item.nationsglory:cog_diamond.name=Rouage en diamant	#
+
+item.nationsglory:cog_emerald.name=Rouage en émeraude	#
+
+item.nationsglory:cog_assembly.name=Assemblage de rouages	#
+tile.nationsglory:christmas_gift_1.name=Cadeau de Noël 1	#
+tile.nationsglory:christmas_gift_2.name=Cadeau de Noël 2	#
+tile.nationsglory:christmas_gift_3.name=Cadeau de Noël 3	#
+tile.nationsglory:christmas_gift_4.name=Cadeau de Noël 4	#
+tile.nationsglory:nutcracker.name=Casse-Noisette	#
+tile.nationsglory:tree.name=Sapin de Noël	#
+tile.nationsglory:tall_gift_green.name=Cadeau de Noël Vert	#
+tile.nationsglory:tall_gift_red.name=Cadeau de Noël Rouge	#
+tile.nationsglory:tall_gift_white2.name=Cadeau de Noël Blanc2	#
+tile.nationsglory:tall_gift_white.name=Cadeau de Noël Blanc	#
+tile.nationsglory:locomotive.name=Locomotive	#
+tile.nationsglory:snowman.name=Bonhomme de Neige	#
+tile.nationsglory:train_wagon.name=Wagon de Train	#
+tile.nationsglory:train_wagon_coal.name=Wagon de Train à Charbon	#
+tile.nationsglory:train_wagon_seat.name=Wagon de Train à Siège	#
+tile.nationsglory:candy_cane_pillar.name=Pilier de Canne à Sucre	#
+tile.nationsglory:candy_cane_pillar_top.name=Pilier de Canne à Sucre top	#
+tile.nationsglory:candy_cane_pillar_bottom.name=Pilier de Canne à Sucre	bottom #
+tile.nationsglory:chrismas_star.name=Etoile de Noël	#
+tile.nationsglory:nuclear_reactor_hull.name=Enveloppe de réacteur nucléaire	#
+
+tile.nationsglory:Nuclear_reactor_Glass.name=Verre de réacteur nucléaire	#
+tile.nationsglory:leaves_oak_frozen.name=Feuilles de chêne gelées	#
+
+tile.nationsglory:stoneandesite_triangle.name=Andesite Triangle	#
+tile.nationsglory:asia_glass.name=Asia Glass	#
+tile.nationsglory:asia_glass_red.name=Asia Glass Red	#
+tile.nationsglory:asia_glass_wood.name=Asia Glass Wood	#
+tile.nationsglory:asia_glass_wood_square.name=Asia Glass Wood Square	#
+tile.nationsglory:asphalt.name=Asphalt	#
+tile.nationsglory:black_concrete_brick.name=Black Concrete Brick	#
+tile.nationsglory:black_concrete_brick_small.name=Black Concrete Brick Small	#
+tile.nationsglory:black_concrete_brick_square.name=Black Concrete Brick Square	#
+tile.nationsglory:black_concrete_brick_square_small.name=Black Concrete Brick Square Small	#
+tile.nationsglory:black_concrete_carved.name=Black Concrete Carved	#
+tile.nationsglory:black_concrete_carved_2.name=Black Concrete Carved 2	#
+tile.nationsglory:bloc_chaux_diagonal_left.name=Bloc Chaux Diagonal Left	#
+tile.nationsglory:bloc_chaux_diagonal_right.name=Bloc Chaux Diagonal Right	#
+tile.nationsglory:bloc_chaux_diamond.name=Bloc Chaux Diamond	#
+tile.nationsglory:bloc_chaux_horizontal.name=Bloc Chaux Horizontal	#
+tile.nationsglory:bloc_chaux_vertical.name=Bloc Chaux Vertical	#
+tile.nationsglory:blue_concrete_brick.name=Blue Concrete Brick	#
+tile.nationsglory:blue_concrete_brick_small.name=Blue Concrete Brick Small	#
+tile.nationsglory:blue_concrete_brick_square.name=Blue Concrete Brick Square	#
+tile.nationsglory:blue_concrete_brick_square_small.name=Blue Concrete Brick Square Small	#
+tile.nationsglory:blue_concrete_carved.name=Blue Concrete Carved	#
+tile.nationsglory:blue_concrete_carved_2.name=Blue Concrete Carved 2	#
+tile.nationsglory:brown_concrete_brick.name=Brown Concrete Brick	#
+tile.nationsglory:brown_concrete_brick_small.name=Brown Concrete Brick Small	#
+tile.nationsglory:brown_concrete_brick_square.name=Brown Concrete Brick Square	#
+tile.nationsglory:brown_concrete_brick_square_small.name=Brown Concrete Brick Square Small	#
+tile.nationsglory:brown_concrete_carved.name=Brown Concrete Carved	#
+tile.nationsglory:brown_concrete_carved_2.name=Brown Concrete Carved 2	#
+tile.nationsglory:cyan_concrete_brick.name=Cyan Concrete Brick	#
+tile.nationsglory:cyan_concrete_brick_small.name=Cyan Concrete Brick Small	#
+tile.nationsglory:cyan_concrete_brick_square.name=Cyan Concrete Brick Square	#
+tile.nationsglory:cyan_concrete_brick_square_small.name=Cyan Concrete Brick Square Small	#
+tile.nationsglory:cyan_concrete_carved.name=Cyan Concrete Carved	#
+tile.nationsglory:cyan_concrete_carved_2.name=Cyan Concrete Carved 2	#
+tile.nationsglory:diamond_glass.name=Diamond Glass	#
+tile.nationsglory:diamond_glass_black.name=Diamond Glass Black	#
+tile.nationsglory:diamond_glass_blue.name=Diamond Glass Blue	#
+tile.nationsglory:diamond_glass_brown.name=Diamond Glass Brown	#
+tile.nationsglory:diamond_glass_gray.name=Diamond Glass Gray	#
+tile.nationsglory:diamond_glass_green.name=Diamond Glass Green	#
+tile.nationsglory:diamond_glass_light_gray.name=Diamond Glass Light Gray	#
+tile.nationsglory:diamond_glass_lime.name=Diamond Glass Lime	#
+tile.nationsglory:diamond_glass_magenta.name=Diamond Glass Magenta	#
+tile.nationsglory:diamond_glass_orange.name=Diamond Glass Orange	#
+tile.nationsglory:diamond_glass_pink.name=Diamond Glass Pink	#
+tile.nationsglory:diamond_glass_purple.name=Diamond Glass Purple	#
+tile.nationsglory:diamond_glass_red.name=Diamond Glass Red	#
+tile.nationsglory:diamond_glass_white.name=Diamond Glass White	#
+tile.nationsglory:diamond_glass_yellow.name=Diamond Glass Yellow	#
+tile.nationsglory:endstonebricksmall.name=Endstone Brick Small	#
+tile.nationsglory:endstonebricksmallsquare.name=Endstone Brick Small Square	#
+tile.nationsglory:endstonebricksquare.name=Endstone Brick Square	#
+tile.nationsglory:endstonecarved.name=Endstone Carved	#
+tile.nationsglory:endstonechiseled.name=Endstone Chiseled	#
+tile.nationsglory:endstonesmallsquare.name=Endstone Small Square	#
+tile.nationsglory:granitetriangle.name=Granite Triangle	#
+tile.nationsglory:gray_concrete_brick.name=Gray Concrete Brick	#
+tile.nationsglory:gray_concrete_brick_small.name=Gray Concrete Brick Small	#
+tile.nationsglory:gray_concrete_brick_square.name=Gray Concrete Brick Square	#
+tile.nationsglory:gray_concrete_brick_square_small.name=Gray Concrete Brick Square Small	#
+tile.nationsglory:gray_concrete_carved.name=Gray Concrete Carved	#
+tile.nationsglory:gray_concrete_carved_2.name=Gray Concrete Carved 2	#
+tile.nationsglory:hazardblue.name=Hazard Blue	#
+tile.nationsglory:infocon.name=Infocon	#
+tile.nationsglory:infocon_left.name=Infocon Left	#
+tile.nationsglory:infocon_left_simple.name=Infocon Left Simple	#
+tile.nationsglory:infocon_right.name=Infocon Right	#
+tile.nationsglory:infocon_right_simple.name=Infocon Right Simple	#
+tile.nationsglory:infocon_texte.name=Infocon Texte	#
+tile.nationsglory:infocon_texte_simple.name=Infocon Texte Simple	#
+tile.nationsglory:infocon_windtrap2.name=Infocon Windtrap 2	#
+tile.nationsglory:infocon_windtrap_simple.name=Infocon Windtrap Simple	#
+tile.nationsglory:iron_glass.name=Iron Glass	#
+tile.nationsglory:iron_glass_barrier.name=Iron Glass Barrier	#
+tile.nationsglory:iron_glass_diamond.name=Iron Glass Diamond	#
+tile.nationsglory:iron_glass_ornement.name=Iron Glass Ornament	#
+tile.nationsglory:iron_glass_square.name=Iron Glass Square	#
+tile.nationsglory:lightblue_concrete_brick.name=Lightblue Concrete Brick	#
+tile.nationsglory:lightblue_concrete_brick_small.name=Lightblue Concrete Brick Small	#
+tile.nationsglory:lightblue_concrete_brick_square.name=Lightblue Concrete Brick Square	#
+tile.nationsglory:lightblue_concrete_brick_square_small.name=Lightblue Concrete Brick Square Small	#
+tile.nationsglory:lightblue_concrete_carved.name=Lightblue Concrete Carved	#
+tile.nationsglory:lightblue_concrete_carved_2.name=Lightblue Concrete Carved 2	#
+tile.nationsglory:lightgray_concrete_brick.name=Lightgray Concrete Brick	#
+tile.nationsglory:lightgray_concrete_brick_small.name=Lightgray Concrete Brick Small	#
+tile.nationsglory:lightgray_concrete_brick_square.name=Lightgray Concrete Brick Square	#
+tile.nationsglory:lightgray_concrete_brick_square_small.name=Lightgray Concrete Brick Square Small	#
+tile.nationsglory:lightgray_concrete_carved.name=Lightgray Concrete Carved	#
+tile.nationsglory:lightgray_concrete_carved_2.name=Lightgray Concrete Carved 2	#
+tile.nationsglory:lime_concrete_brick.name=Lime Concrete Brick	#
+tile.nationsglory:lime_concrete_brick_small.name=Lime Concrete Brick Small	#
+tile.nationsglory:lime_concrete_brick_square.name=Lime Concrete Brick Square	#
+tile.nationsglory:lime_concrete_brick_square_small.name=Lime Concrete Brick Square Small	#
+tile.nationsglory:lime_concrete_carved.name=Lime Concrete Carved	#
+tile.nationsglory:lime_concrete_carved_2.name=Lime Concrete Carved 2	#
+tile.nationsglory:magenta_concrete_brick.name=Magenta Concrete Brick	#
+tile.nationsglory:magenta_concrete_brick_small.name=Magenta Concrete Brick Small	#
+tile.nationsglory:magenta_concrete_brick_square.name=Magenta Concrete Brick Square	#
+tile.nationsglory:magenta_concrete_brick_square_small.name=Magenta Concrete Brick Square Small	#
+tile.nationsglory:magenta_concrete_carved.name=Magenta Concrete Carved	#
+tile.nationsglory:magenta_concrete_carved_2.name=Magenta Concrete Carved 2	#
+tile.nationsglory:orange_concrete_brick.name=Orange Concrete Brick	#
+tile.nationsglory:orange_concrete_brick_small.name=Orange Concrete Brick Small	#
+tile.nationsglory:orange_concrete_brick_square.name=Orange Concrete Brick Square	#
+tile.nationsglory:orange_concrete_brick_square_small.name=Orange Concrete Brick Square Small	#
+tile.nationsglory:orange_concrete_carved.name=Orange Concrete Carved	#
+tile.nationsglory:orange_concrete_carved_2.name=Orange Concrete Carved 2	#
+tile.nationsglory:pink_concrete_brick.name=Pink Concrete Brick	#
+tile.nationsglory:pink_concrete_brick_small.name=Pink Concrete Brick Small	#
+tile.nationsglory:pink_concrete_brick_square.name=Pink Concrete Brick Square	#
+tile.nationsglory:pink_concrete_brick_square_small.name=Pink Concrete Brick Square Small	#
+tile.nationsglory:pink_concrete_carved.name=Pink Concrete Carved	#
+tile.nationsglory:pink_concrete_carved_2.name=Pink Concrete Carved 2	#
+tile.nationsglory:purple_concrete_brick.name=Purple Concrete Brick	#
+tile.nationsglory:purple_concrete_brick_small.name=Purple Concrete Brick Small	#
+tile.nationsglory:purple_concrete_brick_square.name=Purple Concrete Brick Square	#
+tile.nationsglory:purple_concrete_brick_square_small.name=Purple Concrete Brick Square Small	#
+tile.nationsglory:purple_concrete_carved.name=Purple Concrete Carved	#
+tile.nationsglory:purple_concrete_carved_2.name=Purple Concrete Carved 2	#
+tile.nationsglory:stone_andesite_brick2.name=Stone Andesite Brick 2	#
+tile.nationsglory:verre_light_blue.name=Verre Light Blue	#
+tile.nationsglory:white_concrete_brick.name=White Concrete Brick	#
+tile.nationsglory:white_concrete_brick_small.name=White Concrete Brick Small	#
+tile.nationsglory:white_concrete_brick_square.name=White Concrete Brick Square	#
+tile.nationsglory:white_concrete_brick_square_small.name=White Concrete Brick Square Small	#
+tile.nationsglory:white_concrete_carved.name=White Concrete Carved	#
+tile.nationsglory:white_concrete_carved_2.name=White Concrete Carved 2	#
+
+
+
+item.nationsglory:antimatter.name=Antimatière	#
+
+item.nationsglory:hazmat_boots.name=§aBottes Nucléaire	#
+item.nationsglory:hazmat_leggings.name=§aJambières Nucléaire	#
+item.nationsglory:hazmat_chestplate.name=§aPlastron Nucléaire	#
+item.nationsglory:hazmat_helmet.name=§aCasque Nucléaire	#
+item.nationsglory:helico.name=Hélicoptère	#
+
+
+
+
+
+tile.nationsglory:confinement_alloy.name=Alliage de confinement	#
+tile.nationsglory:plasma_accumulator.name=Accumulateur de plasma	#
+tile.nationsglory:aluminium_block.name=Bloc d'aluminium	#
+item.nationsglory:aluminium_compressed.name=Aluminium compressé	#
+item.nationsglory:copper_compressed.name=Cuivre compressé	#
+item.nationsglory:aluminium_ingot.name=Lingot d'aluminium	#
+tile.nationsglory:aluminium_ore.name=Minerai d'aluminium	#
+tile.nationsglory:tin_block.name=Bloc d'étain	#
+item.nationsglory:tin_compressed.name=Étain compressé	#
+item.nationsglory:iron_compressed.name=Fer compressé	#
+item.nationsglory:meteoric_iron_raw.name=Fer météorique brut	#
+item.nationsglory:meteoric_iron_ingot.name=Lingot de fer météorique	#
+item.nationsglory:bronze_compressed.name=Bronze compressé	#
+item.nationsglory:bronze_ingot.name=Lingot de bronze	#
+item.nationsglory:bronze_raw.name=Bronze brut	#
+item.nationsglory:volcanite_compressed.name=Volcanite compressée	#
+item.nationsglory:tiber_renforced_compressed.name=Tiber renforcé compressé	#
+item.nationsglory:tin_plate.name=Plaque d'étain	#
+item.nationsglory:bronze_plate.name=Plaque de bronze	#
+item.nationsglory:gold_plate.name=Plaque d'or	#
+item.nationsglory:iron_plate.name=Plaque de fer	#
+item.nationsglory:meteoric_compressed.name=Fer météorique compressé	#
+
+
+item.nationsglory:tin_ingot.name=Lingot d'étain	#
+tile.nationsglory:tin_ore.name=Minerai d'étain	#
+tile.nationsglory:plasma_resonance.name=Plasma de résonance	#
+tile.nationsglory:nuclear_reactor_heart.name=Coeur de réacteur nucléaire	#
+
+
+tile.nationsglory:cooling_tower_concrete_1.name=Tour de refroidissement 1	#
+tile.nationsglory:cooling_tower_concrete_2.name=Tour de refroidissement 2	#
+tile.nationsglory:cooling_tower_concrete_3.name=Tour de refroidissement 3	#
+tile.nationsglory:cooling_tower_concrete_4.name=Tour de refroidissement 4	#
+tile.nationsglory:cooling_tower_concrete_5.name=Tour de refroidissement 5	#
+
+tile.nationsglory:asteroid_crystal_ore.name=Minerai de cristal d'astéroïde	#
+tile.nationsglory:blue_fruit.name=Fruit bleu	#
+tile.nationsglory:blue_mushroom_spore.name=Spore de champignon bleu	#
+tile.nationsglory:blue_mushroom_stem.name=Champignon bleu	#
+tile.nationsglory:cryolite_ore.name=Minerai de cryolite	#
+tile.nationsglory:lead_ore.name=Minerai de plomb	#
+tile.nationsglory:frozen_cobblestone.name=Cobblestone gelé	#
+tile.nationsglory:frozen_cobblestone_frost.name=Cobblestone gelé	#
+tile.nationsglory:frozen_cobblestone_frost_2.name=Cobblestone gelé	#
+tile.nationsglory:frozen_stonebrick.name=Briques de pierre gelées	#
+tile.nationsglory:frozen_stonebrick_1.name=Briques de pierre gelées 1	#
+tile.nationsglory:frozen_stonebrick_2.name=Briques de pierre gelées 2	#
+tile.nationsglory:frozen_stonebrick_3.name=Briques de pierre gelées 3	#
+tile.nationsglory:frozen_stonebrick_3_frost.name=Briques de pierre gelées 3 bis	#
+tile.nationsglory:frozen_stonebrick_4.name=Briques de pierre gelées 4	#
+tile.nationsglory:frozen_stonebrick_5.name=Briques de pierre gelées	5 #
+tile.nationsglory:frozen_stonebrick_6.name=Briques de pierre gelées	6 #
+tile.nationsglory:frozen_stonebrick_frost.name=Briques de pierre gelées	#
+
+tile.nationsglory:blue_mushroom.name= Champignon bleu	#
+tile.nationsglory:purple_mushroom.name=Champignon violet	#
+tile.nationsglory:purple_mushroom_block.name=Bloc de champignon violet	#
+tile.nationsglory:glow_grass.name=Herbe lumineuse	#
+tile.nationsglory:toxic_grass.name=Herbe toxique	#
+tile.nationsglory:toxic_grass_tall.name=Herbe toxique	#
+tile.nationsglory:toxic_dirt_frost.name=Terre toxique	gelée#
+
+
+
+
+tile.nationsglory:frozen_stonebrick_pillar_side.name=Briques de pierre gelées	#
+
+tile.nationsglory:purple_fruit.name=Fruit violet	#
+tile.nationsglory:purple_mushroom_spore.name=Spore de champignon violet	#
+tile.nationsglory:purple_mushroom_stem.name=Champignon violet	#
+tile.nationsglory:snow_brick.name=Briques de neige	#
+tile.nationsglory:toxic_dirt.name=Terre toxique	#
+tile.nationsglory:ultra_packed_ice.name=Glace ultra compactée	#
+tile.nationsglory:ice.name=Glace 1	#
+tile.nationsglory:ice_2.name=Glace 2	#
+tile.nationsglory:ice_4.name=Glace 4	#
+tile.nationsglory:sulfur_ore.name=Minerai de souffre	#
+item.nationsglory:sulfur.name=Souffre	#
+item.nationsglory:tritium_cell.name=Cellule de tritium	#
+item.nationsglory:lead_ingot.name=Lingot de plomb	#
+item.nationsglory:cryolite_ingot.name=Lingot de cryolite	#
+item.nationsglory:asteroid_crystal.name=Cristal d'astéroïde	#
+
+item.nationsglory:drink_construct.name=§cBoisson de Construction	#
+item.nationsglory:drink_energy.name=§cBoisson énergisante	#
+item.nationsglory:drink_spy.name=§cBoisson Espion	#
+item.nationsglory:fragment_tiber.name=Fragment de tiber	#
+item.nationsglory:moteur.name=Moteur	#
+item.nationsglory:fibre_bois.name=Fibre de bois millénaire	#
+item.nationsglory:gallium.name=Gallium	#
+item.nationsglory:magnesium.name=Magnesium	#
+item.nationsglory:niobium.name=Niobium	#
+item.nationsglory:circuit_basique.name=Circuit basique	#
+item.nationsglory:plaque_acier.name=Plaque d'acier	#
+item.nationsglory:plaque_desh.name=Plaque en Desh	#
+item.nationsglory:onyx_brut.name=Onyx brut	#
+item.nationsglory:unite_solaire.name=Unité solaire	#
+item.nationsglory:lingot_desh.name=Lingot de desh	#
+item.nationsglory:backpack.name=Sac à dos	#
+item.nationsglory:pickaxe_electric.name=§bPioche électrique	#
+item.nationsglory:pickaxe_electric_upgraded.name=§bPioche électrique améliorée	#
+
+item.nationsglory:axe_electric.name=§bHache électrique	#
+item.nationsglory:axe_electric_upgraded.name=§bHache électrique améliorée	#
+item.nationsglory:shovel_electric_upgraded.name=§bPelle électrique améliorée	#
+item.nationsglory:shovel_electric.name=§bPelle électrique	#
+item.nationsglory:parachute.name=Parachute	#
+item.nationsglory:aspirateur_fantom.name=Aspirateur à fantome	#
+item.nationsglory:rpg.name=RPG-7	#
+item.nationsglory:roquette_rpg.name=Roquette RPG-7	#
+item.nationsglory:ak47.name=AK47	#
+item.nationsglory:chargeur_ak47.name=Chargeur AK47	#
+item.nationsglory:usp45.name=USP45	#
+item.nationsglory:chargeur_usp45.name=Chargeur USP45	#
+item.nationsglory:chargeur_potion.name=Chargeur de potions	#
+item.nationsglory:door_chene_black.name=Porte en chêne noir	#
+item.nationsglory:door_elfique.name=Porte elfique	#
+item.nationsglory:ashstone_pickaxe.name=Pioche Ashstone	#
+item.nationsglory:ashstone_shovel.name=Pelle Ashstone	#
+item.nationsglory:ashstone_axe.name=Hache Ashstone	#
+item.nationsglory:ashstone_hoe.name=Houe Ashstone	#
+item.nationsglory:ashstone_gem.name=Gem Ashstone	#
+
+tile.nationsglory:ashstone_ore.name=Minerai d'Ashstone	#
+item.nationsglory:cog_desh.name=Rouage en Desh	#
+item.nationsglory:cog_copper.name=Rouage en cuivre	#
+item.nationsglory:cog_lead.name=Rouage en plomb	#
+item.nationsglory:cog_tin.name=Rouage en étain	#
+item.nationsglory:cog_aluminium.name=Rouage en aluminium	#
+item.nationsglory:cog_iron.name=Rouage en fer	#
+item.nationsglory:cog_gold.name=Rouage en or	#
+item.nationsglory:cog_onyx.name=Rouage en onyx	#
+item.nationsglory:cog_diamond.name=Rouage en diamant	#
+item.nationsglory:cog_emerald.name=Rouage en émeraude	#
+
+item.nationsglory:cog_assembly.name=Assemblage de rouages	#
+tile.nationsglory:christmas_gift_1.name=Cadeau de Noël 1	#
+tile.nationsglory:christmas_gift_2.name=Cadeau de Noël 2	#
+tile.nationsglory:christmas_gift_3.name=Cadeau de Noël 3	#
+tile.nationsglory:christmas_gift_4.name=Cadeau de Noël 4	#
+tile.nationsglory:nutcracker.name=Casse-Noisette	#
+tile.nationsglory:tree.name=Sapin de Noël	#
+tile.nationsglory:tall_gift_green.name=Cadeau de Noël Vert	#
+tile.nationsglory:tall_gift_red.name=Cadeau de Noël Rouge	#
+tile.nationsglory:tall_gift_white2.name=Cadeau de Noël Blanc2	#
+tile.nationsglory:tall_gift_white.name=Cadeau de Noël Blanc	#
+tile.nationsglory:locomotive.name=Locomotive	#
+tile.nationsglory:snowman.name=Bonhomme de Neige	#
+tile.nationsglory:train_wagon.name=Wagon de Train	#
+tile.nationsglory:train_wagon_coal.name=Wagon de Train à Charbon	#
+tile.nationsglory:train_wagon_seat.name=Wagon de Train à Siège	#
+tile.nationsglory:candy_cane_pillar.name=Pilier de Canne à Sucre	#
+tile.nationsglory:candy_cane_pillar_top.name=Pilier de Canne à Sucre top	#
+tile.nationsglory:candy_cane_pillar_bottom.name=Pilier de Canne à Sucre	bottom #
+tile.nationsglory:chrismas_star.name=Etoile de Noël	#
+
+
+item.nationsglory:reinforced_iron_boots.name=Bottes Fer Renforcé	#
+item.nationsglory:reinforced_iron_leggings.name=Jambières Fer Renforcé	#
+item.nationsglory:reinforced_iron_chestplate.name=Plastron Fer Renforcé	#
+item.nationsglory:reinforced_iron_helmet.name=Casque Fer Renforcé	#
+item.nationsglory:reinforced_iron_sword.name=Epee Fer Renforcé	#
+item.nationsglory:elite_boots.name=Bottes Elite	#
+item.nationsglory:elite_leggings.name=Jambières Elite	#
+item.nationsglory:elite_chestplate.name=Plastron Elite	#
+item.nationsglory:elite_helmet.name=Casque Elite	#
+item.nationsglory:reinforced_mythril_boots.name=Bottes Mythril Renforcé	#
+item.nationsglory:reinforced_mythril_leggings.name=Jambières Mythril Renforcé	#
+item.nationsglory:reinforced_mythril_chestplate.name=Plastron Mythril Renforcé	#
+item.nationsglory:reinforced_mythril_helmet.name=Casque Mythril Renforcé	#
+item.nationsglory:reinforced_mythril_sword.name=Epee Mythril Renforcé	#
+item.nationsglory:reinforced_fyrite_boots.name=Bottes Fyrite Renforcé	#
+item.nationsglory:reinforced_fyrite_leggings.name=Jambières Fyrite Renforcé	#
+item.nationsglory:reinforced_fyrite_chestplate.name=Plastron Fyrite Renforcé	#
+item.nationsglory:reinforced_fyrite_helmet.name=Casque Fyrite Renforcé	#
+item.nationsglory:reinforced_fyrite_sword.name=Epee Fyrite Renforcé	#
+item.nationsglory:reinforced_illumenite_boots.name=Bottes Illumenite Renforcé	#
+item.nationsglory:reinforced_illumenite_leggings.name=Jambières Illumenite Renforcé	#
+item.nationsglory:reinforced_illumenite_chestplate.name=Plastron Illumenite Renforcé	#
+item.nationsglory:reinforced_illumenite_helmet.name=Casque Illumenite Renforcé	#
+item.nationsglory:reinforced_illumenite_sword.name=Epee Illumenite Renforcé	#
+item.nationsglory:reinforced_adamentium_boots.name=Bottes Adamentium Renforcé	#
+item.nationsglory:reinforced_adamentium_leggings.name=Jambières Adamentium Renforcé	#
+item.nationsglory:reinforced_adamentium_chestplate.name=Plastron Adamentium Renforcé	#
+item.nationsglory:reinforced_adamentium_helmet.name=Casque Adamentium Renforcé	#
+item.nationsglory:reinforced_adamentium_sword.name=Epee Adamentium Renforcé	#
+item.nationsglory:reinforced_steel_boots.name=Bottes Acier Renforcé	#
+item.nationsglory:reinforced_steel_leggings.name=Jambières Acier Renforcé	#
+item.nationsglory:reinforced_steel_chestplate.name=Plastron Acier Renforcé	#
+item.nationsglory:reinforced_steel_helmet.name=Casque Acier Renforcé	#
+item.nationsglory:reinforced_steel_sword.name=Epee Acier Renforcé	#
+item.nationsglory:reinforced_diamond_boots.name=Bottes Diamant Renforcé	#
+item.nationsglory:reinforced_diamond_leggings.name=Jambières Diamant Renforcé	#
+item.nationsglory:reinforced_diamond_chestplate.name=Plastron Diamant Renforcé	#
+item.nationsglory:reinforced_diamond_helmet.name=Casque Diamant Renforcé	#
+item.nationsglory:reinforced_diamond_sword.name=Epee Diamant Renforcé	#
+item.nationsglory:reinforced_diamond.name=Diamant Renforcé	#
+item.nationsglory:reinforced_steel.name=Acier Renforcé	#
+item.nationsglory:reinforced_mythril.name=Mythril Renforcé	#
+item.nationsglory:reinforced_iron.name=Fer Renforcé	#
+item.nationsglory:reinforced_illumenite.name=Illumenite Renforcé	#
+item.nationsglory:reinforced_fyrite.name=Fyrite Renforcé	#
+item.nationsglory:reinforced_adamentium.name=Adamentium Renforcé	#
+item.nationsglory:magnetique.name=Missile Magnetique	#
+item.nationsglory:endbringer.name=Missile EndBringer	#
+item.nationsglory:earthquake.name=Missile Earthquake	#
+item.nationsglory:drill.name=Missile Drill	#
+
+item.nationsglory:cargo_rocket_blueprint.name=Plan de construction de fusée cargo	#
+item.nationsglory:rocket_blueprint.name=Plan de construction de fusée	#
+item.nationsglory:missile_blueprint_red.name=Plan de construction missile	#
+item.nationsglory:missile_blueprint_blue.name=Plan de construction missile	#
+item.nationsglory:missile_blueprint_green.name=Plan de construction missile	#
+item.nationsglory:missile_blueprint_cyan.name=Plan de construction missile	#
+item.nationsglory:missile_blueprint_yellow.name=Plan de construction missile	#
+item.nationsglory:nuclear_reactor_blueprint.name=Plan de construction de réacteur nucléaire	#
+item.nationsglory:plasmic_accumulator_blueprint.name=Plan de construction d'accumulateur de plasma	#
+item.nationsglory:solar_generator_blueprint.name=Plan de construction de générateur solaire	#
+item.nationsglory:raw_desh.name=Desh brut	#
+item.nationsglory:raw_tin.name=Étain brut	#
+item.nationsglory:raw_aluminium.name=Aluminium brut	#
+item.nationsglory:raw_lead.name=Plomb brut	#
+item.nationsglory:raw_cryolite.name=Cryolite brut	#
+item.nationsglory:crusher.name=Concasseur	#
+
+
+
+
+
+item.nationsglory:desh_compressed.name=Desh compressé	#
+item.nationsglory:lead_compressed.name=Plomb compressé	#
+item.nationsglory:zirconium_compressed.name=Zirconium compressé	#
+item.nationsglory:cryolite_compressed.name=Cryolite compressé	#
+item.nationsglory:crystal_compressed.name=Cristal compressé	#
+item.nationsglory:fusee_cargo.name=Fusée cargo	#
+
+
+tile.nationsglory:fyrite_ore.name=Fyrite Ore	#
+tile.nationsglory:moon_dirt.name=Terre de la lune	#
+tile.nationsglory:moon_stone.name=Pierre de la lune	#
+tile.nationsglory:moon_sable.name=Sable de la lune	#
+tile.nationsglory:moon_rock.name=Rocher de la lune	#
+tile.nationsglory:moon_spike.name=Pique de la lune	#
+tile.nationsglory:moon_cobblestone.name=Cobblestone de la lune	#
+tile.nationsglory:moon_coal_ore.name=Minerai de charbon de la lune	#
+tile.nationsglory:moon_iron_ore.name=Minerai de fer de la lune	#
+tile.nationsglory:moon_gold_ore.name=Minerai d'or de la lune	#
+tile.nationsglory:moon_diamond_ore.name=Minerai de diamant de la lune	#
+tile.nationsglory:moon_emerald_ore.name=Minerai d'émeraude de la lune	#
+tile.nationsglory:moon_redstone_ore.name=Minerai de redstone de la lune	#
+
+tile.nationsglory:moon_copper_ore.name=Minerai de cuivre de la lune	#
+
+tile.nationsglory:sediment_frozen.name=Sédiment gelé	#
+tile.nationsglory:frozen_leave.name=Feuille gelée	#
+tile.nationsglory:frozen_grass.name=Herbe gelée	#
+tile.nationsglory:frozen_jelly.name=Gelée gelée	#
+
+
+
+tile.nationsglory:frozen_stone_1.name=Pierre gelée 1	#
+tile.nationsglory:frozen_stone_2.name=Pierre gelée 2	#
+tile.nationsglory:frozen_stone_3.name=Pierre gelée 3	#
+tile.nationsglory:frozen_stone_4.name=Pierre gelée 4	#
+tile.nationsglory:frozen_stone_frost.name=Pierre gelée 5	#
+tile.nationsglory:frozen_stone_frost_big.name=Pierre gelée 6 #
+tile.nationsglory:ice_spike_falling.name=Pique de glace	#
+tile.nationsglory:ice_spike_rising_top.name=Pique de glace	#
+
+tile.nationsglory:leave_bush_bottom.name=Buisson de feuille	gelée bottom#
+tile.nationsglory:leave_bush_top.name=Buisson de feuille gelée top	#
+tile.nationsglory:flower_cactus.name=Fleur de cactus	#
+tile.nationsglory:snow_grass.name=Herbe de neige	#
+tile.nationsglory:snow_spike_rising.name=Pique de neige	#
+tile.nationsglory:stone_spike_rising.name=Pique de pierre	#
+tile.nationsglory:toxic_grass_tall.name=Herbe toxique	#
+tile.nationsglory:toxic_snow_1.name=Neige toxique	#
+tile.nationsglory:toxic_snow_2.name=Neige toxique	#
+tile.nationsglory:toxic_snow_3.name=Neige toxique	#
+tile.nationsglory:glow_grass_toall_top.name=Herbe lumineuse	#
+tile.nationsglory:glow_vine_top.name=Lierre lumineux	#
+tile.nationsglory:edora_cobble_purple_light.name=Briques d'Edora	#
+
+tile.nationsglory:edora_cobble_purple.name=Briques d'Edora	#
+tile.nationsglory:toxic_grass_tall_top.name=Herbe toxique	#
+
+
+item.nationsglory:onyx_rod.name=Barre d'onyx	#
+item.nationsglory:meteor_fragment.name=Fragment de météorite	#
+item.nationsglory:meteor.name=Météorite	#
+item.nationsglory:kevlar.name=Kevlar	#
+item.nationsglory:missile_thruster.name=Propulseur de missile	#
+item.nationsglory:missile_guidance.name=Guidage de missile	#
+item.nationsglory:caoutchou.name=Caoutchouc	#
+item.nationsglory:caoutchouteuse.name=Caoutchouteuse	#
+
+
+
+
+tile.nationsglory:darkoak_pillar_base.name=Base de pilier de chêne noir	#
+tile.nationsglory:museum_glass.name=Verre de musée	#
+tile.nationsglory:museum_wall_mosaic_top_2.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_top_1.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_bottom_2.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_bottom_1.name=Mur de mosaïque de musée	#
+tile.nationsglory:wool_colored_ng.name=Laine colorée	#
+tile.nationsglory:wool_colored_border.name=Laine colorée	#
+tile.nationsglory:darkoak_pillar.name=Pilier de chêne noir	#
+
+
+tile.nationsglory:museum_mosaic_bottom.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_bottom_2.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_top.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_top_2.name=Mosaïque de musée	#
+tile.nationsglory:museum_wall_blue.name=Mur de musée	#
+tile.nationsglory:museum_wall_top.name=Mur de musée	#
+tile.nationsglory:pillar_center.name=Pilier	#
+tile.nationsglory:museum_floor.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_2.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_3.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_4.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_2.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_3.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_4.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side.name=Sol de musée	#
+tile.nationsglory:museum_roof_ornament.name=Ornement de toit de musée	#
+tile.nationsglory:flower_pot.name=Pot de fleur	#
+tile.nationsglory:museum_barrier.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_cord.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_wood.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_wood_simple.name=Barrière de musée	#
+tile.nationsglory:museum_basement_stone_bottom.name=Basement de musée	#
+tile.nationsglory:museum_basement_stone_top.name=Basement de musée	#
+tile.nationsglory:museum_basement_wood.name=Basement de musée	#
+tile.nationsglory:pillard_top.name=Pilier	#
+
+tile.nationsglory:holo_projector_small.name=Hologramme	#
+
+tile.nationsglory:ashstone_block.name=Bloc d'ashstone	#
+tile.nationsglory:onyx_block.name=Bloc d'onyx	#
+tile.nationsglory:crystalin_plank.name=Planches de crystalin	#
+tile.nationsglory:soulwood_plank.name=Planches de bois des âmes	#
+
+tile.nationsglory:westeros_dirt_classic.name=Terre de Westeros	#
+tile.nationsglory:westeros_dirt.name=Terre de Westeros	#
+tile.nationsglory:westeros_glowing.name=Lumière de Westeros	#
+tile.nationsglory:pillar_briques.name=Pilier de briques	#
+
+tile.nationsglory:tonneau.name=Tonneau	#
+tile.nationsglory:westeros_log.name=Bûche de Westeros	#
+tile.nationsglory:westeros_log_full.name=Bûche de Westeros	#
+tile.nationsglory:westeros_flower_orchid.name=Orchidée	#
+tile.nationsglory:westeros_flower_sunflower.name=Tournesol	#
+tile.nationsglory:westeros_flower_rose.name=Rose	#
+tile.nationsglory:westeros_flower_geranium.name=Géranium	#
+tile.nationsglory:westeros_flower_purple.name=Fleur violette	#
+tile.nationsglory:westeros_flower_green.name=Fleur verte	#
+tile.nationsglory:westeros_flower_big_red.name=Fleur rouge	#
+tile.nationsglory:westeros_flower_pink.name=Fleur rose	#
+tile.nationsglory:mythril_ore.name=Mythril Ore	#
+item.nationsglory:gas_collector.name=Collecteur de Gaz	#
+item.nationsglory:gas_extractor.name=Extracteur de Gaz	#
+item.nationsglory:gas_tank.name=Citerne de Gaz	#
+
+item.nationsglory:gas_helmet.name=§6Casque Gaz	#
+item.nationsglory:gas_chestplate.name=§6Plastron Gaz	#
+item.nationsglory:gas_leggings.name=§6Jambières Gaz	#
+item.nationsglory:gas_boots.name=§6Bottes Gaz	#
+
+item.nationsglory:moon_helmet.name=§7Casque lunaire	#
+item.nationsglory:moon_chestplate.name=§7Plastron lunaire	#
+item.nationsglory:moon_leggings.name=§7Jambières lunaire	#
+item.nationsglory:moon_boots.name=§7Bottes lunaire	#
+
+item.nationsglory:cow_armor_boots.name=§eBottes de vache	#
+item.nationsglory:cow_armor_leggings.name=§eJambières de vache	#
+item.nationsglory:cow_armor_chestplate.name=§ePlastron de vache	#
+item.nationsglory:cow_armor_helmet.name=§eCasque de vache	#
+
+item.nationsglory:modo_armor_boots.name=§2Bottes de Modo	#
+item.nationsglory:modo_armor_leggings.name=§2Jambières de Modo	#
+item.nationsglory:modo_armor_chestplate.name=§2Plastron de Modo	#
+item.nationsglory:modo_armor_helmet.name=§2Casque de Modo	#
+
+
+item.nationsglory:spartan_boots.name=§eBottes Spartiate	#
+item.nationsglory:spartan_leggings.name=§eJambières Spartiate	#
+item.nationsglory:spartan_chestplate.name=§ePlastron Spartiate	#
+
+item.nationsglory:spartan_helmet.name=§eCasque Spartiate	#
+
+item.nationsglory:christmas_biscuit.name=Biscuit de Noel	#
+item.nationsglory:christmas_candycane_blue.name=Canne à Sucre Bleu	#
+item.nationsglory:christmas_candycane_green.name=Canne à Sucre Vert	#
+item.nationsglory:christmas_candycane_red.name=Canne à Sucre Rouge	#
+item.nationsglory:christmas_easteregg_green.name=Oeuf de Paques Vert	#
+item.nationsglory:christmas_easteregg_lime.name=Oeuf de Paques Lime	#
+item.nationsglory:christmas_easteregg_purple.name=Oeuf de Paques Violet	#
+item.nationsglory:christmas_easteregg_red.name=Oeuf de Paques Rouge	#
+item.nationsglory:christmas_gift_blue.name=Cadeau Bleu	#
+item.nationsglory:christmas_gift_green.name=Cadeau Vert	#
+item.nationsglory:christmas_gift_red.name=Cadeau Rouge	#
+item.nationsglory:christmas_milk.name=Verre de Lait	#
+item.nationsglory:christmas_santaclaus_boots.name=Bottes du Père Noel	#
+item.nationsglory:christmas_santaclaus_chestplate.name=Veste du Père Noel	#
+item.nationsglory:christmas_santaclaus_helmet.name=Bonnet du Père Noel	#
+item.nationsglory:christmas_santaclaus_leggings.name=Pantalon du Père Noel	#
+item.nationsglory:christmas_snowflake.name=Flocon de Neige	#
+item.nationsglory:christmas_snowglobe.name=Boule à Neige	#
+item.nationsglory:christmas_star.name=Etoile de Noel	#
+
+tile.nationsglory:mob_spawner.name=Spawner de Mob	#
+tile.nationsglory:blue_mushroom_plant.name=Champignon bleu	#
+tile.nationsglory:bone_block_edora.name=Bloc d'os edora	#
+tile.nationsglory:ice_1.name=Glace 1	#
+tile.nationsglory:christmas_star_block.name=Etoile de Noel	#
+tile.nationsglory:snow_toxic_roots.name=Neige toxique	#
+tile.nationsglory:snow_floor_0.name=Chemins de neige	#
+tile.nationsglory:snow_floor_1.name=Chemins de neige	#
+tile.nationsglory:snow_floor_2.name=Chemins de neige	#
+tile.nationsglory:snow_floor_3.name=Chemins de neige	#
+tile.nationsglory:snow_floor_4.name=Chemins de neige	#
+tile.nationsglory:snow_floor_5.name=Chemins de neige	#
+tile.nationsglory:snow_floor_6.name=Chemins de neige	#
+tile.nationsglory:snow_floor_7.name=Chemins de neige	#
+tile.nationsglory:snow_floor_8.name=Chemins de neige	#
+tile.nationsglory:snow_floor_9.name=Chemins de neige	#
+tile.nationsglory:copper_block_2.name=Bloc de cuivre	#
+tile.nationsglory:copper_block_3.name=Bloc de cuivre	#
+tile.nationsglory:copper_block_4.name=Bloc de cuivre	#
+tile.nationsglory:scienceblock_dark.name=Bloc de science	#
+
+
+tile.nationsglory:panel_pillard_wood.name=Panneau de bois	#
+tile.nationsglory:panel_corner_top_roof_wood.name=Coin de toit en bois	#
+tile.nationsglory:panel_corner_top_right_roof_wood.name=Coin de toit en bois	#
+tile.nationsglory:panel_corner_top_left_roof_wood.name=Coin de toit en bois	#
+tile.nationsglory:panel_center_wood.name=Panneau de bois	#
+tile.nationsglory:panel_corner_botom_left_wood.name=Coin de bas en bois	#
+tile.nationsglory:panel_corner_botom_right_wood.name=Coin de bas en bois	#
+tile.nationsglory:panel_corner_botom_wood.name=Coin de bas en bois	#
+tile.nationsglory:panel_corner_left_wood.name=Coin de gauche en bois	#
+tile.nationsglory:panel_corner_right_wood.name=Coin de droite en bois	#
+tile.nationsglory:panel_corner_top_wood.name=Coin de haut en bois	#
+tile.nationsglory:panel_corner_top_left_wood.name=Coin de haut en bois	#
+
+tile.nationsglory:panel_corner_top_right_wood.name=Coin de haut en bois	#
+
+tile.nationsglory:panel_pillard_bambou.name=Panneau de bambou	#
+tile.nationsglory:panel_corner_top_roof_bambou.name=Coin de toit en bambou	#
+tile.nationsglory:panel_corner_top_right_roof_bambou.name=Coin de toit en bambou	#
+tile.nationsglory:panel_corner_top_left_roof_bambou.name=Coin de toit en bambou	#
+tile.nationsglory:panel_center_bambou.name=Panneau de bambou	#
+tile.nationsglory:panel_corner_botom_left_bambou.name=Coin de bas en bambou	#
+tile.nationsglory:panel_corner_botom_right_bambou.name=Coin de bas en bambou	#
+tile.nationsglory:panel_corner_botom_bambou.name=Coin de bas en bambou	#
+tile.nationsglory:panel_corner_left_bambou.name=Coin de gauche en bambou	#
+tile.nationsglory:panel_corner_right_bambou.name=Coin de droite en bambou	#
+tile.nationsglory:panel_corner_top_bambou.name=Coin de haut en bambou	#
+tile.nationsglory:panel_corner_top_left_bambou.name=Coin de haut en bambou	#
+tile.nationsglory:panel_corner_top_right_bambou.name=Coin de haut en bambou	#
+
+tile.nationsglory:black_terracotta_bricks.name=Black terracotta bricks	#
+tile.nationsglory:black_terracotta_shingles2.name=Black terracotta shingles	#
+tile.nationsglory:blackstone_brick2.name=Blackstone brick	#
+tile.nationsglory:blackstone_triangle.name=Blackstone triangle	#
+tile.nationsglory:bloc_chaux_squared.name=Bloc chaux squared	#
+tile.nationsglory:blue_terracotta_bricks.name=Blue terracotta bricks	#
+tile.nationsglory:blue_terracotta_shingles2.name=Blue terracotta shingles	#
+tile.nationsglory:brown_terracotta_bricks.name=Brown terracotta bricks	#
+tile.nationsglory:brown_terracotta_shingles2.name=Brown terracotta shingles	#
+tile.nationsglory:cyan_terracotta_bricks.name=Cyan terracotta bricks	#
+tile.nationsglory:cyan_terracotta_shingles2.name=Cyan terracotta shingles	#
+tile.nationsglory:diorite_brick2.name=Diorite brick	#
+tile.nationsglory:diorite_triangle.name=Diorite triangle	#
+tile.nationsglory:endstone_brick2.name=Endstone brick	#
+tile.nationsglory:endstone_smooth.name=Endstone smooth	#
+tile.nationsglory:endstone_triangle.name=Endstone triangle	#
+tile.nationsglory:frozenstone_brick2.name=Frozenstone brick	#
+tile.nationsglory:frozenstone_bricksmall.name=Frozenstone bricksmall	#
+tile.nationsglory:frozenstone_bricksmallsquare.name=Frozenstone bricksmallsquare	#
+tile.nationsglory:frozenstone_carved.name=Frozenstone carved	#
+tile.nationsglory:frozenstone_triangle.name=Frozenstone triangle	#
+tile.nationsglory:granite_brick2.name=Granite brick	#
+tile.nationsglory:gray_terracotta_bricks.name=Gray terracotta bricks	#
+tile.nationsglory:gray_terracotta_shingles2.name=Gray terracotta shingles	#
+tile.nationsglory:green_terracotta_bricks.name=Green terracotta bricks	#
+tile.nationsglory:green_terracotta_shingles2.name=Green terracotta shingles	#
+tile.nationsglory:junglestone_brick2.name=Junglestone brick	#
+tile.nationsglory:junglestone_triangle.name=Junglestone triangle	#
+tile.nationsglory:light_blue_terracotta_bricks.name=Light blue terracotta bricks	#
+tile.nationsglory:light_blue_terracotta_shingles2.name=Light blue terracotta shingles	#
+tile.nationsglory:light_gray_terracotta_bricks.name=Light gray terracotta bricks	#
+tile.nationsglory:light_gray_terracotta_shingles2.name=Light gray terracotta shingles	#
+tile.nationsglory:lime_terracotta_bricks.name=Lime terracotta bricks	#
+tile.nationsglory:lime_terracotta_shingles2.name=Lime terracotta shingles	#
+tile.nationsglory:magenta_terracotta_bricks.name=Magenta terracotta bricks	#
+tile.nationsglory:magenta_terracotta_shingles2.name=Magenta terracotta shingles	#
+tile.nationsglory:mud_brick.name=Mud brick	#
+tile.nationsglory:mud_bricksmall.name=Mud bricksmall	#
+tile.nationsglory:mud_bricksmallsquare.name=Mud bricksmallsquare	#
+tile.nationsglory:mud_bricksquare.name=Mud bricksquare	#
+tile.nationsglory:mud_carved.name=Mud carved	#
+tile.nationsglory:mud_chiseled.name=Mud chiseled	#
+tile.nationsglory:mud_smooth.name=Mud smooth	#
+tile.nationsglory:mud_triangle.name=Mud triangle	#
+tile.nationsglory:nether_brick.name=Nether brick	#
+tile.nationsglory:nether_brick2.name=Nether brick	#
+tile.nationsglory:nether_bricksmall.name=Nether bricksmall	#
+tile.nationsglory:nether_bricksmallsquare.name=Nether bricksmallsquare	#
+tile.nationsglory:nether_bricksquare.name=Nether bricksquare	#
+tile.nationsglory:nether_carved.name=Nether carved	#
+tile.nationsglory:nether_chiseled.name=Nether chiseled	#
+tile.nationsglory:nether_smooth.name=Nether smooth	#
+tile.nationsglory:nether_triangle.name=Nether triangle	#
+tile.nationsglory:purpur_brick.name=Purpur brick	#
+tile.nationsglory:purpur_brick2.name=Purpur brick	#
+tile.nationsglory:purpur_bricksmall.name=Purpur bricksmall	#
+tile.nationsglory:purpur_bricksmallsquare.name=Purpur bricksmallsquare	#
+tile.nationsglory:purpur_bricksquare.name=Purpur bricksquare	#
+tile.nationsglory:purpur_carved.name=Purpur carved	#
+tile.nationsglory:purpur_chiseled.name=Purpur chiseled	#
+tile.nationsglory:purpur_smooth.name=Purpur smooth	#
+tile.nationsglory:purpur_triangle.name=Purpur triangle	#
+tile.nationsglory:prismarine_brick.name=Prismarine brick	#
+tile.nationsglory:prismarine_brick2.name=Prismarine brick	#
+tile.nationsglory:prismarine_bricksmall.name=Prismarine bricksmall	#
+tile.nationsglory:prismarine_bricksmallsquare.name=Prismarine bricksmallsquare	#
+tile.nationsglory:prismarine_bricksquare.name=Prismarine bricksquare	#
+tile.nationsglory:prismarine_carved.name=Prismarine carved	#
+tile.nationsglory:prismarine_chiseled.name=Prismarine chiseled	#
+tile.nationsglory:prismarine_smooth.name=Prismarine smooth	#
+tile.nationsglory:prismarine_triangle.name=Prismarine triangle	#
+tile.nationsglory:snow_brick2.name=Snow brick	#
+tile.nationsglory:snow_bricksmall.name=Snow bricksmall	#
+tile.nationsglory:snow_bricksmallsquare.name=Snow bricksmallsquare	#
+tile.nationsglory:snow_bricksquare.name=Snow bricksquare	#
+tile.nationsglory:snow_carved.name=Snow carved	#
+tile.nationsglory:snow_chiseled.name=Snow chiseled	#
+tile.nationsglory:snow_smooth.name=Snow smooth	#
+tile.nationsglory:snow_triangle.name=Snow triangle	#
+tile.nationsglory:redsand_brick.name:Redsand brick	#
+tile.nationsglory:redsand_brick2.name:Redsand brick	#
+tile.nationsglory:redsand_bricksmall.name:Redsand bricksmall	#
+tile.nationsglory:redsand_bricksmallsquare.name:Redsand bricksmallsquare	#
+tile.nationsglory:redsand_bricksquare.name:Redsand bricksquare	#
+tile.nationsglory:redsand_carved.name:Redsand carved	#
+tile.nationsglory:redsand_chiseled.name:Redsand chiseled	#
+tile.nationsglory:redsand_smooth.name:Redsand smooth	#
+tile.nationsglory:redsand_triangle.name:Redsand triangle	#
+tile.nationsglory:rednether_brick.name:Rednether brick	#
+tile.nationsglory:rednether_brick2.name:Rednether brick	#
+tile.nationsglory:rednether_bricksmall.name:Rednether bricksmall	#
+tile.nationsglory:rednether_bricksmallsquare.name:Rednether bricksmallsquare	#
+tile.nationsglory:rednether_bricksquare.name:Rednether bricksquare	#
+tile.nationsglory:rednether_carved.name:Rednether carved	#
+tile.nationsglory:rednether_chiseled.name:Rednether chiseled	#
+tile.nationsglory:rednether_smooth.name:Rednether smooth	#
+tile.nationsglory:rednether_triangle.name:Rednether triangle	#
+tile.nationsglory:orange_terracotta_bricks.name=Orange terracotta bricks	#
+tile.nationsglory:orange_terracotta_shingles2.name=Orange terracotta shingles	#
+tile.nationsglory:pink_terracotta_bricks.name=Pink terracotta bricks	#
+tile.nationsglory:pink_terracotta_shingles2.name=Pink terracotta shingles	#
+tile.nationsglory:purple_terracotta_bricks.name=Purple terracotta bricks	#
+tile.nationsglory:purple_terracotta_shingles2.name=Purple terracotta shingles	#
+tile.nationsglory:quartz_brick.name=Quartz brick	#
+tile.nationsglory:quartz_bricksmall.name=Quartz bricksmall	#
+tile.nationsglory:quartz_bricksmallsquare.name=Quartz bricksmallsquare	#
+tile.nationsglory:quartz_bricksquare.name=Quartz bricksquare	#
+tile.nationsglory:quartz_carved.name=Quartz carved	#
+tile.nationsglory:quartz_triangle.name=Quartz triangle	#
+tile.nationsglory:red_sandcarved.name=Red sandcarved	#
+tile.nationsglory:red_sandchiseled.name=Red sandchiseled	#
+tile.nationsglory:red_terracotta_shingles2.name=Red terracotta shingles	#
+tile.nationsglory:red_terracotta_bricks.name=Red terracotta bricks	#
+tile.nationsglory:sand_brick2.name=Sand brick	#
+tile.nationsglory:sand_triangle.name=Sand triangle	#
+
+tile.nationsglory:furniture_coastal_armchair.name=Fauteuil style côtier
+tile.nationsglory:furniture_coastal_chair.name=Chaise style côtier
+tile.nationsglory:furniture_coastal_buoy.name=Bouée
+tile.nationsglory:furniture_coastal_buoy_2.name=Bouée
+tile.nationsglory:furniture_coastal_nightstand.name=Table de chevet style côtier
+tile.nationsglory:furniture_coastal_mirror.name=Miroir style côtier
+tile.nationsglory:furniture_coastal_anchor.name=Ancre
+tile.nationsglory:furniture_coastal_bedside_lamp.name=Lampe de chevet style côtier
+tile.nationsglory:furniture_coastal_painting.name=Tableau côtier
+tile.nationsglory:furniture_coastal_shutter.name=Volet style côtier
+tile.nationsglory:furniture_coastal_rug.name=Tapis marinière
+tile.nationsglory:furniture_plant_palm.name=Palmier en pot
+tile.nationsglory:furniture_flower_pot_big.name=Grand pot de fleur
+tile.nationsglory:furniture_coastal_table.name=Petite table style côtier
+tile.nationsglory:furniture_coastal_table_big.name=Coté de grande table style côtier
+tile.nationsglory:furniture_coastal_hammock_side.name=Côté de hamac
+tile.nationsglory:furniture_coastal_couch_left.name=Canapé style côtier - Gauche
+tile.nationsglory:furniture_coastal_couch_right.name=Canapé style côtier - Droit
+tile.nationsglory:furniture_coastal_bed_top.name=Lit style côtier - Haut
+tile.nationsglory:furniture_coastal_bed_bottom.name=Lit style côtier - Bas
+tile.nationsglory:furniture_coastal_paddle.name=Rames
+tile.nationsglory:furniture_coastal_chandelier.name=Lustre style cotier
+tile.nationsglory:furniture_coastal_dresser_side.name=Coté de commode style côtier
+tile.nationsglory:furniture_coastal_lighthouse_top.name=Lampe phare - Haut
+tile.nationsglory:furniture_coastal_lighthouse_bottom.name=Lampe phare - Bas
+tile.nationsglory:furniture_coastal_bookcase_top.name=Bibliothèque style côtier - Haut
+tile.nationsglory:furniture_coastal_bookcase_bottom.name=Bibliothèque style côtier - Bas
+tile.nationsglory:furniture_coastal_sheel_net.name=Filet à coquillages
+tile.nationsglory:terracotta_bricks.name=Terracotta bricks	#
+tile.nationsglory:terracotta_shingles2.name=Terracotta shingles	#
+tile.nationsglory:white_terracotta_bricks.name=White terracotta bricks	#
+tile.nationsglory:white_terracotta_shingles2.name=White terracotta shingles	#
+tile.nationsglory:yellow_terracotta_bricks.name=Yellow terracotta bricks	#
+tile.nationsglory:yellow_terracotta_shingles2.name=Yellow terracotta shingles	#
+
+
+tile.nationsglory:terracotta_shingles_white_roof.name=Toit en tuiles de terre cuite blanche	#
+tile.nationsglory:white_terracotta_bricks_roof.name=Toit en briques de terre cuite blanche	#
+tile.nationsglory:white_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite blanche	#
+
+tile.nationsglory:terracotta_shingles_black_roof.name=Toit en tuiles de terre cuite noire	#
+tile.nationsglory:black_terracotta_bricks_roof.name=Toit en briques de terre cuite noire	#
+tile.nationsglory:black_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite noire	#
+
+tile.nationsglory:terracotta_shingles_blue_roof.name=Toit en tuiles de terre cuite bleue	#
+tile.nationsglory:blue_terracotta_bricks_roof.name=Toit en briques de terre cuite bleue	#
+tile.nationsglory:blue_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite bleue	#
+
+tile.nationsglory:terracotta_shingles_brown_roof.name=Toit en tuiles de terre cuite marron	#
+tile.nationsglory:brown_terracotta_bricks_roof.name=Toit en briques de terre cuite marron	#
+tile.nationsglory:brown_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite marron	#
+
+tile.nationsglory:terracotta_shingles_cyan_roof.name=Toit en tuiles de terre cuite cyan	#
+tile.nationsglory:cyan_terracotta_bricks_roof.name=Toit en briques de terre cuite cyan	#
+tile.nationsglory:cyan_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite cyan	#
+
+tile.nationsglory:terracotta_shingles_gray_roof.name=Toit en tuiles de terre cuite grise	#
+tile.nationsglory:gray_terracotta_bricks_roof.name=Toit en briques de terre cuite grise	#
+tile.nationsglory:gray_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite grise	#
+
+tile.nationsglory:terracotta_shingles_green_roof.name=Toit en tuiles de terre cuite verte	#
+tile.nationsglory:green_terracotta_bricks_roof.name=Toit en briques de terre cuite verte	#
+tile.nationsglory:green_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite verte	#
+
+tile.nationsglory:terracotta_shingles_light_blue_roof.name=Toit en tuiles de terre cuite bleu clair	#
+tile.nationsglory:light_blue_terracotta_bricks_roof.name=Toit en briques de terre cuite bleu clair	#
+tile.nationsglory:light_blue_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite bleu clair	#
+
+tile.nationsglory:terracotta_shingles_light_gray_roof.name=Toit en tuiles de terre cuite gris clair	#
+tile.nationsglory:light_gray_terracotta_bricks_roof.name=Toit en briques de terre cuite gris clair	#
+tile.nationsglory:light_gray_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite gris clair	#
+
+tile.nationsglory:terracotta_shingles_lime_roof.name=Toit en tuiles de terre cuite verte clair	#
+tile.nationsglory:lime_terracotta_bricks_roof.name=Toit en briques de terre cuite verte clair	#
+tile.nationsglory:lime_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite verte clair	#
+
+tile.nationsglory:terracotta_shingles_magenta_roof.name=Toit en tuiles de terre cuite magenta	#
+tile.nationsglory:magenta_terracotta_bricks_roof.name=Toit en briques de terre cuite magenta	#
+tile.nationsglory:magenta_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite magenta	#
+
+tile.nationsglory:terracotta_shingles_orange_roof.name=Toit en tuiles de terre cuite orange	#
+tile.nationsglory:orange_terracotta_bricks_roof.name=Toit en briques de terre cuite orange	#
+tile.nationsglory:orange_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite orange	#
+
+tile.nationsglory:terracotta_shingles_pink_roof.name=Toit en tuiles de terre cuite rose	#
+tile.nationsglory:pink_terracotta_bricks_roof.name=Toit en briques de terre cuite rose	#
+tile.nationsglory:pink_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite rose	#
+
+tile.nationsglory:terracotta_shingles_purple_roof.name=Toit en tuiles de terre cuite violette	#
+tile.nationsglory:purple_terracotta_bricks_roof.name=Toit en briques de terre cuite violette	#
+tile.nationsglory:purple_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite violette	#
+
+tile.nationsglory:terracotta_shingles_red_roof.name=Toit en tuiles de terre cuite rouge	#
+tile.nationsglory:red_terracotta_bricks_roof.name=Toit en briques de terre cuite rouge	#
+tile.nationsglory:red_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite rouge	#
+
+tile.nationsglory:terracotta_shingles_yellow_roof.name=Toit en tuiles de terre cuite jaune	#
+tile.nationsglory:yellow_terracotta_bricks_roof.name=Toit en briques de terre cuite jaune	#
+tile.nationsglory:yellow_terracotta_shingles2_roof.name=Toit en tuiles de terre cuite jaune	#
+
+
+item.nationsglory:antiballistic_missile.name=Missile antibalistique	#
+item.nationsglory:avoine_arctique_seeds.name=Graines d'avoine arctique	#
+item.nationsglory:eco_bow.name=Arc Eco	#
+
+
+item.nationsglory:christmas_stocking.name=Chaussette de Noel	#
+item.nationsglory:epautre_frozen.name=Epautre gelé	#
+item.nationsglory:epautre_frozen_seeds.name=Graines d'epautre gelé	#
+item.nationsglory:avoine_arctique_glace.name=Avoine arctique	#
+
+
+
+item.nationsglory:gas_compressor.name=Compresseur de Gaz	#
+item.nationsglory:gas_bottle.name=Bouteille de gaz	#
+item.nationsglory:zirconium_helmet.name=§bCasque Zirconium	#
+item.nationsglory:zirconium_chestplate.name=§bPlastron Zirconium	#
+item.nationsglory:zirconium_leggings.name=§bPantalon Zirconium	#
+item.nationsglory:zirconium_boots.name=§bBottes Zirconium	#
+item.nationsglory:zirconium_sword.name=§b Epee Zirconium	#
+item.nationsglory:zirconium_shovel.name=§b Pelle Zirconium	#
+item.nationsglory:zirconium_pickaxe.name=§b Pioche Zirconium	#
+item.nationsglory:zirconium_hoe.name=§b Houe Zirconium	#
+item.nationsglory:zirconium_axe.name=§b Hache Zirconium	#
+item.nationsglory:deuterium.name=Deuterium Brut	#
+item.nationsglory:carbon_fiber.name=Fibre de carbone	#
+item.nationsglory:custom_bread_barley.name=Pain d'orge personnalisé	#
+item.nationsglory:custom_bread_bloody.name=Pain sanglant personnalisé	#
+item.nationsglory:custom_bread_consistent.name=Pain consistant personnalisé	#
+item.nationsglory:custom_bread_energy.name=Pain énergétique personnalisé	#
+item.nationsglory:custom_bread_frozen.name=Pain gelé personnalisé	#
+item.nationsglory:custom_bread_gas.name=Pain gazeux personnalisé	#
+item.nationsglory:custom_bread_ginger.name=Pain au gingembre personnalisé	#
+item.nationsglory:custom_bread_golden.name=Pain doré personnalisé	#
+item.nationsglory:custom_bread_gre.name=Pain gre personnalisé	#
+item.nationsglory:custom_bread_martian.name=Pain martien personnalisé	#
+item.nationsglory:custom_bread_protein.name=Pain protéiné personnalisé	#
+item.nationsglory:custom_bread_tahde.name=Pain tahde personnalisé	#
+item.nationsglory:custom_bread_veggie.name=Pain végétarien personnalisé	#
+item.nationsglory:fragment_1.name=Fragment 1	#
+item.nationsglory:fragment_2.name=Fragment 2	#
+item.nationsglory:fragment_3.name=Fragment 3	#
+item.nationsglory:fragment_4.name=Fragment 4	#
+item.nationsglory:fragment_5.name=Fragment 5	#
+item.nationsglory:fragment_6.name=Fragment 6	#
+item.nationsglory:fragment_7.name=Fragment 7	#
+item.nationsglory:fragment_8.name=Fragment 8	#
+item.nationsglory:fragment_9.name=Fragment 9	#
+
+
+tile.nationsglory:darkoak_pillar_base.name=Base de pilier de chêne noir	#
+tile.nationsglory:museum_glass.name=Verre de musée	#
+tile.nationsglory:museum_wall_mosaic_top_2.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_top_1.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_bottom_2.name=Mur de mosaïque de musée	#
+tile.nationsglory:museum_wall_mosaic_bottom_1.name=Mur de mosaïque de musée	#
+tile.nationsglory:wool_colored_ng.name=Laine colorée	#
+tile.nationsglory:wool_colored_border.name=Laine colorée	#
+tile.nationsglory:darkoak_pillar.name=Pilier de chêne noir	#
+
+
+tile.nationsglory:museum_mosaic_bottom.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_bottom_2.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_top.name=Mosaïque de musée	#
+tile.nationsglory:museum_mosaic_top_2.name=Mosaïque de musée	#
+tile.nationsglory:museum_wall_blue.name=Mur de musée	#
+tile.nationsglory:museum_wall_top.name=Mur de musée	#
+tile.nationsglory:pillar_center.name=Pilier	#
+tile.nationsglory:museum_floor.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_2.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_3.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_corner_4.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_2.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_3.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side_4.name=Sol de musée	#
+tile.nationsglory:museum_floor_carpet_side.name=Sol de musée	#
+tile.nationsglory:museum_roof_ornament.name=Ornement de toit de musée	#
+tile.nationsglory:flower_pot.name=Pot de fleur	#
+tile.nationsglory:museum_barrier.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_cord.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_wood.name=Barrière de musée	#
+tile.nationsglory:museum_barrier_wood_simple.name=Barrière de musée	#
+tile.nationsglory:museum_basement_stone_bottom.name=Basement de musée	#
+tile.nationsglory:museum_basement_stone_top.name=Basement de musée	#
+tile.nationsglory:museum_basement_wood.name=Basement de musée	#
+tile.nationsglory:pillard_top.name=Pilier	#
+
+tile.nationsglory:holo_projector_small.name=Hologramme	#
+
+tile.nationsglory:ashstone_block.name=Bloc d'ashstone	#
+tile.nationsglory:onyx_block.name=Bloc d'onyx	#
+tile.nationsglory:crystalin_plank.name=Planches de crystalin	#
+tile.nationsglory:soulwood_plank.name=Planches de bois des âmes	#
+
+tile.nationsglory:westeros_dirt_classic.name=Terre de Westeros	#
+tile.nationsglory:westeros_dirt.name=Terre de Westeros	#
+tile.nationsglory:westeros_glowing.name=Lumière de Westeros	#
+tile.nationsglory:pillar_briques.name=Pilier de briques	#
+
+tile.nationsglory:tonneau.name=Tonneau	#
+tile.nationsglory:westeros_log.name=Bûche de Westeros	#
+tile.nationsglory:westeros_log_full.name=Bûche de Westeros	#
+tile.nationsglory:westeros_flower_orchid.name=Orchidée	#
+tile.nationsglory:westeros_flower_sunflower.name=Tournesol	#
+tile.nationsglory:westeros_flower_rose.name=Rose	#
+tile.nationsglory:westeros_flower_geranium.name=Géranium	#
+tile.nationsglory:westeros_flower_purple.name=Fleur violette	#
+tile.nationsglory:westeros_flower_green.name=Fleur verte	#
+tile.nationsglory:westeros_flower_big_red.name=Fleur rouge	#
+tile.nationsglory:westeros_flower_pink.name=Fleur rose	#
+
+
+
+
+item.nationsglory:alpha_helmet.name=§cCasque Alpha	#
+item.nationsglory:alpha_chestplate.name=§cPlastron Alpha	#
+item.nationsglory:alpha_leggings.name=§cPantalon Alpha	#
+item.nationsglory:alpha_boots.name=§cBottes Alpha	#
+
+item.nationsglory:gamma_helmet.name=§aCasque Gamma	#
+item.nationsglory:gamma_chestplate.name=§aPlastron Gamma	#
+item.nationsglory:gamma_leggings.name=§aPantalon Gamma	#
+item.nationsglory:gamma_boots.name=§aBottes Gamma	#
+
+item.nationsglory:epsilon_helmet.name=§9Casque Epsilon	#
+item.nationsglory:epsilon_chestplate.name=§9Plastron Epsilon	#
+item.nationsglory:epsilon_leggings.name=§9Pantalon Epsilon	#
+item.nationsglory:epsilon_boots.name=§9Bottes Epsilon	#
+
+item.nationsglory:sigma_helmet.name=§0Casque Sigma	#
+item.nationsglory:sigma_chestplate.name=§0Plastron Sigma	#
+item.nationsglory:sigma_leggings.name=§0Pantalon Sigma	#
+item.nationsglory:sigma_boots.name=§0Bottes Sigma	#
+
+item.nationsglory:omega_helmet.name=§7Casque Omega	#
+item.nationsglory:omega_chestplate.name=§7Plastron Omega	#
+item.nationsglory:omega_leggings.name=§7Pantalon Omega	#
+item.nationsglory:omega_boots.name=§7Bottes Omega	#
+
+item.nationsglory:delta_helmet.name=§eCasque Delta	#
+item.nationsglory:delta_chestplate.name=§ePlastron Delta	#
+item.nationsglory:delta_leggings.name=§ePantalon Delta	#
+item.nationsglory:delta_boots.name=§eBottes Delta	#
+
+tile.nationsglory:frozen_log.name=Tronc de bois toxique		#
+tile.nationsglory:frozen_log_frost.name=Tronc de bois toxique 	#
+tile.nationsglory:frozen_log_toxic.name=Tronc de bois toxique 	#
+tile.nationsglory:frozen_log_full.name=Bois toxique		#
+tile.nationsglory:frozen_plank.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_crate.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_crate2.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_molding.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_molding2.name=Planches de bois toxique		#
+tile.nationsglory:frozenwood_mosaic.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_vertical.name=Planches de bois toxique		#
+tile.nationsglory:frozenwood_wide.name=Planches de bois toxique 	#
+tile.nationsglory:frozenwood_wide2.name=Planches de bois toxique 	#
+
+tile.nationsglory:mangrove_edora_log.name=Tronc de bois des âmes	#
+tile.nationsglory:mangrove_edora_log_full.name=Bois des âmes	#
+tile.nationsglory:racine_edora.name=Racines de bois des âmes	#
+tile.nationsglory:soulwood_crate.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_crate2.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_molding.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_molding2.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_mosaic.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_vertical.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_wide.name=Planches de bois des âmes	#
+tile.nationsglory:soulwood_wide2.name=Planches de bois des âmes	#
+
+tile.nationsglory:blue_log.name=Tronc de crystalin	#
+tile.nationsglory:blue_log_full.name=Bois de crystalin	#
+tile.nationsglory:crystalin_crate.name=Planches de crystalin	#
+tile.nationsglory:crystalin_crate2.name=Planches de crystalin	#
+tile.nationsglory:crystalin_molding.name=Planches de crystalin	#
+tile.nationsglory:crystalin_molding2.name=Planches de crystalin	#
+tile.nationsglory:crystalin_mosaic.name=Planches de crystalin	#
+tile.nationsglory:crystalin_vertical.name=Planches de crystalin	#
+tile.nationsglory:crystalin_wide.name=Planches de crystalin	#
+tile.nationsglory:crystalin_wide2.name=Planches de crystalin	#
+
+tile.nationsglory:mangrove_crate.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_crate2.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_molding.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_molding2.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_mosaic.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_vertical.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_wide.name=Planches de palétuvier	#
+tile.nationsglory:mangrove_wide2.name=Planches de palétuvier	#
+
+tile.nationsglory:oak_blinds.name=Planches en chêne	#
+tile.nationsglory:oak_bricks.name=Planches en chêne		#
+tile.nationsglory:oak_crate.name=Planches en chêne		#
+tile.nationsglory:oakquarkedplanks.name=Planches en chêne		#
+tile.nationsglory:oak_quarked_planks.name=Planches en chêne		#
+tile.nationsglory:oak_molding2.name=Planches en chêne		#
+tile.nationsglory:oak_mosaic.name=Planches en chêne		#
+tile.nationsglory:oak_vertical.name=Planches en chêne		#
+
+tile.nationsglory:dark_oak_blinds.name=Planches en chêne noir	#
+tile.nationsglory:dark_oak_bricks.name=Planches en chêne noir	#
+tile.nationsglory:dark_oak_crate.name=Planches en chêne noir	#
+tile.nationsglory:dark_oak_quarked_planks.name=Planches en chêne noir	#
+tile.nationsglory:darkoak_crate2.name=Planches en chêne noir	#
+tile.nationsglory:darkoak_molding2.name=Planches en chêne noir	#
+tile.nationsglory:darkoak_mosaic.name=Planches en chêne noir	#
+tile.nationsglory:darkoak_vertical.name=Planches en chêne noir	#
+
+tile.nationsglory:birch_blinds.name=Planches de bouleau	#
+tile.nationsglory:birch_bricks.name=Planches de bouleau	#
+tile.nationsglory:birch_crate.name=Planches de bouleau	#
+tile.nationsglory:birch_quarked_planks.name=Planches de bouleau	#
+tile.nationsglory:birch_crate2.name=Planches de bouleau	#
+tile.nationsglory:birch_molding2.name=Planches de bouleau	#
+tile.nationsglory:birch_mosaic.name=Planches de bouleau	#
+tile.nationsglory:birch_vertical.name=Planches de bouleau	#
+
+tile.nationsglory:spruce_blinds.name=Planches de sapin	#
+tile.nationsglory:spruce_bricks.name=Planches de sapin		#
+tile.nationsglory:spruce_crate.name=Planches de sapin		#
+tile.nationsglory:spruce_quarked_planks.name=Planches de sapin		#
+tile.nationsglory:spruce_molding2.name=Planches de sapin		#
+tile.nationsglory:spruce_mosaic.name=Planches de sapin		#
+tile.nationsglory:spruce_vertical.name=Planches de sapin		#
+tile.nationsglory:crate_sapin.name=Planches de sapin	#
+
+tile.nationsglory:jungle_blinds.name=Planches de bois tropical	#
+tile.nationsglory:jungle_crate.name=Planches de bois tropical	#
+tile.nationsglory:jungle_bricks.name=Planches de bois tropical	#
+tile.nationsglory:jungle_quarked_planks.name=Planches de bois tropical	#
+tile.nationsglory:jungle_crate2.name=Planches de bois tropical	#
+tile.nationsglory:jungle_molding2.name=Planches de bois tropical	#
+tile.nationsglory:jungle_mosaic.name=Planches de bois tropical	#
+tile.nationsglory:jungle_vertical.name=Planches de bois tropical	#
+
+tile.nationsglory:acacia_crate2.name=Planches d'acacia	#
+tile.nationsglory:acacia_molding2.name=Planches d'acacia	#
+tile.nationsglory:acacia_mosaic.name=Planches d'acacia	#
+tile.nationsglory:acacia_vertical.name=Planches d'acacia	#
+tile.nationsglory:acacia_blinds.name=Planches d'acacia	#
+tile.nationsglory:acacia_bricks.name=Planches d'acacia	#
+tile.nationsglory:acacia_crate.name=Planches d'acacia	#
+tile.nationsglory:acacia_quarked_planks.name=Planches d'acacia	#
+
+tile.nationsglory:warped_blinds.name=Planches biscornues	#
+tile.nationsglory:warped_bricks.name=Planches biscornues	#
+tile.nationsglory:warped_crate.name=Planches biscornues	#
+tile.nationsglory:warped_quarked_planks.name=Planches biscornues	#
+tile.nationsglory:warped_crate2.name=Planches biscornues	#
+tile.nationsglory:warped_molding2.name=Planches biscornues	#
+tile.nationsglory:warped_mosaic.name=Planches biscornues	#
+tile.nationsglory:warped_vertical.name=Planches biscornues	#
+
+tile.nationsglory:crimson_blinds.name=Planches carmin#
+tile.nationsglory:crimson_bricks.name=Planches carmin	#
+tile.nationsglory:crimson_crate.name=Planches carmin	#
+tile.nationsglory:crimson_quarked_planks.name=Planches carmin	#
+tile.nationsglory:crimson_crate2.name=Planches carmin	#
+tile.nationsglory:crimson_molding2.name=Planches carmin	#
+tile.nationsglory:crimson_mosaic.name=Planches carmin	#
+tile.nationsglory:crimson_vertical.name=Planches carmin	#
+
+item.nationsglory:meduse_residue.name=Résidu de méduse	#
+item.nationsglory:meduse_residue.name=Résidu de méduse	#
+item.nationsglory:toxic_shroom.name=Champignon toxique	#
+item.nationsglory:ice_fox_raw_meat.name=Viande de neblion crue	#
+item.nationsglory:ice_fox_cooked_meat.name=Viande de neblion cuite	#
+item.nationsglory:ghost_wings.name=Ailes de fantôme	#
+item.nationsglory:ice_crystal.name=Cristal de glace	#
+
+item.nationsglory:spawn_glare.name=Glare	#
+item.nationsglory:spawn_glare_frozen.name=Glare gelé	#
+item.nationsglory:spawn_glare_mushroom_purple.name=Glare champignon violet	#
+
+item.nationsglory:spawn_glare_mushroom_blue.name=Glare champignon bleu	#
+
+item.nationsglory:lootbox_nuke.name=§aLootbox Nucléaire	#
+item.nationsglory:lootbox_white_spartan.name=§bLootbox Spartan Blanc	#
+item.nationsglory:white_spartan_gun.name=§bLaser Plasma	#
+item.nationsglory:lootbox_summer.name=§6Lootbox d'été	#
+item.nationsglory:lootbox_pirate.name=§cLootbox Pirate	#
+item.nationsglory:nuclear_forgeblueprint.name=Plan de forge nucléaire	#
+item.nationsglory:nuclear_batteryblueprint.name=Plan de chargeur nucléaire	#
+
+item.nationsglory:antidote.name=Antidote	#
+item.nationsglory:medikit.name=Medikit	#
+item.nationsglory:delimitation_axe.name=Hache de délimitation	#
+item.nationsglory:country_axe.name=Hache de pays    #
+item.nationsglory:spawn_hazardio.name=Hazardio	#
+item.nationsglory:spawn_pirate.name=Pirate	#
+item.nationsglory:spawn_cosmerio.name=Cosmerio	#
+item.nationsglory:spawn_meteo.name=Météo NPC	#
+item.nationsglory:spawn_sky.name=Sky	#
+item.nationsglory:spawn_galaxsus.name=Galaxsus	#
+item.nationsglory:spawn_galaxius_holo.name=Galaxsus Hologramme	#
+item.nationsglory:spawn_atlas.name=Atlas	#
+item.nationsglory:spawn_pierre.name=Pierre	#
+item.nationsglory:spawn_military.name=Militaire	#
+item.nationsglory:spawn_guideon.name=Guideon	#
+item.nationsglory:spawn_harpagon.name=Harpagon	#
+item.nationsglory:spawn_terra.name=Terra	#
+item.nationsglory:spawn_marketus.name=Marketus	#
+item.nationsglory:spawn_autel_creeper.name=Autel Creeper	#
+item.nationsglory:spawn_frozen_enderman.name=Enderman gelé	#
+item.nationsglory:spawn_reaper.name=Faucheur	#
+item.nationsglory:spawn_reaper_fly.name=Faucheur volant	#
+item.nationsglory:spawn_ice_spider.name=Araignée de glace	#
+item.nationsglory:spawn_meduse.name=Méduse	#
+item.nationsglory:spawn_mushroom_blue.name=Champignon bleu	#
+item.nationsglory:spawn_mushroom_creeper_blue.name=Champignon Creeper bleu	#
+item.nationsglory:spawn_mushroom_creeper_purple.name=Champignon Creeper violet	#
+item.nationsglory:spawn_mushroom_purple.name=Champignon violet	#
+item.nationsglory:spawn_neblion.name=Neblion	#
+item.nationsglory:spawn_voriack.name=Voriack	#
+
+tile.nationsglory:leaves_purple.name=Feuilles violettes	#
+tile.nationsglory:leaves_purple_opaque.name=Feuilles violettes	#
+tile.nationsglory:leaves_blue.name=Feuilles bleues	#
+tile.nationsglory:leaves_blue_opaque.name=Feuilles bleues	#
+tile.nationsglory:leaves_pink.name=Feuilles roses	#
+tile.nationsglory:leaves_pink_opaque.name=Feuilles roses	#
+tile.nationsglory:leaves_pomegrenade_fruit.name=Feuilles de grenadier	#
+tile.nationsglory:leaves_weirwood.name=Feuilles de weirwood	#
+
+tile.nationsglory:edora_grass_glow_orange.name=Herbe d'Edora	#
+tile.nationsglory:edora_grass_glow_purple.name=Herbe d'Edora	#
+tile.nationsglory:purple_shroom.name=Champignon violet	#
+tile.nationsglory:blue_shroom.name=Champignon bleu	#
+tile.nationsglory:edora_ice.name=Glace d'Edora	#
+tile.nationsglory:edora_ice_crystal_ore.name=Minerai de cristal de glace	#
+tile.nationsglory:edora_ice_transparant.name=Glace d'Edora	#
+tile.nationsglory:edora_emerald_ore.name=Minerai d'émeraude d'Edora	#
+tile.nationsglory:edora_tin_ore.name=Minerai d'étain d'Edora	#
+tile.nationsglory:planks_cherry.name=Planches de cerisier	#
+tile.nationsglory:cherry_crate.name=Planches de cerisier	#
+tile.nationsglory:cherry_crate2.name=Planches de cerisier	#
+tile.nationsglory:cherry_molding.name=Planches de cerisier	#
+tile.nationsglory:cherry_molding2.name=Planches de cerisier	#
+tile.nationsglory:cherry_mosaic.name=Planches de cerisier	#
+tile.nationsglory:cherry_vertical.name=Planches de cerisier	#
+tile.nationsglory:cherry_wide.name=Planches de cerisier	#
+tile.nationsglory:cherry_wide2.name=Planches de cerisier	#
+
+tile.nationsglory:bamboo_crate.name=Planches de bamboo	#
+tile.nationsglory:bamboo_crate2.name=Planches de bamboo	#
+tile.nationsglory:bamboo_molding2.name=Planches de bamboo	#
+tile.nationsglory:bamboo_mosaic.name=Planches de bamboo	#
+tile.nationsglory:bamboo_vertical.name=Planches de bamboo	#
+tile.nationsglory:bamboo_wide.name=Planches de bamboo	#
+tile.nationsglory:bamboo_wide2.name=Planches de bamboo	#

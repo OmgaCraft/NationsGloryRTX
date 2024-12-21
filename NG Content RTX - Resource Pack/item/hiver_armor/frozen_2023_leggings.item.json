@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:frozen_2023_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "frozen_2023_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

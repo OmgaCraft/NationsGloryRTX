@@ -1,0 +1,744 @@
+﻿item.spawn_egg.entity.evocation_illager.name=Terminal	#
+item.spawn_egg.entity.vindicator.name=Missile Conventionnel	#
+item.spawn_egg.entity.shulker.name=Missile Répulsif	#
+item.spawn_egg.entity.ghast.name=Missile Fragmentation	#
+item.spawn_egg.entity.blaze.name=Missile Incendiaire	#
+item.spawn_egg.entity.magma_cube.name=Missile Thermobarique	#
+item.spawn_egg.entity.endermite.name=Missile Nucléaire	#
+item.spawn_egg.entity.elder_guardian.name=Missile Nucléaire Fragmentation	#
+item.spawn_egg.entity.guardian.name=Missile Anti-matière	#
+item.spawn_egg.entity.wither_skeleton.name=Missile Redmatter	#
+item.spawn_egg.entity.panda.name=Missile Shrapnel	#
+item.spawn_egg.entity.fox.name=Missile Endothermique	#
+item.spawn_egg.entity.vex.name=Plateforme	#
+item.spawn_egg.entity.witch.name=§6Outil de rotation	#
+item.spawn_egg.entity.stray.name=Parachute	#
+
+item.spawn_egg.entity.squid.name=Lootbox classique	#
+item.spawn_egg.entity.cave_spider.name=Lootbox légendaire	#
+item.spawn_egg.entity.drowned.name=Lootbox Toxique	#
+item.spawn_egg.entity.husk.name=Lootbox Twitter	#
+item.spawn_egg.entity.zombie_pigman.name=Lootbox Discord	#
+item.spawn_egg.entity.zombie.name=Lootbox de Noel	#
+item.spawn_egg.entity.slime.name=Lootbox Ultime	#
+item.spawn_egg.entity.spider.name=Lootbox Twitch	#
+item.spawn_egg.entity.skeleton.name=Lootbox NGPrime	#
+item.spawn_egg.entity.enderman.name=Lootbox Légendaire de Noël
+item.spawn_egg.entity.silverfish.name=Aspirateur à fantome	#
+item.spawn_egg.entity.polar_bear.name=Clé de maintenance	#
+item.spawn_egg.entity.mooshroom.name=Machine de Casino	#
+item.spawn_egg.entity.cat.name=Compteur électrique	#
+item.spawn_egg.entity.bat.name=Serveur	#
+item.spawn_egg.entity.ocelot.name=Collecteur électrique	#
+
+item.spawn_egg.entity.cod.name=Fusée spatiale	#
+item.spawn_egg.entity.pufferfish.name=Bio-générateur	#
+item.spawn_egg.entity.dolphin.name=Collecteur d'oxygène	#
+item.spawn_egg.entity.salmon.name=Compresseur d'oxygène	#
+item.spawn_egg.entity.tropicalfish.name=Géricane de bio-éthanol	#
+item.spawn_egg.entity.zombie_horse.name=Bombonne d'oxygène	#
+item.spawn_egg.entity.turtle.name=Lingot de desh	#
+item.spawn_egg.entity.creeper.name=Fragment de tiber	#
+item.spawn_egg.entity.bee.name=Piles	#
+item.spawn_egg.entity.chicken.name=Panneau solaire	#
+item.spawn_egg.entity.cow.name=Machine de réparation	#
+item.spawn_egg.entity.pig.name=Machine à potions	#
+item.spawn_egg.entity.sheep.name=Groupe électrogène	#
+item.spawn_egg.entity.wolf.name=Imprimante	#
+
+item.spawn_egg.entity.donkey.name=Chargeur USP45	#
+item.spawn_egg.entity.horse.name=USP45	#
+item.spawn_egg.entity.llama.name=Chargeur AK47	#
+item.spawn_egg.entity.mule.name=RPG-7	#
+item.spawn_egg.entity.rabbit.name=AK47	#
+item.spawn_egg.entity.skeleton_horse.name=Roquette RPG-7	#
+
+tile.glazedTerracottaPurple.name=Minerai de Desh	#
+tile.glazedTerracottaPink.name=Carton de meuble	#
+tile.glazedTerracottaLightBlue.name=Minerai d'onyx	#
+tile.glazedTerracotta.pink.name=Carton de meuble	#
+tile.glazedTerracotta.light_blue.name=Minerai d'onyx	#
+tile.glazedTerracotta.purple.name=Minerai de Desh	#
+item.shulker_shell.name=Unité solaire	#
+item.nautilus_shell.name=Plaque d'acier	#
+item.turtle_shell_piece.name=Moteur	#
+item.heart_of_the_sea.name=Circuit basique	#
+item.chorus_fruit_popped.name=Chargeur de potions	#
+
+
+tile.purpur_block.default.name=Bloc d'ardoise	#
+tile.purpur_block.lines.name=Bloc de briques	#
+tile.purpur_stairs.name=Escalier d'ardoise	#
+tile.stone_slab2.purpur.name=Dalle d'ardoise	#
+tile.mycelium.name=Bloc de terre et gravier	#
+
+tile.log.acacia.name=Tronc de palmier	#
+tile.acacia_stairs.name=Escalier en briques beiges	#
+tile.planks.acacia.name=Bloc de briques beiges	#
+tile.wooden_slab.acacia.name=Dalle de briques beiges	#
+tile.wood.acacia.name=Bois de palmier	#
+item.acacia_door.name=Porte en chêne noir	#
+tile.acaciaFence.name=Clôture de briques beiges	#
+tile.acacia_fence_gate.name=Portail de briques beiges	#
+tile.leaves.acacia.name=Feuilles de pommier	#
+tile.leaves2.acacia.name=Feuilles de pommier	#
+
+tile.leaves.big_oak.name=Feuilles rouges	#
+tile.leaves2.big_oak.name=Feuilles rouges	#
+item.dark_oak_door.name=Porte elfique	#
+tile.darkOakFence.name=Clôture en briques grises	#
+tile.dark_oak_fence_gate.name=Portail en briques grises	#
+tile.log.big_oak.name=Tonneau en bois	#
+tile.wooden_slab.big_oak.name=Dalle de briques grises	#
+tile.planks.big_oak.name=Bloc de briques grises	#
+tile.dark_oak_stairs.name=Escalier de briques grises	#
+
+tile.seaLantern.name=Pierre lumineuse taillée	#
+tile.podzol.name=Bloc d'herbe	#
+
+tile.glazedTerracottaWhite.name=Bloc de briques de basalt	#
+tile.glazedTerracottaOrange.name=Bloc de briques claires	#
+tile.glazedTerracottaMagenta.name=Bloc de fer noir	#
+tile.glazedTerracottaYellow.name=Bloc de briques saumon	#
+tile.glazedTerracottaLime.name=Bloc de briques orangées	#
+tile.glazedTerracottaGray.name=Bloc de terre sableuse	#
+tile.glazedTerracottaSilver.name=Bloc de verre sombre	#
+tile.glazedTerracottaCyan.name=Bloc de métal jaune et noir	#
+tile.glazedTerracottaBlue.name=Bloc de métal clouté	#
+tile.glazedTerracottaBrown.name=Bloc de parquet foncé	#
+tile.glazedTerracottaGreen.name=Bloc de fer oxidé	#
+tile.glazedTerracottaRed.name=Bloc de parquet croisé	#
+tile.glazedTerracottaBlack.name=Bibliothèque	#
+
+tile.glazedTerracotta.white.name=Bloc de briques de basalt	#
+tile.glazedTerracotta.orange.name=Bloc de briques claires	#
+tile.glazedTerracotta.magenta.name=Bloc de fer noir	#
+tile.glazedTerracotta.yellow.name=Bloc de briques saumon	#
+tile.glazedTerracotta.lime.name=Bloc de briques orangées	#
+tile.glazedTerracotta.gray.name=Bloc de terre sableuse	#
+tile.glazedTerracotta.silver.name=Bloc de verre sombre	#
+tile.glazedTerracotta.cyan.name=Bloc de métal jaune et noir	#
+tile.glazedTerracotta.blue.name=Bloc de métal clouté	#
+tile.glazedTerracotta.brown.name=Bloc de parquet foncé	#
+tile.glazedTerracotta.green.name=Bloc de fer oxidé	#
+tile.glazedTerracotta.red.name=Bloc de parquet croisé	#
+tile.glazedTerracotta.black.name=Bloc de terre et gravier	#
+
+tile.end_bricks.name=Bloc de bois plaqué	#
+
+tile.prismarine.bricks.name=Bloc de chaume claire	#
+tile.prismarine.dark.name=Bloc de chaume foncée	#
+tile.prismarine.rough.name=Bloc de tuiles	#
+tile.red_mushroom_block.name=Bloc de chaume croisé	#
+tile.brown_mushroom_block.cap.name=Bloc de carreaux de ciment	#
+tile.brown_mushroom_block.stem.name=Bloc de marbre sculpté	#
+tile.brown_mushroom_block.mushroom.name=Bloc d'acier	#
+tile.cobblestone_wall.prismarine.name=Muret en briques	#
+tile.cobblestone_wall.end_brick.name=Muret en bois plaqué	#
+tile.stone_slab2.prismarine.rough.name=Dalle de tuiles	#
+tile.stone_slab2.prismarine.dark.name=Dalle de chaume foncée	#
+tile.stone_slab2.prismarine.bricks.name=Dalle de chaume claire	#
+
+tile.stone.andesite.name=Bloc de roche sombre 	#
+tile.stone.andesiteSmooth.name=Bloc de briques sombres	#
+tile.stone.diorite.name=Bloc de roche blanche	#
+tile.stone.dioriteSmooth.name=Bloc de roche sculptée	#
+tile.stone.granite.name=Bloc de roche rouge	#
+tile.stone.graniteSmooth.name=Bloc de briques rouges	#
+
+tile.cobblestone_wall.granite.name=Muret de roche rouge	#
+tile.cobblestone_wall.diorite.name=Muret de roche blanche	#
+tile.cobblestone_wall.andesite.name=Muret de briques sombres	#
+
+tile.red_flower.blueOrchid.name=Orchidée violette	#
+tile.red_flower.tulipOrange.name=Tournesol	#
+tile.red_flower.tulipWhite.name=Orchidée rose	#
+tile.red_flower.tulipPink.name=Geranium rose	#
+item.prismarine_shard.name=Plaque en Desh	#
+item.dried_kelp.name=§cBoisson énergisante	#
+item.spawn_egg.entity.parrot.name=Sac à dos	#
+item.prismarine_shard.name=Plaque en Desh	#
+
+item.beetroot_soup.name=Boisson de Construction	#
+item.rabbit_stew.name=Boisson Espion	#
+item.spawn_egg.entity.villager.name=Rocket Launcher	#
+item.spawn_egg.entity.villager_v2.name=Rocket Launcher	#
+
+tile.copper_block.name=Carreaux en marbre
+tile.exposed_copper.name=Pilier en marbre
+tile.weathered_copper.name=Briques en granite blanches
+tile.oxidized_copper.name=Bloc de chaux
+
+tile.cut_copper.name=Bloc de tuiles bleues
+tile.exposed_cut_copper.name=Bloc de tuiles rouges
+tile.weathered_cut_copper.name=Bloc de briques grises
+tile.oxidized_cut_copper.name=Bloc de briques rosées
+
+tile.cut_copper_stairs.name=Escalier de tuiles bleues
+tile.exposed_cut_copper_stairs.name=Escalier de tuiles rouges
+tile.weathered_cut_copper_stairs.name=Escalier de briques grises
+tile.oxidized_cut_copper_stairs.name=Escalier de briques rosées
+
+tile.cut_copper_slab.name=Dalle de tuiles bleues
+tile.exposed_cut_copper_slab.name=Dalle de tuiles rouges
+tile.weathered_cut_copper_slab.name=Dalle de briques grises
+tile.oxidized_cut_copper_slab.name=Dalle de briques rosées
+
+
+// WIKI
+
+hbui.Help.howToPlayButton=Serveur Guide
+accessibility.screenName.howToPlay=Serveur Guide
+howtoplay.category.ng_title=§7§lGuide NationsGlory
+
+
+//catégories
+howtoplay.category.general=§7Général
+howtoplay.category.guide_player=§7Guide Joueur
+howtoplay.category.guide_country=§7Guide Pays
+howtoplay.category.wiki=§7Wiki
+howtoplay.category.others=§7Autres
+
+//BOUTTON PRINCIPE
+howtoplay.principe_section.title=Principe
+howtoplay.principe_section=Principe
+ng_guide_principe_section.header0=Principe
+ng_guide_principe_section.header1=La carte du Monde
+ng_guide_principe_section.header2=Les pays
+ng_guide_principe_section.text0=NationsGlory est un serveur §ePvP/Factions Semi-RP Moddé§r basé sur §ela carte du Monde§r, une représentation fidèle de la Terre avec tous les pays représentés. 
+ng_guide_principe_section.text1= Le principe consiste à rejoindre ou à créer un pays et à le développer pour en faire la plus grosse puissance du monde. Il n'y a jamais de remise à zéro des pays ou de la carte, les pays se créent, évoluent et se détruisent au cours de la vie du serveur.
+ng_guide_principe_section.text2= Le monde comporte §eplus de 200 pays§r, tous fidèles à la réalité avec leurs reliefs, mers, océans et frontières délimitées au sol (en Bedrock). Chaque pays se voit attribuer le territoire qui est le sien dans le monde réel et à la possibilité de s'étendre sur d'autres pays en faisant de la conquête de territoire.
+ng_guide_principe_section.text3= Chaque pays est indépendant et géré en interne par les dirigeants qui ont pour missions de recruter de nouveaux membres, gérer les rôles et permissions, faire construire le pays, gérer les relations avec les autres pays et mener des guerres lorsque c'est necessaire. 
+ng_guide_principe_section.text4= Vous êtes libre de mettre en place le régime que vous souhaitez (république, dictature..), de choisir le style architectural et la stratégie de développement de votre pays.
+ng_guide_principe_section.text5= Les pays se livrent à des guerres de territoire et ont la possibilité de coloniser d'autres pays afin de devenir des empires coloniaux.
+ng_guide_principe_section.text6= NationsGlory est le §epremier serveur "earth" §rdu monde et est en activité §edepuis 2013§r.
+
+//BOUTON RULES
+howtoplay.rules_section.title=Règles/Codex
+howtoplay.rules_section=Règles/Codex
+ng_guide_rules_section.header=Règles/Codex
+ng_guide_rules_section.text0=Le Codex sera prochainement disponible ici !
+
+
+//BOUTON BIEN DEBUTER
+howtoplay.bien_debuter_section.title=Bien débuter
+howtoplay.bien_debuter_section=Bien débuter
+
+ng_guide_bien_debuter_section.header0=Bien débuter
+ng_guide_bien_debuter_section.text0=NationsGlory comporte énormement de contenu et de possibilités de jeu, il est important de bien suivre les étapes qui suivent afin de démarrer au mieux votre aventure sur NG.
+
+ng_guide_bien_debuter_section.header1=Etape 1 : Trouver un Pays
+ng_guide_bien_debuter_section.text1=Votre première mission est de vous trouver un pays, nous vous déconseillons de partir à l'aventure sans pays, vous ne pourrez pas protéger vos constructions et ressources et ne pourrez pas profiter de tous les avantages qu'offrent les pays.
+ng_guide_bien_debuter_section.text2= §6Option 1 - Rejoindre un pays §a(conseillé)
+ng_guide_bien_debuter_section.text3=Rejoindre un pays déjà existant est le moyen le plus simple et rapide de démarrer votre aventure.
+ng_guide_bien_debuter_section.text4=Pour rejoindre un pays: demandez à être recruté dans le chat ou contactez un dirigeant de pays.
+ng_guide_bien_debuter_section.text9=Une fois dans un pays prenez le temps de découvrir son fonctionnement, la commande la plus importante pour cela est §e/f f <pays>§r, elle vous permet d'accéder à la gestion du pays.
+ng_guide_bien_debuter_section.text11=Faîtes ensuite le tour du pays et rejoignez le chat dédié en faisant la commande §e/chat§r, vous pourrez discuter et poser vos questions aux membres du pays.
+ng_guide_bien_debuter_section.text12= §cTrouver un bon pays est important§r, si n'êtes pas bien reçu ou que le pays ne vous convient pas, changez s'en ! Faîtes la commande §e/f leave§r pour le quitter et recommencez à l'Etape 1.
+
+ng_guide_bien_debuter_section.text13= §6Option 2 - Créer votre pays
+ng_guide_bien_debuter_section.text14=Commande à exécuter: §e/f create
+ng_guide_bien_debuter_section.text15=Lors de la création d'un pays vous êtes automatiquement téléporté au centre de ce dernier et votre premier "claim" est placé, il ne vous reste plus qu'à faire §e/f claim§r sur les chunks autour de vous pour agrandir votre territoire.
+ng_guide_bien_debuter_section.text16=A partir de là, la vie de votre pays commence, il vous faut recruter des membres, vous faire des relations, agrandir votre territoire, batir le pays...
+
+ng_guide_bien_debuter_section.header2=Etape 2 : Les bases du joueur
+ng_guide_bien_debuter_section.text17=En tant que joueur, le serveur vous propose de nombreuses mécaniques de jeu qui vous permettront d'évoluer, de gagner de l'argent, de combattre..
+ng_guide_bien_debuter_section.text18= §6Rendez-vous au spawn §rdu serveur, dans la "Capitale", prenez le temps de vous balader et de découvrir la multitude de systèmes, quêtes, messages qui y sont disponibles.
+ng_guide_bien_debuter_section.text19=La plupart des objets que vous voyez sont cliquable, tapez dessus pour ouvrir l'interface qu'ils contiennent, c'est par exemple le cas avec les Boîte aux lettres, Téléporteurs, Hôtel des ventes, Warps...
+
+ng_guide_bien_debuter_section.text20= §6Executer les commandes de base§r qui permettent d'accéder à des fonctionnalités importantes:
+ng_guide_bien_debuter_section.text21=- §e/spawn §r> §7Vous téléporte au spawn du serveur, dans la "Capitale"
+ng_guide_bien_debuter_section.text22=- §e/skills §r> §7Affiche vos compétences (métiers) 
+ng_guide_bien_debuter_section.text23=- §e/hdv §r> §7Affiche l'hôtel des ventes, il permet de vendre/acheter des items à d'autres joueurs
+ng_guide_bien_debuter_section.text24=- §e/adminshop §r> §7Vous téléporte dans l'Adminshop, là où sont vendus les items non-craftable
+ng_guide_bien_debuter_section.text25=- §e/ticket §r> §7Permet de poser une question au staff ou de remonter un problème
+
+ng_guide_bien_debuter_section.text26= §6ATM §r> L'ATM récompense votre temps de jeu, rendez-vous au spawn de temps en temps et cliquez sur le panneau §e[ATM] §rpour obtenir des dollars.
+
+ng_guide_bien_debuter_section.header3=Etape 4: Vos premières missions
+
+
+//BOUTON MINAGE
+howtoplay.mining_section.title=Minage
+howtoplay.mining_section=Minage
+ng_guide_mining_section.header=Minage
+ng_guide_mining_section.text0=Les minerais ont une place très importante sur NG, ils permettent de fabriquer la plupart des armures et des machines.
+ng_guide_mining_section.text1= §6Onyx §r> Minerai rare trouvable dans le nether uniquement, permet de craft l'armure Onyx ainsi que les outils et épée.
+ng_guide_mining_section.text2= §6Desh §r> Minerai rare trouvable sur la Lune uniquement, permet de fabriquer l'armure Desh et des machines électriques.
+ng_guide_mining_section.text3= §6Minerais classiques §r> Tous les autres minerais sont trouvable dans le Monde
+ng_guide_mining_section.text4=Un monde Minage vous permer de miner en sécurité de manière illimitée, pour accéder à §eLa Mine§r rendez-vous au spawn puis dans le portail "La Mine"
+
+
+//BOUTON COMMERCE
+howtoplay.trade_section.title=Commerce
+howtoplay.trade_section=Commerce
+ng_guide_trade_section.header0=Commerce
+ng_guide_trade_section.text0=Le commerce est une notion essentielle sur NG, le serveur a un contenu important et vous aurez continuellement besoin d'acheter et de vendre des ressources aux autres joueurs.
+
+ng_guide_trade_section.header1=Hôtel des ventes
+ng_guide_trade_section.text1=L'Hôtel des ventes (HDV) vous permet de mettre en vente vos items ou bien d'en acheter aux autres joueurs.
+ng_guide_trade_section.text2= Commande pour accéder à l'HDV: §e/hdv
+ng_guide_trade_section.text3= §6Vendre
+ng_guide_trade_section.text4=- Prenez les items dans votre main
+ng_guide_trade_section.text5=- Tapez la commande §e/sell <prix> <quantité> §rpuis §e/sell confirm
+ng_guide_trade_section.text6= §6Acheter
+ng_guide_trade_section.text7=- Ouvrez l'HDV en faisant §e/hdv
+ng_guide_trade_section.text8=- Recherchez l'item à acheter avec la recherche ou dans dans les dernières annonces
+ng_guide_trade_section.text9=- Cliquez dessus et sélectionnez la quantité à acheter
+
+ng_guide_trade_section.header2=Adminshop
+ng_guide_trade_section.text10=L'Adminshop est l'endroit où vous pourrez acheter tout ce qui n'est pas craftable, notamment les objets les plus rares.
+ng_guide_trade_section.text11= Commande pour accéder à l'Adminshop: §e/warp adminshop
+ng_guide_trade_section.text12=L'Adminshop contient par exemple les missiles, des machines, des armes à feu etc..
+
+ng_guide_trade_section.header3=Shop individuel
+ng_guide_trade_section.text13=Il est possible de vendre de manière automatique des items à l'aide d'un coffre et d'un panneau.
+ng_guide_trade_section.text14=§6Etape 1: §rPosez un coffre au sol et placez un panneau sur la face avant de ce coffre
+ng_guide_trade_section.text15=§6Etape 2: §rEditez le panneau comme ceci:
+ng_guide_trade_section.text16=- 1ère ligne -> §7Laisser vide
+ng_guide_trade_section.text17=- 2ème ligne -> §7Par combien vous vendez votre item (1, 2, 32, 64...)
+ng_guide_trade_section.text18=- 3ème ligne -> §7Le prix du lot (de la quantité définie au-dessus)
+ng_guide_trade_section.text19=- 4ème ligne -> §7L'ID de l'objet que vous vendez
+ng_guide_trade_section.text20=§6Etape 3: §rRemplissez le coffre avec l'objet correspond à l'ID renseigné sur le panneau
+
+ng_guide_trade_section.header4=Catalogue
+ng_guide_trade_section.text21=Le catalogue est un shop virtuel qui vous permet d'acheter des objets de décoration, des blocs moddés etc...
+ng_guide_trade_section.text22= Commande pour accéder au Catalogue: §e/catalogue
+
+
+//BOUTON ENTREPRISES
+howtoplay.enterprises_section.title=Entreprises
+howtoplay.enterprises_section=Entreprises
+ng_guide_enterprises_section.header0=Entreprises
+ng_guide_enterprises_section.text0=Les entreprises vous permettent de faire une activité et de générer de l'argent.
+ng_guide_enterprises_section.text1=Tout le monde peut créer une entreprise, il suffit de payer 15.000$ et de choisir le type d'activité.
+ng_guide_enterprises_section.text2=Une fois créée, l'entreprise va devoir recruter des membres, définir des salaires, définir des prestations puis d'autres joueurs pourront ouvrir un contrat afin de travailler avec l'entreprise.
+
+ng_guide_enterprises_section.header1=Les types d'entreprise
+ng_guide_enterprises_section.text3= §6Construction §r> Entreprise chargée de construire divers batîments ou ouvrages sur commande. Les clients sont des joueurs ou des pays qui ont besoin de faire construire quelque chose.
+ng_guide_enterprises_section.text4= §6Journalisme §r> Entreprise qui réalise des comptes rendus, des interview, des montages photos, des trailers ou cinématiques.. pour des joueurs ou le staff.
+ng_guide_enterprises_section.text5= §6Casino §r> Entreprise dont le but est de proposer des jeux d'argent aux autres joueurs. Ces entreprises disposent de machines de casino automatiques.
+ng_guide_enterprises_section.text6= §6Combat §r> Entreprise spécialisée dans le PvP et plus précisement l'aide en assaut. Lors d'un assaut, un pays peut mandater une entreprise de Combat afin d'avoir un soutien.
+ng_guide_enterprises_section.text7= §6Trading §r> Entreprise spécialisée dans les investissements. Ces entreprises disposent de machine "Serveur" qui permettent de générer de l'argent à partir de celui investi dans l'entreprise par les clients.
+ng_guide_enterprises_section.text8= §6Avocat §r> Entreprise dont la mission est de soutenir ses clients sur divers sujets conflictuels. Les avocats interviennent notamment sur les plaintes forum.
+ng_guide_enterprises_section.text9= §6Electrique §r> Entreprise dont la mission est de générer, de stocker et de vendre de l'électricité à l'aide de machines spéciales.
+ng_guide_enterprises_section.text10= §6Réparation §r> Entreprise dont la mission consiste à réparer des machines sur commande.
+
+ng_guide_enterprises_section.header2=Les commandes
+ng_guide_enterprises_section.text11= §6/e §r> Afficher la liste des commandes liées aux entreprises
+ng_guide_enterprises_section.text12= §6/e list §r> Afficher la liste des entreprises en activité
+ng_guide_enterprises_section.text13= §6/e create §r> Menu de création d'entreprise
+ng_guide_enterprises_section.text14= §6/e <entreprise> §r> Afficher le menu d'une entreprise
+ng_guide_enterprises_section.text15= §6/e invite <joueur> <entreprise> §r> Inviter un joueur dans une entreprise
+ng_guide_enterprises_section.text16= §6/e join <entreprise> §r> Rejoindre une entreprise
+ng_guide_enterprises_section.text17= §6/e leave <entreprise> §r> Quitter une entreprise
+
+
+//BOUTON MACHINES
+howtoplay.machines_section.title=Machines et Energies
+howtoplay.machines_section=Machines et Energies
+ng_guide_machines_section.header0=Machines et Energies
+ng_guide_machines_section.text0=NationsGlory intègre de nouvelles énergies telles que l'électricité et le pétrole, ces dernières sont essentielles au développement d'un pays et sont necessaires à l'utilisation de la plupart des machines.
+ng_guide_machines_section.text00=Toutes les machines sont craftables et certaines necessitent des ressources rares telles que le Desh ou le Tiber.
+
+ng_guide_machines_section.header1=L'électricité
+ng_guide_machines_section.text1=L'électricité est l'énergie qui va vous permettre d'alimenter toutes les machines, il vous faut la collecter sous forme de piles.
+ng_guide_machines_section.text2= §6Panneau Solaire §r> Permet de collecter de l'énergie électrique lorsqu'il est exposé au soleil, 
+ng_guide_machines_section.text3= §6Piles §r> Cet item contient une quantité de §e10 kW d'énergie électrique§r, elles sont obtenues dans les machines produisant de l'électricité (panneau solaire, groupe électrogène..)
+
+ng_guide_machines_section.header2=Le pétrole
+ng_guide_machines_section.text4=Le pétrole est necessaire à l'utilisation de la fusée spatiale, il peut être obtenu avec la machine §eBio-générateur §rqui transforme des céréales en bio-carburrant (pétrole).
+
+ng_guide_machines_section.header3=Les machines
+ng_guide_machines_section.text5=Les machines remplissent toutes une tâche dédiée, en général il vous faudra de l'électricité et parfois du pétrole pour les faire fonctionner. 
+
+ng_guide_machines_section.text6= §6Machine de réparation §r> Répare des stuffs endommagés
+ng_guide_machines_section.text7= §6Machine à potions §r> Fabrique des potions de manière automatique
+ng_guide_machines_section.text8= §6Imprimante §r> Copie des livres enchantés
+ng_guide_machines_section.text9= §6Groupe électrogène §r> Convertie du pétrole (bio-éthanol) en électricité
+ng_guide_machines_section.text10= §6Collecteur électrique §r> Stocke de l'électricité dans une entreprise Electrique
+ng_guide_machines_section.text11= §6Compteur électrique §r> Permet d'acheter de l'électricité aux entreprises Electriques
+ng_guide_machines_section.text12= §6Machine Casino §r> Permet de jouer à un jeu de hasard avec des gains automatiques
+ng_guide_machines_section.text13= §6Bio-générateur §r> Transforme des céréales en bio-carburrant
+ng_guide_machines_section.text14= §6Compresseur d'oxygène §r> Charge de l'oxygène dans un casque afin pouvoir respirer sur la Lune
+ng_guide_machines_section.text15= §6Collecteur d'oxygène §r> Absorbe l'oxygène des arbres et génère des bombonnes d'oxygène
+ng_guide_machines_section.text16= §6Serveur §r> Permet de faire travailler l'argent investi dans une entreprise de Trading
+
+//BOUTON CONQUETE SPATIALE
+howtoplay.space_section.title=Conquête Spatiale
+howtoplay.space_section=Conquête Spatiale
+ng_guide_space_section.header0=Conquête Spatiale
+ng_guide_space_section.text1=La conquête spatiale est une des aboutissement sur NationsGlory, en plus de la Terre le monde de NG comporte aussi §ela Lune§r.
+
+ng_guide_space_section.header1=La Lune
+ng_guide_space_section.text2=La Lune est accessible avec une §efusée spatiale §rqui se trouve à l'Adminshop.
+ng_guide_space_section.text3=La Lune est un monde §esans oxygène§r, il vous faut être équipé d'un casque chargé en Oxygène pour pouvoir y survivre.
+ng_guide_space_section.text4=Ce monde abrite les deux minerais les plus rares de NG: le §eDesh §ret le §eTiber§r.
+ng_guide_space_section.text5= §6Desh §r> Permet de fabriquer l'armure Desh et des machines électriques.
+ng_guide_space_section.text6= §6Tiber §r> Minerai extrêmement rare qui se trouve dans les météorites qui s'écrasent sur la Lune, ils ont une très grande valeur.
+ng_guide_space_section.text7=La Lune offre un §eboost de +50% §rsur la génération électrique des panneaux solaires, c'est l'endroit idéal pour optimiser le rendement des entreprises.
+
+ng_guide_space_section.header2=Mars
+ng_guide_space_section.text8=Aucune fusée spatiale n'est pour le moment capable d'atteindre cette planète...
+
+//BOUTON DUEL PVP
+howtoplay.duel_pvp_section.title=Duel PvP
+howtoplay.duel_pvp_section=Duel PvP
+ng_guide_duel_pvp_section.header=Duel PvP
+ng_guide_duel_pvp_section.text0=NationsGlory intègre un système de §eDuel PVP 1vs1 §rqui vous permet de défier d'autres joueurs en mettant de l'argent en jeu.
+ng_guide_duel_pvp_section.text1=Pour lancer un duel faîtes la commande §e/pvp <pseudo>§r, un menu s'ouvre et vous permet de choisir le kit et le montant mis à jeu (en dollars).
+ng_guide_duel_pvp_section.text2=L'autre joueur reçoit une invitation et peut l'accepter, les deux joueurs sont alors téléportés dans une arène et le combat commence !
+ng_guide_duel_pvp_section.text3=Le premier joueur qui meurt perd le duel et la somme d'argent qui va avec.
+
+
+//BOUTON COSMETIQUES
+howtoplay.cosmetics_section.title=Cosmétiques
+howtoplay.cosmetics_section=Cosmétiques
+ng_guide_cosmetics_section.header0=Cosmétiques
+ng_guide_cosmetics_section.text0=Les cosmétiques vous permettent de customiser votre personnage avec divers accessoires dont certains de très grande valeur !
+ng_guide_cosmetics_section.text1= Commande pour accéder aux Cosmétiques: §e/cos
+
+ng_guide_cosmetics_section.header1=Chapeaux
+ng_guide_cosmetics_section.text2=Les chapeaux et masques s'obtiennent dans les Lootboxs, sur la Boutique ou lors d'évènements particuliers.
+ng_guide_cosmetics_section.text3=Certains chapeaux "légendaires" ont une grande valeur du fait de leur rareté.
+
+ng_guide_cosmetics_section.header2=Capes
+ng_guide_cosmetics_section.text4=Les capes s'obtiennent dans les Lootbox et en participant à des évènements proposés par le staff.
+
+ng_guide_cosmetics_section.header3=Badges
+ng_guide_cosmetics_section.text5=Les badges sont inter-serveurs, ils s'obtiennent en réussissant des objectifs et lors d'évènements spéciaux tels que Halloween et Noël.
+
+
+//BOUTON SKILLS
+howtoplay.skills_section.title=Compétences
+howtoplay.skills_section=Compétences
+ng_guide_skills_section.header=Compétences
+ng_guide_skills_section.text0=Vous pouvez développer jusqu'à 4 compétences ("skills") au cours de votre progression sur NG.
+ng_guide_skills_section.text1=Plus vous effectuez des actions dans une compétences, plus votre niveau augmente et plus bonus sont importants.
+ng_guide_skills_section.header2=Différentes compétences
+ng_guide_skills_section.text2= §6Mineur §r> Progresse lorsque vous minez des minerais et offre en bonus la possibilité de doubler les loots des minerais
+ng_guide_skills_section.text3= §6Bucheron §r> Progresse lorsque vous cassez du bois et offre en bonus la possibilité de doubler les loots des buches.
+ng_guide_skills_section.text4= §6Chasseur §r> Progresse lorsque vous tuez des créatures et offre en bonus la possibilité de doubler les loots.
+ng_guide_skills_section.text5= §6Chasseur §r> Progresse lorsque vous tuez des joueurs et offre en bonus la possibilité de faire perdre plus de power aux victimes.
+
+
+//BOUTON GESTION PAYS
+howtoplay.country_section.title=Gestion de Pays
+howtoplay.country_section=Gestion de Pays
+ng_guide_country_section.header0=Gestion de Pays
+ng_guide_country_section.text0=La gestion d'un pays est la chose la plus importante et difficile sur NG, en tant que dirigeant vous avez le destin de vos habitants entre vos mains !
+
+ng_guide_country_section.header1=Gestion générale
+ng_guide_country_section.text1= Commande pour accéder au menu du pays: §e/f f ou §e/f f <pays>
+ng_guide_country_section.text2= §6Définir le point de home §r> C'est l'endroit où les membres du pays respawn et arrivent avec la commande §e/f home§r, pour définir cet endroit faîtes §e/f sethome
+ng_guide_country_section.text3= §6Définir une description §r> Ce texte est affiché lorsqu'un joueur entre dans le territoire du pays, à configurer depuis le menu "Paramètres" du pays
+ng_guide_country_section.text4= §6Message du jour §r> Ce texte est affiché aux membres du pays lors de leur connexion, à configurer depuis le menu "Paramètres" du pays
+ng_guide_country_section.text5= §6Statut "Ouvert" §r> Un pays "ouvert" permet aux joueurs de le rejoindre sans invitation, à configurer depuis le menu "Paramètres" du pays
+
+ng_guide_country_section.header2=Gestion des membres
+ng_guide_country_section.text6= §6Inviter des joueurs §r> Pour inviter un joueur à rejoindre le pays faîtes la commande §e/f invite <pseudo>
+ng_guide_country_section.text7= §6Gérer les membres §r> La gestion des membres (exclure, promouvoir, dégrader) se fait depuis le menu §eInfos/Actions > Gérer les membres
+ng_guide_country_section.text8= §6Définir les permissions §r> Le menu "Permissions" vous permet, pour différentes actions, de définir quels rôles ont la permission. §e(étape importante)
+
+ng_guide_country_section.header3=Gestion économique
+ng_guide_country_section.text9= §6Gérer la banque §r> Chaque pays dispose d'une banque, le menu §e"Banque"§r permet de consulter le solde, déposer et retirer de l'argent.
+ng_guide_country_section.text10= §6Coffre de pays §r> Chaque pays dispose d'un coffre virtuel qui permet de stocker les ressources importantes du pays. Si une fusée, un missile Antimatter ou un missile Redmatter sont déposés dans ce coffre, le pays obtient automatiquement un bonus de niveau.
+ng_guide_country_section.text11= §6Taxes et Salaires §r> Bientôt disponible..
+
+ng_guide_country_section.header4=Relations et Alliances
+ng_guide_country_section.text12=La getion des relations est très importante dans la vie de votre pays, avoir des alliés est capital dans un monde remplie de guerres et conquêtes.
+ng_guide_country_section.text13= §6Relation §7NEUTRE
+ng_guide_country_section.text14=Par défaut les pays sont en relation "NEUTRE" avec les autres, ils ne peuvent pas s'attaquer et peuvent facilement basculer vers une autre relation.
+ng_guide_country_section.text15= §6Relation §aALLIE
+ng_guide_country_section.text16=Lorsque deux pays sont alliés, il ne peuvent pas s'attaquer et peuvent s'aider lors d'un assaut contre un autre pays.
+ng_guide_country_section.text17= §6Relation §cENEMIE
+ng_guide_country_section.text18=Deux pays ennemis peuvent s'attaquer et déclencher des assauts. Pour mettre un pays en ennemi il faut justifier d'une raison valable et faire une §edemande de guerre§r. Seul le pays qui a déclenché la mise en ennemi peut proposer un retour vers une relation neutre.
+ng_guide_country_section.text19= §6Relation §5CONFIANCE
+ng_guide_country_section.text20=Une relation de confiance est entre une relation neutre et une relation alliée, elle indique que les deux pays collaborent sur le plan économique mais pas lors des guerres.
+
+
+//BOUTON GUERRES ET ASSAUTS
+howtoplay.wars_section.title=Guerres et Assauts
+howtoplay.wars_section=Guerres et Assauts
+ng_guide_wars_section.header0=Guerres et Assauts
+ng_guide_wars_section.text0=Les guerres, assauts et plus généralement le PvP ont une place primordiale sur NG, tout pays doit s'armer et être prêt à se défendre contre les conquêtes des pays voisins.
+
+ng_guide_wars_section.header1=Mise en ennemi
+ng_guide_wars_section.text1=La mise en ennemi est encadrée sur NG, un pays doit disposer d'une §eraison valable §rafin de pouvoir créer une demande de guerre contre un autre pays.
+ng_guide_wars_section.text2=En fonction de la raison de guerre, la guerre est déclarée automatiquement ou bien une demande sur le forum est necessaire (notamment pour les raisons necessitant des preuves).
+ng_guide_wars_section.text3=Une fois la mise en ennemi effectuée, seul le pays qui a déclaré la guerre peut repasser sur une relation neutre.
+
+ng_guide_wars_section.header2=Les guerres
+ng_guide_wars_section.text4=Une guerre débute lorsque le premier assaut est lancé entre les deux pays.
+ng_guide_wars_section.text5=Le système de guerre permet d'encadrer le nombre de missiles tirés avec les §epoints missile§r.
+ng_guide_wars_section.text6=Chaque pays dispose de 12§e*§r points missile par semaine, chaque missile tiré consomme des points en fonction de son type:
+ng_guide_wars_section.text7=- Tier 1 > §72 points
+ng_guide_wars_section.text8=- Tier 2 > §74 points
+ng_guide_wars_section.text9=- Tier 3 > §76 points
+ng_guide_wars_section.text10=- Redmatter > §710 points
+
+ng_guide_wars_section.text11=§e*§r Un bonus de point s'applique dans certains cas: §7pays qui attaque un empire§r, §7pays level > 60§r, §7pays level > 30
+
+ng_guide_wars_section.text12=L'historique de la guerre peut être consulté dans l'interface de pays section §eGuerres
+
+ng_guide_wars_section.header3=Les assauts
+ng_guide_wars_section.text13=Un assaut est une période pendant laquelle deux pays en guerre peuvent s'attaquer et envoyer des missiles.
+
+ng_guide_wars_section.text14= §6Lancement d'un assaut
+
+ng_guide_wars_section.text15=Dès lors que deux pays sont ennemis, il est possible de déclencher un assaut en faisant §e/assaut <pays>§r, à condition que:
+ng_guide_wars_section.text16=- Les deux pays ne soient pas déjà en assaut
+ng_guide_wars_section.text17=- Les deux pays ont plus de deux jours d'ancienneté
+ng_guide_wars_section.text18=- Les deux pays ont au moins 2 joueurs connectés
+ng_guide_wars_section.text19=- Le joueur qui lance l'assaut ne se trouve pas dans le territoire ennemi
+ng_guide_wars_section.text20=- Le pays qui lance lance l'assaut n'a pas déjà lancé un assaut contre ce même pays dans les 2 dernières heures.
+
+ng_guide_wars_section.text21= §6Déroulement d'un assaut
+ng_guide_wars_section.text22=Dès qu'un assaut commence, un scoreboard s'affiche et indique le temps restant et le score des pays.
+ng_guide_wars_section.text23=La durée initiale d'un assaut est de §e15 minutes§r, pour remporter l'assaut il faut marquer des points qui peuvent être inscrits de plusieurs manières:
+ng_guide_wars_section.text24=- §eTuer un adversaire§r rapporte 5 points et rallonge le temps de l'assaut
+ng_guide_wars_section.text25=- §eTirer un missile §r(T1 = 2, T2 = 4, T3 = 6, Redmatter = 10)
+ng_guide_wars_section.text26=- §rDétruire §rou §eDéfendre §rle colis stratégique
+
+ng_guide_wars_section.text27= §6Colis stratégique
+
+ng_guide_wars_section.text28=A §e30 secondes de la fin§r, si aucun kill n'a été fait, un colis stratégique apparaît dans le pays défenseur.
+ng_guide_wars_section.text29=Ce colis rapporte des points au pays défenseur tant qu'il est en vie, et rapporte des points au pays attaquant dès qu'il est détruit.
+
+ng_guide_wars_section.text295= §6Fin d'assaut et MMR
+
+ng_guide_wars_section.text30=A la fin de l'assaut, un menu est affiché à tous les participants pour récapituler les scores et des §epoints MMR §rsont ajoutés au gagnant et retirés au perdant. 
+ng_guide_wars_section.text31=Le score MMR permet de faire monter le niveau de son pays et de participer aux finales inter-serveur avec son pays.
+
+ng_guide_wars_section.text32= §6Aide-allié
+ng_guide_wars_section.text33=Au cours d'un assaut, les alliés des pays en guerre peuvent proposer leur aide en faisant §e/assaut join <pays>§r.
+ng_guide_wars_section.text34=Le pays visé peut accepter l'aide-ally en faisant §e/assaut accept <pays>§r, le pays allié peut désormais tuer les adversaires et aider à la destruction du colis stratégique.
+ng_guide_wars_section.text35=Les pays qui aide-ally au cours d'un assaut gagnent et perdent du score MMR en fonction du résultat de l'assaut.
+
+
+//BOUTON NOTATIONS
+howtoplay.ratings_section.title=Notations Pays
+howtoplay.ratings_section=Notations Pays
+ng_guide_ratings_section.header0=Notations Pays
+ng_guide_ratings_section.text0=Les notations de pays établissent chaque semaine un classement de tous les pays.
+ng_guide_ratings_section.text1=Chaque pays est noté sur de nombreux critères et obtient une bourse en dollars en fonction de la note globale.
+
+ng_guide_ratings_section.header1=Les critères
+ng_guide_ratings_section.text3= §6Activité §7/5 points
+ng_guide_ratings_section.text33=Ajoute ou retire 5 points en fonction de si plus de la moitié des membres sont hors-ligne depuis plus de 20 jours ou non.
+ng_guide_ratings_section.text4= §6Gestion §7/10 points
+ng_guide_ratings_section.text44=Note générée en fonction de du nombre de membres, des recrutements et des relations internationnales.
+ng_guide_ratings_section.text5= §6Economie §7/10 points
+ng_guide_ratings_section.text55=Note générée en fonction de l'argent en banque et de l'augmentation/perte par rapport à la semaine précente, le chiffre d'affaire des entreprises qui possédent un QG dans le pays, ainsi que sur le PIB du pays.
+ng_guide_ratings_section.text6= §6Militaire §7/10 points
+ng_guide_ratings_section.text66=Note générée en fonction des missiles lancés, des assauts victorieux de la semaine ainsi que du ratio power/powermax.
+ng_guide_ratings_section.text7= §6AntiMatter §7/3 points
+ng_guide_ratings_section.text77=Si le pays possède un Antimatter dans son coffre de pays.
+ng_guide_ratings_section.text8= §6RedMatter §7/3 points
+ng_guide_ratings_section.text88=Si le pays possède un RedMatter dans son coffre de pays.
+ng_guide_ratings_section.text9= §6Fusée §7/3 points
+ng_guide_ratings_section.text99=Si le pays possède une Fusée dans son coffre de pays.
+ng_guide_ratings_section.text10= §6UNESCO §7/5 points
+ng_guide_ratings_section.text100=Si le pays possède un UNESCO.
+ng_guide_ratings_section.text11= §6Architecture §7/20 points
+ng_guide_ratings_section.text111=Les admins passent chaque samedis et/ou dimanches noter l'architecture du pays. Un coefficient est appliqué en fonction de la surface build du pays, comptez 150 chunks build pour avoir la note maximale.
+
+ng_guide_ratings_section.text12=Les notations sont faites §etous les Dimanches §ret les résultats donnés le §eLundi matin §rsur le site.
+
+
+//BOUTON WARZONE
+howtoplay.warzone_section.title=Warzone
+howtoplay.warzone_section=Warzone
+ng_guide_warzone_section.header=Warzone
+ng_guide_warzone_section.text0=La warzone est un endroit hostile où le seul et unique but est de §ecapturer le point central §rpour offrir un bonus à son pays.
+ng_guide_warzone_section.text1=Pour capturer il suffit de se positionner dessus et de n'avoir aucun joueurs d'un autre pays dans la zone.
+ng_guide_warzone_section.text2=Dès que la possession dépasse §e80 pourcents§r, le bonus associé à la zone se déclenche.
+ng_guide_warzone_section.text3= Commande pour accéder aux Warzones: §e/warzone
+
+ng_guide_warzone_section.text4= §6Warzone Bateau
+ng_guide_warzone_section.text5=Cette warzone est située sur un bateau et procure §e60$ par minute §rau pays qui la possède (limité à 5000$/j)
+ng_guide_warzone_section.text6= §6Warzone Pétrole
+ng_guide_warzone_section.text7=Cette warzone est située sur une station pétrolière et procure §e+1 Power par minute §rau pays qui la possède (limité à 200)
+
+
+//BOUTON STUFFS
+howtoplay.stuffs_section.title=Armures et Stuffs
+howtoplay.stuffs_section=Armures et Stuffs
+ng_guide_stuffs_section.header0=Armures et Stuffs
+ng_guide_stuffs_section.text0=NationsGlory propose de nombreux items et armures inédits notamment issus des nouveaux minerais.
+
+ng_guide_stuffs_section.header1=Armures inédites
+ng_guide_stuffs_section.text1= §6Armure Desh §7(22.5 / 2575) §r> §aCraftable§r avec Desh (Lune), §e+2 coeur bonus
+ng_guide_stuffs_section.text2= §6Armure SolidTech §7(22.5 / 2750) §r> §cNon-craftable§r, disponible sur la Boutique, §e+ effets bonus
+ng_guide_stuffs_section.text3= §6Armure Onyx §7(22 / 2395) §r> §aCraftable§r avec Onyx (Nether)
+ng_guide_stuffs_section.text4= §6Armure Prototype §7(20 / 1650) §r> §cNon-craftable§r, disponible dans le /kit des grades
+ng_guide_stuffs_section.text5= §6Armure Diamant §7(20 / 1819) §r> §aCraftable§r avec Diamant
+ng_guide_stuffs_section.text6= §6Armures classiques §r> Aussi disponible
+
+ng_guide_stuffs_section.header2=Items spéciaux
+ng_guide_stuffs_section.text7= §6Speed Leggs §r> Ce pantalon ajoute un effet permanent de Vitesse II 
+ng_guide_stuffs_section.text8= §6Jump Boots §r> Ces bottes permettent de sauter jusqu'à 3 blocs de haut
+
+ng_guide_stuffs_section.header3=Armes à feu
+ng_guide_stuffs_section.text9=Les armes à feu permettent d'avoir un avantage certain lorsqu'elles sont bien utilisées, elles sont notamment très performantes à longue distance.
+ng_guide_stuffs_section.text10=Toutes les armes §econsomment des munitions§r, chaque arme dispose de son propre type de munitions.
+ng_guide_stuffs_section.text11= §6AK47 §r> Arme à feu semi-automatique qui tire par rafale de 3 balles
+ng_guide_stuffs_section.text12= §6USP45 §r> Pistolet qui tire au coup par coup
+ng_guide_stuffs_section.text13= §6RPG-7 §r> Lance-roquette qui occasionne des dégats importants, ses roquettes décomptent 1 point missile lors d'un assaut.
+ng_guide_stuffs_section.text14=Les armes et munitions sont disponibles à §el'Adminshop§r.
+
+
+//BOUTON MISSILES
+howtoplay.missiles_section.title=Missiles
+howtoplay.missiles_section=Missiles
+ng_guide_missiles_section.header0=Missiles
+ng_guide_missiles_section.text0=Les missiles constituent un élément important du gameplay, il vous permettent de vous défendre, de marquer des points en assaut et impactent le niveau de votre pays.
+ng_guide_missiles_section.text1=Ils sont divisés en §equatre catégories§r qui définissent leur puissance: §aT1§r, §cT2§r, §9T3§r et §6T4 §r(T1 étant les moins puissants).
+ng_guide_missiles_section.header1=Tier 1
+ng_guide_missiles_section.text2= §aMissile Conventionnel §r> Dégâts légers, equivalants à l'explosion de 2 TNT
+ng_guide_missiles_section.text3= §aMissile Repulsif §r> Dégâts légers, equivalants à l'explosion de 2 TNT avec un effet repulsif
+ng_guide_missiles_section.text4= §aMissile Shrapnel §r> §aMissile craftable§r, dégâts légers, equivalants à l'explosion de 5 TNT
+ng_guide_missiles_section.header2=Tier 2
+ng_guide_missiles_section.text5= §cMissile Fragmentation §r> Dégâts moyens, rayon d'explosion égale à 15 blocs
+ng_guide_missiles_section.text6= §cMissile Thermobarique §r> Dégâts moyens, rayon d'explosion égale à 20 blocs
+ng_guide_missiles_section.text7= §cMissile Incendiaire §r> Dégâts de feu sur un rayon de 5-10 blocs
+ng_guide_missiles_section.header3=Tier 3
+ng_guide_missiles_section.text8= §9Missile Endothermique §r> §aMissile craftable§r, dégâts importants, rayon d'explosion égale à 25 blocs
+ng_guide_missiles_section.text9= §9Missile Nucléaire §r> Dégâts importants, rayon d'explosion égale à 4x15 blocs de rayon
+ng_guide_missiles_section.text10= §9Missile Nucléaire Fragmentation §r> Dégâts importants, rayon d'explosion égale à 4x25 blocs de rayon
+ng_guide_missiles_section.header4=Tier 4
+ng_guide_missiles_section.text11= §6Missile Antimatter §r> Dégâts gigantesques, rayon d'explosion supérieur à 60 blocs (ainsi qu'en profondeur). Nécessite une demande à l'ONU pour être tiré.
+ng_guide_missiles_section.text12= §6Missile Redmatter §r> Effets multiples, dégats importants, §eunclaim les 9 chunks §rautour de lui, vole jusqu'à §e1.000.000$ §rau pays touché et inflige une perte de power de près de §e45%§r. Necessite une demande auprès de l'administration pour être tiré.
+
+
+//BOUTON WEBSITE
+howtoplay.website_section.title=Site et Réseaux
+howtoplay.website_section=Site et Réseaux
+ng_guide_website_section.header0=Site et Réseaux
+ng_guide_website_section.text0=Notre site officiel regroupe de nombreuses informations et fonctionalités qu'il vous sera utile d'utiliser au cours de votre aventure sur NG.
+
+ng_guide_website_section.header1=Fonctionnalités du site
+ng_guide_website_section.text1= §6NGRadio §r> Notre webradio à écouter, vous pourrez y retrouver les derniers hits du moments, vos sélections musicales, des émissions NG, des concours etc..
+ng_guide_website_section.text2= §6Carte intéractive §r> Une vue d'ensemble de la Terre avec tous les builds et les claims.
+ng_guide_website_section.text3= §6Infos Pays §r> Toutes les informations sur les pays, notations, banques..
+ng_guide_website_section.text4= §6Infos Serveur §r> Toutes les informations sur votre serveur: journaux, vidéos/lives, compte rendus ONU...
+ng_guide_website_section.text5= §6Classements §r> Tous les classements inter-serveur des banques, MMR, entreprises, warzones...
+ng_guide_website_section.text6= §6UserVoice §r> Proposez vos idées et votez pour les meilleures idées de la communauté.
+ng_guide_website_section.text7= §6Actualités §r> Nous postons les grosses informations sur le site sous forme d'articles.
+ng_guide_website_section.text8= §6Votes §r> Votez pour le serveur pour soutenir NG et reçevoir des lots in-game quotidiens.
+ng_guide_website_section.text9= §6Support §r> Un problème avec votre compte, la boutique ou un bug à nous faire remonter, le support vous permet de créer des tickets d'assistance.
+ng_guide_website_section.text10= §6Forums §r> Tous les forums inter-serveur, c'est l'endroit où échanger avec la communauté, poster des plaintes et demandes de guerre.
+ng_guide_website_section.text11= §6Boutique §r> Boutique officielle NG contenant Grades, Dollars, Kits PvP, Spawners, Lootboxs et Cosmétiques
+
+ng_guide_website_section.header2=Nos réseaux
+ng_guide_website_section.text12= §6Discord §r> Le plus important pour ne rien manquer de NG et discuter avec la communauté. §ehttps://discord.gg/nationsglory
+ng_guide_website_section.text13= §6Teamspeak §r> A utiliser pour contacter le staff de votre serveur. §ets.nationsglory.fr
+ng_guide_website_section.text14= §6Twitter §r> Actualités, concours, sondages, suivez nous ! §etwitter.com/NationsGlory
+ng_guide_website_section.text15= §6Tiktok §r> Vidéos décalées, histoires droles, le tout à la sauce NG ;) §etiktok.com/@nationsgloryfr
+
+
+//BOUTON BOUTIQUE
+howtoplay.shop_section.title=Boutique
+howtoplay.shop_section=Boutique
+ng_guide_shop_section.header0=Boutique
+ng_guide_shop_section.text0=Notre boutique officielle contient du contenu exclusif ainsi que les grades, c'est le meilleur moyen de soutenir le serveur et de vous faire plaisir !
+
+ng_guide_shop_section.header1=Les grades
+ng_guide_shop_section.text1=§eDeux grades §rsont disponibles sur NGBedrock, le premier est le grade §7Héros §ret le second le grade §3Légende§r.
+
+ng_guide_shop_section.text2= §7Grade Héros
+ng_guide_shop_section.text3=- Pseudo en couleur
+ng_guide_shop_section.text4=- §e3 homes
+ng_guide_shop_section.text5=- TP instantannée
+ng_guide_shop_section.text6=- x10 TP Warzone /24h
+ng_guide_shop_section.text7=- Shop individuel illimité
+ng_guide_shop_section.text8=- Accès lorsque serveur complet
+ng_guide_shop_section.text9=- §eAccès /kit heros
+ng_guide_shop_section.text10=- §eXP x2
+ng_guide_shop_section.text11=- §eCommande /back §r(revenir à sa dernière position)
+ng_guide_shop_section.text12=- Commande /tpa (se téléporter à un joueur)
+ng_guide_shop_section.text13=- Commande /tpahere (téléporter un joueur à soi)
+ng_guide_shop_section.text14=- Powerboost +5
+ng_guide_shop_section.text15=- Panneau en couleur
+ng_guide_shop_section.text16=- Annonces HDV x2
+ng_guide_shop_section.text17=- Gain ATM +50%
+
+ng_guide_shop_section.text18= §3Grade Légende
+ng_guide_shop_section.text19=- Pseudo en couleur
+ng_guide_shop_section.text20=- §e6 homes
+ng_guide_shop_section.text21=- TP instantannée
+ng_guide_shop_section.text22=- §ex15 TP Warzone /24h
+ng_guide_shop_section.text23=- Shop individuel illimité
+ng_guide_shop_section.text24=- Accès lorsque serveur complet
+ng_guide_shop_section.text25=- §eAccès /kit legende
+ng_guide_shop_section.text26=- §eXP x3
+ng_guide_shop_section.text27=- §eCommande /back §r(revenir à sa dernière position)
+ng_guide_shop_section.text28=- Commande /tpa (se téléporter à un joueur)
+ng_guide_shop_section.text29=- Commande /tpahere (téléporter un joueur à soi)
+ng_guide_shop_section.text30=- Powerboost +15
+ng_guide_shop_section.text31=- Panneau en couleur
+ng_guide_shop_section.text32=- Annonces HDV x3
+ng_guide_shop_section.text33=- §eGain ATM +100%
+ng_guide_shop_section.text34=- §eBackpack 2 lignes
+ng_guide_shop_section.text35=- §e+1 Item Lootbox §r(à chaque ouverture de Lootbox)
+ng_guide_shop_section.text36=- §eCape exclusive
+
+ng_guide_shop_section.header2=Les spawners
+ng_guide_shop_section.text37=Les spawners vous permettent d'obtenir des mobs et animaux de manière illimitée, vous avez le choix entre: Spawners Animaux, Spawners Mobs, Spawners Farm
+
+ng_guide_shop_section.header3=Les dollars
+ng_guide_shop_section.text38=La boutique vous permet d'obtenir instantannement des Dollars pour booster votre aventure, des packs de 25.000 à 100.000$ sont disponibles.
+
+ng_guide_shop_section.header4=Les kits PvP
+ng_guide_shop_section.text39=Certains stuff sont exclusifs à la boutique, ils offrent en général une protection et durabilité similaire au plus gros stuff craftable.
+ng_guide_shop_section.text40=Retrouvez en ce moment le §estuff SolidTech §rqui possède une protection similaire au Desh mais avec des bonus supplémentaires: immunité aux dégats et recul des balles, vitesse II 
+
+ng_guide_shop_section.header5=Les Lootboxs
+ng_guide_shop_section.text41=Les lootboxs sont des caisses à ouvrir dont le contenu est aléatoire, §eseul le hasard décide §rde leur contenu. 
+ng_guide_shop_section.text42=En fonction du type de Lootbox, les loots vont de la simple épée en pierre jusqu'à la §efusée §rou encore le §emissile Antimatter
+ng_guide_shop_section.text43=Prenez garde, le résultat n'est pas garanti, seule votre chance du jour et le hasard décideront de vos gains !
+
+ng_guide_shop_section.header6=Les cosmétiques
+ng_guide_shop_section.text44=Si les cosmétiques vous interessent la boutique est le meilleur endroit pour vous les procurer, la plupart des chapeaux s'y trouvent.
+
+ng_guide_shop_section.header7=Système de fidélité
+ng_guide_shop_section.text45=A chacun de vos achats sur la boutique vous gagnez des points de fidélité que vous pouvez par la suite dépenser dans la section §e"Fidélité" §rqui contient des cosmétiques exclusifs, Lootboxs..
+
+ng_guide_shop_section.header8=NGPrime
+ng_guide_shop_section.text46=NGPrime vous permet de profiter à 200% de l'expérience NG, cet abonnement vient en complément des grades et contient une multitude d'avantages inédits.
+ng_guide_shop_section.text47=- Affichage unique en jeu
+ng_guide_shop_section.text48=- §eLootbox NGPrime mensuelle §r(contient tous les cosmétiques du jeu)
+ng_guide_shop_section.text49=- Avantages Discord
+ng_guide_shop_section.text50=- §eAccès BETA §r(vous permet d'accéder en avance aux prochaines mises à jour)
+ng_guide_shop_section.text51=- Chapeaux exclusifs
+ng_guide_shop_section.text52=- Cape exclusive
+ng_guide_shop_section.text53=- Bannière Forum
+
+
+//BOUTON PARTENAIRES
+howtoplay.partners_section.title=Partenaires
+howtoplay.partners_section=Partenaires
+ng_guide_partners_section.header=Partenaires
+ng_guide_partners_section.text0=Contenu à venir...
+
+// NE PAS TOUCHER
+item.record_mall.desc=C418 - mall	#
+item.record_mellohi.desc=C418 - mellohi	#
+item.record_ward.desc=C418 - ward	#
+// **********************
+
+tile.coral_fan_dead.blue_fan.name=Fibre de bois millénaire	#
+tile.coral_fan_dead.pink_fan.name=Gallium	#
+tile.coral_fan_dead.purple_fan.name=Magnesium	#
+tile.coral_fan_dead.red_fan.name=Niobium	#
+tile.coral_fan_dead.yellow_fan.name=Chargeur électrique	#
+
+tile.coral_block.yellow_dead.name=Minerai obscur	#
+
+item.spawn_egg.entity.wandering_trader.name=Station de craft	#
+item.spawn_egg.entity.zombie_villager_v2.name=Panneau solaire amélioré	#
+item.spawn_egg.entity.phantom.name=Batterie	#
+item.spawn_egg.entity.pillager.name=Batterie améliorée	#
+item.spawn_egg.entity.ravager.name=Réparateur Industriel	#
+
+facebook=facebook

@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "bloc_ardoise",
+      "heightmap" : "bloc_ardoise_heightmap",
+      "metalness_emissive_roughness" : "bloc_ardoise_mer"
+    }
+  }
+  

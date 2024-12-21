@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "circular",
+      "heightmap" : "circular_heightmap",
+      "metalness_emissive_roughness" : "circular_mer"
+    }
+  }
+  

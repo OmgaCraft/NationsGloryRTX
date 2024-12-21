@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "prism",
+      "heightmap" : "prism_heightmap",
+      "metalness_emissive_roughness": "prism_mer"
+    }
+  }
+  

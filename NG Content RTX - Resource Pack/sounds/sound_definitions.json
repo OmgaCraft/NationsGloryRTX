@@ -1,0 +1,74 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"meuh": {
+			"sounds": ["sounds/meuh"]
+		},
+		"mega_lootbox_sound": {
+			"sounds": ["sounds/mega_lootbox_sound"]
+		},
+		"lootbox_sound_1": {
+			"sounds": ["sounds/lootbox_sound_1"]
+		},
+		"lootbox_sound_2": {
+			"sounds": ["sounds/lootbox_sound_2"]
+		},
+		"lootbox_sound_3": {
+			"sounds": ["sounds/lootbox_sound_3"]
+		},
+		"lootbox_sound_4": {
+			"sounds": ["sounds/lootbox_sound_4"]
+		},
+		"lootbox_anniv_1": {
+			"sounds": ["sounds/lootbox_anniv_1"]
+		},
+		"lootbox_anniv_2": {
+			"sounds": ["sounds/lootbox_anniv_2"]
+		},
+		"lootbox_anniv_3": {
+			"sounds": ["sounds/lootbox_anniv_3"]
+		},
+		"lootbox_anniv_4": {
+			"sounds": ["sounds/lootbox_anniv_4"]
+		},
+		"dirt1": {
+			"sounds": ["sounds/dirt1"]
+		},
+		"dirt2": {
+			"sounds": ["sounds/dirt2"]
+		},
+		"metal1": {
+			"sounds": ["sounds/metal1"]
+		},
+		"metal2": {
+			"sounds": ["sounds/metal2"]
+		},
+		"metal3": {
+			"sounds": ["sounds/metal3"]
+		},
+		"stone": {
+			"sounds": ["sounds/stone"]
+		},
+		"wood1": {
+			"sounds": ["sounds/wood1"]
+		},
+		"wood2": {
+			"sounds": ["sounds/wood2"]
+		},
+		"wood3": {
+			"sounds": ["sounds/wood3"]
+		},
+		"galshi1": {
+			"sounds": ["sounds/galshi1"]
+		},
+		"galshi2": {
+			"sounds": ["sounds/galshi2"]
+		},
+		"galshi3": {
+			"sounds": ["sounds/galshi3"]
+		},
+		"endbringer": {
+			"sounds": ["sounds/endbringer"]
+		}
+	}
+}

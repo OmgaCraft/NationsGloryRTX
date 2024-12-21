@@ -1,0 +1,131 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.white_spartan_upgrade_boots",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "leftLeg",
+					"pivot": [1.9, 12, 0],
+					"cubes": [
+						{
+							"origin": [-0.1, 0, -2],
+							"size": [4, 12, 4],
+							"inflate": 0.25,
+							"uv": {
+								"north": {"uv": [116, 38], "uv_size": [4, 12]},
+								"east": {"uv": [112, 38], "uv_size": [4, 12]},
+								"south": {"uv": [124, 38], "uv_size": [4, 12]},
+								"west": {"uv": [120, 38], "uv_size": [4, 12]},
+								"up": {"uv": [116, 34], "uv_size": [4, 4]},
+								"down": {"uv": [120, 38], "uv_size": [4, -4]}
+							}
+						},
+						{
+							"origin": [-0.42, 3.15, -2.625],
+							"size": [5.25, 2.1, 5.25],
+							"uv": {
+								"north": {"uv": [66, 94], "uv_size": [5, 2]},
+								"east": {"uv": [2, 95], "uv_size": [5, 2]},
+								"south": {"uv": [10, 95], "uv_size": [5, 2]},
+								"west": {"uv": [15, 95], "uv_size": [5, 2]},
+								"up": {"uv": [74, 46], "uv_size": [5, 5]},
+								"down": {"uv": [64, 79], "uv_size": [5, -5]}
+							}
+						},
+						{
+							"origin": [0.085, -1.07, -2.12],
+							"size": [4.24, 5.29, 4.24],
+							"inflate": 0.4,
+							"uv": {
+								"north": {"uv": [83, 59], "uv_size": [4, 5]},
+								"east": {"uv": [60, 83], "uv_size": [4, 5]},
+								"south": {"uv": [83, 80], "uv_size": [4, 5]},
+								"west": {"uv": [16, 84], "uv_size": [4, 5]},
+								"up": {"uv": [45, 88], "uv_size": [4, 4]},
+								"down": {"uv": [49, 92], "uv_size": [4, -4]}
+							}
+						},
+						{
+							"origin": [-0.1085, -1.0635, -2.1135],
+							"size": [4.427, 5.277, 4.227],
+							"inflate": 0.27,
+							"uv": {
+								"north": {"uv": [83, 25], "uv_size": [4, 5]},
+								"east": {"uv": [47, 83], "uv_size": [4, 5]},
+								"south": {"uv": [51, 83], "uv_size": [4, 5]},
+								"west": {"uv": [83, 54], "uv_size": [4, 5]},
+								"up": {"uv": [0, 88], "uv_size": [4, 4]},
+								"down": {"uv": [88, 10], "uv_size": [4, -4]}
+							}
+						}
+					]
+				},
+				{
+					"name": "rightLeg",
+					"pivot": [-1.9, 12, 0],
+					"cubes": [
+						{
+							"origin": [-3.9, 0, -2],
+							"size": [4, 12, 4],
+							"inflate": 0.25,
+							"uv": {
+								"north": {"uv": [116, 38], "uv_size": [4, 12]},
+								"east": {"uv": [112, 38], "uv_size": [4, 12]},
+								"south": {"uv": [124, 38], "uv_size": [4, 12]},
+								"west": {"uv": [120, 38], "uv_size": [4, 12]},
+								"up": {"uv": [116, 34], "uv_size": [4, 4]},
+								"down": {"uv": [120, 38], "uv_size": [4, -4]}
+							}
+						},
+						{
+							"origin": [-4.83, 3.15, -2.625],
+							"size": [5.25, 2.1, 5.25],
+							"uv": {
+								"north": {"uv": [39, 51], "uv_size": [5, 2]},
+								"east": {"uv": [94, 56], "uv_size": [5, 2]},
+								"south": {"uv": [94, 58], "uv_size": [5, 2]},
+								"west": {"uv": [61, 94], "uv_size": [5, 2]},
+								"up": {"uv": [27, 46], "uv_size": [5, 5]},
+								"down": {"uv": [22, 57], "uv_size": [5, -5]}
+							}
+						},
+						{
+							"origin": [-4.325, -1.07, -2.12],
+							"size": [4.24, 5.29, 4.24],
+							"inflate": 0.4,
+							"uv": {
+								"north": {"uv": [82, 33], "uv_size": [4, 5]},
+								"east": {"uv": [82, 38], "uv_size": [4, 5]},
+								"south": {"uv": [82, 43], "uv_size": [4, 5]},
+								"west": {"uv": [82, 65], "uv_size": [4, 5]},
+								"up": {"uv": [27, 87], "uv_size": [4, 4]},
+								"down": {"uv": [87, 57], "uv_size": [4, -4]}
+							}
+						},
+						{
+							"origin": [-4.3185, -1.0635, -2.1135],
+							"size": [4.427, 5.277, 4.227],
+							"inflate": 0.27,
+							"uv": {
+								"north": {"uv": [4, 82], "uv_size": [4, 5]},
+								"east": {"uv": [8, 82], "uv_size": [4, 5]},
+								"south": {"uv": [82, 10], "uv_size": [4, 5]},
+								"west": {"uv": [12, 82], "uv_size": [4, 5]},
+								"up": {"uv": [23, 87], "uv_size": [4, 4]},
+								"down": {"uv": [87, 28], "uv_size": [4, -4]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Ressource Pack RTX pour NationsGlory BE\nModifie seulement le pack Content de NG\n\nPar:\nRTX: OmégaCraft & OuiOuiGAMING\nTexture: NationsGlory",
+      "name": "Nations Glory RTX C- OmégaCraft",
+      "uuid":"714e517d-3a9b-48e4-8510-a8940a38d371",
+      "version": [44, 8, 20],
+      "min_engine_version": [1, 17, 0]
+     },
+    "modules": [
+      {
+        "description": "Ressource Pack RTX pour NationsGlory BE\nModifie seulement le pack Global de NG\n\nPar:\nRTX: OmégaCraft & OuiOuiGAMING\nTexture: NationsGlory",
+        "type": "resources",
+        "uuid": "fe5cc4f6-2f0e-11ed-e261-4242bc120002",
+        "version": [1, 0, 9]
+      }
+    ],
+    "dependencies": [
+      {
+        "uuid": "008f2e56-7e74-48b4-8f6b-457208e24e63",
+        "version": [1,0,8]
+      }
+    ],
+    "capabilities" : [
+        "raytraced"
+    ]
+   }

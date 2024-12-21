@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "brique_grises_foncee",
+      "heightmap" : "brique_grises_foncee_heightmap",
+      "metalness_emissive_roughness" : "brique_grises_foncee_mer"
+    }
+  }
+  

@@ -1,0 +1,62 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/asteroid_crystal_ore",
+    "atlas_tile": "asteroid_crystal_ore",
+    "ticks_per_frame": 2
+  },
+  {
+    "atlas_tile": "fountain_water_jet",
+    "flipbook_texture": "textures/blocks/fountain_water_jet",
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/uranium_ore",
+    "atlas_tile": "uranium_ore",
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/uranium_ore",
+    "atlas_tile": "uranium_ore",
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/horizontal_bar_projector",
+    "atlas_tile": "horizontal_bar_projector",
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/border_2",
+    "atlas_tile": "border_corner",
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/snow_toxic_roots",
+    "atlas_tile": "snow_toxic_roots",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/snow_toxic_roots",
+    "atlas_tile": "snow_toxic_roots",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/infocon_left",
+    "atlas_tile": "infocon_left",
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/infocon_right",
+    "atlas_tile": "infocon_right",
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/portal_edora",
+    "atlas_tile": "portal_edora",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/shadow_ore",
+    "atlas_tile": "shadow_ore",
+    "ticks_per_frame": 4
+  }
+]

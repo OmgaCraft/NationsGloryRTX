@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:volcanite_chestplate",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "volcanite_chestplate",
+            "minecraft:render_offsets": "chestplate"
+        }
+    }
+}

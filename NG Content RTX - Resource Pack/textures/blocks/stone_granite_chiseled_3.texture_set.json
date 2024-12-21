@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "stone_granite_chiseled_3",
+      "heightmap" : "stone_custom_chiseled_3heightmap"
+    }
+  }
+  

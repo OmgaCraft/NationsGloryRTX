@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "pillar-side",
+      "heightmap" : "pillar-side_heightmap",
+      "metalness_emissive_roughness": "pillar-side_mer"
+    }
+  }
+  

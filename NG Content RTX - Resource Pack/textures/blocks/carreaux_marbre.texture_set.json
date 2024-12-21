@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "carreaux_marbre",
+      "heightmap" : "carreaux_marbre_heightmap",
+      "metalness_emissive_roughness" : "carreaux_marbre_mer"
+    }
+  }
+  

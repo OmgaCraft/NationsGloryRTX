@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "reinforced_concrete",
+      "heightmap" : "reinforced_concrete_heightmap",
+      "metalness_emissive_roughness" : "reinforced_concrete_mer"
+    }
+  }
+  

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.19.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.concert_chair",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "group",
+					"pivot": [-8, 0, -8],
+					"cubes": [
+						{"origin": [-1, 1, -2], "size": [2, 5, 2], "uv": [0, 0]},
+						{"origin": [-3, 0, -4], "size": [6, 1, 6], "uv": [23, 20]},
+						{"origin": [-7, 6, -7], "size": [14, 2, 12], "uv": [0, 0]},
+						{"origin": [-7, 8, 4], "size": [14, 10, 2], "uv": [0, 32]}
+					]
+				}
+			]
+		}
+	]
+}

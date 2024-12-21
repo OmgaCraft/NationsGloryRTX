@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "fer_noir",
+      "heightmap" : "fer_noir_heightmap",
+      "metalness_emissive_roughness" : "fer_noir_mer"
+    }
+  }
+  

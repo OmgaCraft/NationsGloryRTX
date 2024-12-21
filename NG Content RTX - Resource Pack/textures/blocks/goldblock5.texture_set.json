@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "goldblock5",
+      "heightmap" : "goldblock5_heightmap",
+      "metalness_emissive_roughness" : "goldblock5_mer"
+    }
+  }
+  

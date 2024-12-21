@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:christmas_santaclaus_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "christmas_santaclaus_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

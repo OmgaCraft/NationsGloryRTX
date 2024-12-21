@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "dent",
+      "heightmap" : "dent_heightmap",
+      "metalness_emissive_roughness" : "dent_mer"
+    }
+  }
+  

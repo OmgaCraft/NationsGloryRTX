@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:templar_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "templar_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

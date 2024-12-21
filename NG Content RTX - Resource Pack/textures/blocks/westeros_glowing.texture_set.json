@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "westeros_glowing",
+      "metalness_emissive_roughness": "westeros_glowing_mer",
+      "heightmap" : "westeros_glowing_heightmap"
+    }
+  }
+  

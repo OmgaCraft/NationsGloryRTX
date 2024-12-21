@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:shadowassassin_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "shadowassassin_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

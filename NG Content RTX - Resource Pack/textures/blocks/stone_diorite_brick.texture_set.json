@@ -1,0 +1,9 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "stone_diorite_brick",
+      "heightmap" : "stone_custom_brick_heightmap"
+    }
+  }
+  

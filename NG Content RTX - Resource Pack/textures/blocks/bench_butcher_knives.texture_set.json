@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "bench_butcher_knives",
+      "heightmap" : "bench_butcher_knives_heightmap",
+      "metalness_emissive_roughness" : "bench_butcher_knives_mer"
+    }
+  }
+  

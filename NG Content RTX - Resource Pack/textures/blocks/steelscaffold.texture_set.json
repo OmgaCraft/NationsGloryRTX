@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "steelscaffold",
+      "heightmap" : "goldblock_scaffold_heightmap",
+      "metalness_emissive_roughness" : "goldblock_scaffold_mer"
+    }
+  }
+  

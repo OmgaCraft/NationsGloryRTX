@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "planks_black_mapple",
+      "heightmap" : "planks_black_mapple_heightmap"
+    }
+  }
+  

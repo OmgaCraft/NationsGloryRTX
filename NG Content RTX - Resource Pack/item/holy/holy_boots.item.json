@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:holy_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "holy_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

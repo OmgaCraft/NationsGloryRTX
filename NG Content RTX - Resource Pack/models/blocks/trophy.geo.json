@@ -1,0 +1,29 @@
+{
+	"format_version": "1.19.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.trophy",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 6,
+				"visible_bounds_offset": [0, -1, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 1.5, -1], "size": [2, 2.5, 2], "inflate": 0.2, "uv": [22, 11]},
+						{"origin": [3.5, 5.5, -1], "size": [3, 5, 2], "uv": [25, 0]},
+						{"origin": [-4, 10.5, -4], "size": [8, 2, 8], "uv": [0, 0]},
+						{"origin": [-6.5, 5.5, -1], "size": [3, 5, 2], "uv": [0, 25]},
+						{"origin": [-3.5, 4.3, -3.5], "size": [7, 6, 7], "inflate": 0.25, "uv": [0, 11]},
+						{"origin": [-3, 0.3, -3], "size": [6, 1, 6], "inflate": 0.25, "uv": [23, 19]}
+					]
+				}
+			]
+		}
+	]
+}

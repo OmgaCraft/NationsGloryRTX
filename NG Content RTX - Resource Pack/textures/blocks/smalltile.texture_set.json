@@ -1,0 +1,10 @@
+
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "smalltile",
+      "heightmap" : "smalltile_heightmap",
+      "metalness_emissive_roughness" : "smalltile_mer"
+    }
+  }
+  

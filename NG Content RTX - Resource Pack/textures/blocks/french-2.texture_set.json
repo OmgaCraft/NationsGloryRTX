@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "french-2",
+      "heightmap" : "french-2_heightmap",
+      "metalness_emissive_roughness" : "french-2_mer"
+    }
+  }
+  

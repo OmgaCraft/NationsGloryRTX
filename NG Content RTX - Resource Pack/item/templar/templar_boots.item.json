@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:templar_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "templar_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

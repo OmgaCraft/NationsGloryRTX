@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:ninja_boots",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "ninja_boots",
+            "minecraft:render_offsets": "boots"
+        }
+    }
+}

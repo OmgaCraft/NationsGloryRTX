@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "brick_orange_small_top_ornate",
+      "heightmap" : "brick_orange_small_top_ornate_heightmap",
+      "metalness_emissive_roughness" : "brick_orange_small_top_ornate_mer"
+    }
+  }
+  
