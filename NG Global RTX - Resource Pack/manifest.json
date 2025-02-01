@@ -4,7 +4,7 @@
       "description": "Ressource Pack RTX pour NationsGlory BE\nModifie seulement le pack Global de NG\n\nPar:\nRTX: OmégaCraft & OuiOuiGAMING\nTexture: NationsGlory",
       "name": "Nations Glory RTX G- OmégaCraft",
       "uuid":"97dd523c-6b73-44a0-aa0a-a2d1a7cd56d0",
-      "version": [10, 4, 33],
+      "version": [10, 4, 40],
       "min_engine_version": [1, 17, 0]
      },
     "modules": [

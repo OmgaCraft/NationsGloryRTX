@@ -20,6 +20,9 @@
     "builder_armor_chestplate": {
       "textures": "textures/items/builder_armor_chestplate"
     },
+    "chestplate_yellow_gilet": {
+      "textures": "textures/items/chestplate_yellow_gilet"
+    },
     "builder_armor_leggings": {
       "textures": "textures/items/builder_armor_leggings"
     },
@@ -319,86 +322,86 @@
     "sucre_orge": {
       "textures": "textures/items/sucre_orge"
     },
-    "potion_boost_xp_3": {
-      "textures": "textures/items/potion_boost_xp_3"
+    "parchment_boost_xp_3": {
+      "textures": "textures/items/parchment_boost_xp_3"
     },
-    "potion_boost_xp_1": {
-      "textures": "textures/items/potion_boost_xp_1"
+    "parchment_boost_xp_1": {
+      "textures": "textures/items/parchment_boost_xp_1"
     },
-    "potion_boost_xp_2": {
-      "textures": "textures/items/potion_boost_xp_2"
+    "parchment_boost_xp_2": {
+      "textures": "textures/items/parchment_boost_xp_2"
     },
-    "potion_boost_atm_1": {
-      "textures": "textures/items/potion_boost_atm_1"
+    "parchment_boost_atm_1": {
+      "textures": "textures/items/parchment_boost_atm_1"
     },
-    "potion_boost_atm_2": {
-      "textures": "textures/items/potion_boost_atm_2"
+    "parchment_boost_atm_2": {
+      "textures": "textures/items/parchment_boost_atm_2"
     },
-    "potion_boost_atm_3": {
-      "textures": "textures/items/potion_boost_atm_3"
+    "parchment_boost_atm_3": {
+      "textures": "textures/items/parchment_boost_atm_3"
     },
-    "potion_boost_skill_all_1": {
-      "textures": "textures/items/potion_boost_skill_all_1"
+    "parchment_boost_skill_all_1": {
+      "textures": "textures/items/parchment_boost_skill_all_1"
     },
-    "potion_boost_skill_all_2": {
-      "textures": "textures/items/potion_boost_skill_all_2"
+    "parchment_boost_skill_all_2": {
+      "textures": "textures/items/parchment_boost_skill_all_2"
     },
-    "potion_boost_skill_all_3": {
-      "textures": "textures/items/potion_boost_skill_all_3"
+    "parchment_boost_skill_all_3": {
+      "textures": "textures/items/parchment_boost_skill_all_3"
     },
-    "potion_boost_skill_builder_1": {
-      "textures": "textures/items/potion_boost_skill_builder_1"
+    "parchment_boost_skill_builder_1": {
+      "textures": "textures/items/parchment_boost_skill_builder_1"
     },
-    "potion_boost_skill_builder_2": {
-      "textures": "textures/items/potion_boost_skill_builder_2"
+    "parchment_boost_skill_builder_2": {
+      "textures": "textures/items/parchment_boost_skill_builder_2"
     },
-    "potion_boost_skill_builder_3": {
-      "textures": "textures/items/potion_boost_skill_builder_3"
+    "parchment_boost_skill_builder_3": {
+      "textures": "textures/items/parchment_boost_skill_builder_3"
     },
-    "potion_boost_skill_miner_1": {
-      "textures": "textures/items/potion_boost_skill_miner_1"
+    "parchment_boost_skill_miner_1": {
+      "textures": "textures/items/parchment_boost_skill_miner_1"
     },
-    "potion_boost_skill_miner_2": {
-      "textures": "textures/items/potion_boost_skill_miner_2"
+    "parchment_boost_skill_miner_2": {
+      "textures": "textures/items/parchment_boost_skill_miner_2"
     },
-    "potion_boost_skill_miner_3": {
-      "textures": "textures/items/potion_boost_skill_miner_3"
+    "parchment_boost_skill_miner_3": {
+      "textures": "textures/items/parchment_boost_skill_miner_3"
     },
-    "potion_boost_skill_farmer_1": {
-      "textures": "textures/items/potion_boost_skill_farmer_1"
+    "parchment_boost_skill_farmer_1": {
+      "textures": "textures/items/parchment_boost_skill_farmer_1"
     },
-    "potion_boost_skill_farmer_2": {
-      "textures": "textures/items/potion_boost_skill_farmer_2"
+    "parchment_boost_skill_farmer_2": {
+      "textures": "textures/items/parchment_boost_skill_farmer_2"
     },
-    "potion_boost_skill_farmer_3": {
-      "textures": "textures/items/potion_boost_skill_farmer_3"
+    "parchment_boost_skill_farmer_3": {
+      "textures": "textures/items/parchment_boost_skill_farmer_3"
     },
-    "potion_boost_skill_hunter_1": {
-      "textures": "textures/items/potion_boost_skill_hunter_1"
+    "parchment_boost_skill_hunter_1": {
+      "textures": "textures/items/parchment_boost_skill_hunter_1"
     },
-    "potion_boost_skill_hunter_2": {
-      "textures": "textures/items/potion_boost_skill_hunter_2"
+    "parchment_boost_skill_hunter_2": {
+      "textures": "textures/items/parchment_boost_skill_hunter_2"
     },
-    "potion_boost_skill_hunter_3": {
-      "textures": "textures/items/potion_boost_skill_hunter_3"
+    "parchment_boost_skill_hunter_3": {
+      "textures": "textures/items/parchment_boost_skill_hunter_3"
     },
-    "potion_boost_skill_lumberjack_1": {
-      "textures": "textures/items/potion_boost_skill_lumberjack_1"
+    "parchment_boost_skill_lumberjack_1": {
+      "textures": "textures/items/parchment_boost_skill_lumberjack_1"
     },
-    "potion_boost_skill_lumberjack_2": {
-      "textures": "textures/items/potion_boost_skill_lumberjack_2"
+    "parchment_boost_skill_lumberjack_2": {
+      "textures": "textures/items/parchment_boost_skill_lumberjack_2"
     },
-    "potion_boost_skill_lumberjack_3": {
-      "textures": "textures/items/potion_boost_skill_lumberjack_3"
+    "parchment_boost_skill_lumberjack_3": {
+      "textures": "textures/items/parchment_boost_skill_lumberjack_3"
     },
-    "potion_boost_skill_engineer_1": {
-      "textures": "textures/items/potion_boost_skill_engineer_1"
+    "parchment_boost_skill_engineer_1": {
+      "textures": "textures/items/parchment_boost_skill_engineer_1"
     },
-    "potion_boost_skill_engineer_2": {
-      "textures": "textures/items/potion_boost_skill_engineer_2"
+    "parchment_boost_skill_engineer_2": {
+      "textures": "textures/items/parchment_boost_skill_engineer_2"
     },
-    "potion_boost_skill_engineer_3": {
-      "textures": "textures/items/potion_boost_skill_engineer_3"
+    "parchment_boost_skill_engineer_3": {
+      "textures": "textures/items/parchment_boost_skill_engineer_3"
     },
     "white_spartan_sword": {
       "textures": "textures/items/white_spartan_sword"

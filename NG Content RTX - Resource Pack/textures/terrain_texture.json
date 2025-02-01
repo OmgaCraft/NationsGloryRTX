@@ -13,6 +13,9 @@
     "fountain_water_jet": {
       "textures": "textures/blocks/fountain_water_jet.png"
     },
+    "panel_gold": {
+      "textures": "textures/blocks/panel_gold.png"
+    },
     "market_furniture_fountain_neblion_statue": {
       "textures": "textures/blocks/market_furniture_fountain_neblion_statue.png"
     },
