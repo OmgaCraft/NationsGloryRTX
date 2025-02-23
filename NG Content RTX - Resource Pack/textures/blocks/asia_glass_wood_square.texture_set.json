@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "asia_glass_wood_square",
+      "metalness_emissive_roughness" : "asia_glass_wood_square_mer"
+    }
+  }
+  
