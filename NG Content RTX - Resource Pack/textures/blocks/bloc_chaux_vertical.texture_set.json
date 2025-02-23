@@ -1,0 +1,9 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "bloc_chaux_vertical",
+      "heightmap" : "bloc_chaux_vertical_heightmap",
+      "metalness_emissive_roughness" : "bloc_chaux_vertical_mer"
+    }
+  }
+  
