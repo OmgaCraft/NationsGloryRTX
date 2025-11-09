@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:npc_terra",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/npc/npc_terra"
+			},
+			"geometry": {
+				"default": "geometry.npc_terra"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:fusee",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/fusee"
+			},
+			"animations": {
+				"anim_1": "animation.fuse.new",
+				"anim_2": "animation.fuse.new2",
+				"anim_3": "animation.fuse.start",
+				"anim_4": "animation.fuse.fly",
+				"anim_5": "animation.fuse.off"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 0"},
+					{"anim_2": "q.variant == 1"},
+					{"anim_3": "q.variant == 2"},
+					{"anim_4": "q.variant == 3"},
+					{"anim_5": "q.variant == 4"}
+				
+				]
+			},
+			"geometry": {
+				"default": "geometry.fusee"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

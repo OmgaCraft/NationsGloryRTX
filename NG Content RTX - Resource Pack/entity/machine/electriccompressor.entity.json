@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:electriccompressor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/electriccompressor"
+			},
+			"animations": {
+				"move": "animation.electriccompressor.on"
+			},
+			"scripts": {
+				"animate": [
+					{"move": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.electriccompressor"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

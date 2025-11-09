@@ -1,0 +1,41 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.bushi_helmet",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "waist",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "head",
+					"parent": "waist",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-5, 30, -5], "size": [10, 4, 10], "uv": [0, 0]},
+						{"origin": [-5, 34, -5], "size": [10, 3, 10], "uv": [0, 14]},
+						{"origin": [5, 30, -6], "size": [3, 3, 1], "pivot": [4, 30, 0], "rotation": [0, 0, 62.5], "uv": [62, 22]},
+						{"origin": [-11, 30, -5.025], "size": [7, 1, 10], "pivot": [-4, 30, 0], "rotation": [0, 0, -62.5], "uv": [0, 27], "mirror": true},
+						{"origin": [-8, 30, -6], "size": [3, 3, 1], "pivot": [-4, 30, 0], "rotation": [0, 0, -62.5], "uv": [62, 22], "mirror": true},
+						{"origin": [4, 30, -5.025], "size": [7, 1, 10], "pivot": [4, 30, 0], "rotation": [0, 0, 62.5], "uv": [0, 27]},
+						{"origin": [-2, 32, -6], "size": [4, 3, 9], "uv": [34, 35]},
+						{"origin": [7.75, 27.75, -7], "size": [2, 8, 1], "pivot": [0, 20, 0], "rotation": [0, 0, -45], "uv": [62, 3]},
+						{"origin": [9.75, 27.75, -7], "size": [6, 2, 1], "pivot": [0, 20, 0], "rotation": [0, 0, -45], "uv": [62, 0]},
+						{"origin": [9.75, 29.75, -7], "size": [1, 1, 1], "pivot": [0, 20, 0], "rotation": [0, 0, -45], "uv": [56, 47]},
+						{"origin": [-5, 30, -7], "size": [10, 1, 2], "uv": [32, 47]},
+						{"origin": [-5, 24, 4], "size": [10, 6, 1], "uv": [40, 19]},
+						{"origin": [-4, 24, -4], "size": [8, 8, 8], "inflate": 0.5, "uv": [96, 0]}
+					]
+				}
+			]
+		}
+	]
+}

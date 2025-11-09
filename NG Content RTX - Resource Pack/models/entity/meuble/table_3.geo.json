@@ -1,0 +1,39 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.table_3",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "group2",
+					"pivot": [8, 0, -8]
+				},
+				{
+					"name": "group3",
+					"parent": "group2",
+					"pivot": [8, 16, -8],
+					"cubes": [
+						{"origin": [-23, 0, -7], "size": [3, 14, 30], "uv": [67, 62]},
+						{"origin": [20, 0, -7], "size": [3, 14, 30], "uv": [0, 62]},
+						{"origin": [-24, 14, -8], "size": [48, 2, 32], "uv": [0, 0]},
+						{"origin": [-24, 16, 17], "size": [48, 8, 7], "uv": [0, 35]},
+						{"origin": [-24, 22, 9], "size": [48, 2, 8], "uv": [0, 51]},
+						{"origin": [-20, 6, 21], "size": [40, 8, 1], "uv": [104, 62]}
+					]
+				},
+				{
+					"name": "group",
+					"parent": "group3",
+					"pivot": [8, 16, -8]
+				}
+			]
+		}
+	]
+}

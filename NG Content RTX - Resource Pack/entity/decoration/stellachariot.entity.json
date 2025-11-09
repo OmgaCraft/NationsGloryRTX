@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:stellachariot",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/stellachariot"
+			},
+			"animations": {
+				"new": "animation.stellachariot.default"
+			},
+			"scripts": {
+				"animate": [
+					"new"
+				]
+			},
+			"geometry": {
+				"default": "geometry.stellachariot"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

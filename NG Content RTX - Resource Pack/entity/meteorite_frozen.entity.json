@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:meteorite_frozen",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/meteorite_frozen"
+			},
+			"geometry": {
+				"default": "geometry.meteorite_frozen"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

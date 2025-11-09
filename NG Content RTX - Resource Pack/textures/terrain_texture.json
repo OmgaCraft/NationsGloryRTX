@@ -4,6 +4,207 @@
   "num_mip_levels" : 4,
   "padding" : 8,
   "texture_data" : {
+    "price_tag": {
+      "textures": "textures/blocks/price_tag.png"
+    },
+    "food_popcorn": {
+      "textures": "textures/blocks/food_popcorn.png"
+    },
+    "soulsand_1": {
+      "textures": "textures/blocks/soulsand_1.png"
+    },
+    "soulsand_2": {
+      "textures": "textures/blocks/soulsand_2.png"
+    },
+    "soulsand_3": {
+      "textures": "textures/blocks/soulsand_3.png"
+    },
+    "food_soda": {
+      "textures": "textures/blocks/food_soda.png"
+    },
+    "food_hotdog": {
+      "textures": "textures/blocks/food_hotdog.png"
+    },
+    "food_fries": {
+      "textures": "textures/blocks/food_fries.png"
+    },
+    "store_counter_pedestal": {
+      "textures": "textures/offer/store_counter_pedestal.png"
+    },
+    "food_burger": {
+      "textures": "textures/blocks/food_burger.png"
+    },
+    "market_furniture_brush_holder": {
+      "textures": "textures/blocks/market_furniture_brush_holder.png"
+    },
+    "door_frame_side": {
+      "textures": "textures/blocks/door_frame_side.png"
+    },
+    "market_furniture_paintshelf": {
+      "textures": "textures/blocks/market_furniture_paintshelf.png"
+    },
+    "market_furniture_stacked_paint_cans": {
+      "textures": "textures/blocks/market_furniture_stacked_paint_cans.png"
+    },
+    "museum_white_cord" : {
+      "textures" : "textures/blocks/white_cord"
+    },
+    "museum_wall_blue_dark" : {
+      "textures" : "textures/blocks/museum_wall_blue_dark"
+    },
+    "museum_stone_wall_dark" : {
+      "textures" : "textures/blocks/museum_stone_wall_dark"
+    },
+    "museum_wall_stone_cyan_dark" : {
+      "textures" : "textures/blocks/museum_wall_stone_cyan_dark"
+    },
+    "museum_stone_chisel_dark" : {
+      "textures" : "textures/blocks/museum_stone_chisel_dark"
+    },
+    "museum_wall_simple_dark" : {
+      "textures" : "textures/blocks/museum_wall_simple_dark"
+    },
+    "museum_floor_dark" : {
+      "textures" : "textures/blocks/museum_floor_dark"
+    },
+    "museum_wall_laboratory_top" : {
+      "textures" : "textures/blocks/museum_wall_laboratory_top"
+    },
+    "museum_wall_laboratory" : {
+      "textures" : "textures/blocks/museum_wall_laboratory"
+    },
+    "museum_floor_cyber_corner" : {
+      "textures" : "textures/blocks/museum_floor_cyber_corner"
+    },
+    "museum_floor_cyber" : {
+      "textures" : "textures/blocks/museum_floor_cyber"
+    },
+    "furniture_stacked_planks": {
+      "textures": "textures/blocks/furniture_stacked_planks.png"
+    },
+    "market_furniture_woodworking_bench": {
+      "textures": "textures/blocks/market_furniture_woodworking_bench.png"
+    },
+    "plant_custom_flower_waterlily": {
+      "textures": "textures/blocks/plant_custom_flower_waterlily.png"
+    },
+    "plant_custom_flower_cactus": {
+      "textures": "textures/blocks/plant_custom_flower_cactus"
+    },
+    "plant_custom_flower_lavender": {
+      "textures": "textures/blocks/plant_custom_flower_lavender"
+    },
+    "plant_custom_flower_white_2": {
+      "textures": "textures/blocks/plant_custom_flower_white_2"
+    },
+    "plant_custom_smallgrass_2": {
+      "textures": "textures/blocks/plant_custom_smallgrass_2"
+    },
+    "plant_custom_flower_tall_yellow": {
+      "textures": "textures/blocks/plant_custom_flower_tall_yellow"
+    },
+    "plant_custom_flower_tall_purple": {
+      "textures": "textures/blocks/plant_custom_flower_tall_purple"
+    },
+    "plant_custom_flower_blue": {
+      "textures": "textures/blocks/plant_custom_flower_blue"
+    },
+    "plant_custom_flower_white": {
+      "textures": "textures/blocks/plant_custom_flower_white"
+    },
+    "plant_custom_flower_orange": {
+      "textures": "textures/blocks/plant_custom_flower_orange"
+    },
+    "plant_longleave": {
+      "textures": "textures/blocks/plant_longleave"
+    },
+    "plant_longgrass": {
+      "textures": "textures/blocks/plant_longgrass"
+    },
+    "plant_smallgrass": {
+      "textures": "textures/blocks/plant_smallgrass"
+    },
+    "giant_vine": {
+      "textures": "textures/blocks/giant_vine"
+    },
+    "market_furniture_cloth_black": {
+      "textures": "textures/blocks/market_furniture_cloth_black"
+    },
+    "market_furniture_forge_anvil": {
+      "textures": "textures/blocks/market_furniture_forge_anvil"
+    },
+    "market_furniture_forge_furnace": {
+      "textures": "textures/blocks/market_furniture_forge_furnace"
+    },
+    "market_furniture_forge_grindstone": {
+      "textures": "textures/blocks/market_furniture_forge_grindstone"
+    },
+    "market_furniture_forge_weapon_rack": {
+      "textures": "textures/blocks/market_furniture_forge_weapon_rack"
+    },
+    "market_furniture_table_wood": {
+      "textures": "textures/blocks/market_furniture_table_wood"
+    },
+    "giant_vine_purple": {
+      "textures": "textures/blocks/giant_vine_purple"
+    },
+    "hanging_flower": {
+      "textures": "textures/blocks/hanging_flower"
+    },
+    "hanging_flower_red": {
+      "textures": "textures/blocks/hanging_flower_red"
+    },
+    "hanging_flower_purple": {
+      "textures": "textures/blocks/hanging_flower_purple"
+    },
+    "market_furniture_cloth_blue": {
+      "textures": "textures/blocks/market_furniture_cloth_blue"
+    },
+    "market_furniture_cloth_green": {
+      "textures": "textures/blocks/market_furniture_cloth_green"
+    },
+    "market_furniture_flower_pot_side": {
+      "textures": "textures/blocks/market_furniture_flower_pot_side"
+    },
+    "market_furniture_greenhouse": {
+      "textures": "textures/blocks/market_furniture_greenhouse"
+    },
+    "market_furniture_greenhouse_bloc": {
+      "textures": "textures/blocks/market_furniture_greenhouse_bloc"
+    },
+    "market_furniture_laboratory_box_rocket": {
+      "textures": "textures/blocks/market_furniture_laboratory_box_rocket"
+    },
+    "market_furniture_lamp_post": {
+      "textures": "textures/blocks/market_furniture_lamp_post"
+    },
+    "market_furniture_table": {
+      "textures": "textures/blocks/market_furniture_table"
+    },
+    "market_furniture_table1": {
+      "textures": "textures/blocks/market_furniture_table1"
+    },
+    "market_furniture_table_iron": {
+      "textures": "textures/blocks/market_furniture_table_iron"
+    },
+    "banner_flag_market": {
+      "textures": "textures/blocks/banner_flag_market"
+    },
+    "sky_wood_2": {
+      "textures": "textures/blocks/sky_wood_2"
+    },
+    "sky_wood": {
+      "textures": "textures/blocks/sky_wood"
+    },
+    "small_ground": {
+      "textures": "textures/blocks/small_ground"
+    },
+    "sky_barrier_wood": {
+      "textures": "textures/blocks/sky_barrier_wood"
+    },
+    "brazier": {
+      "textures": "textures/blocks/brazier"
+    },
     "white_granite_carved_column_top": {
       "textures": "textures/blocks/white_granite_carved_column_top"
     },
@@ -13,11 +214,41 @@
     "fountain_water_jet": {
       "textures": "textures/blocks/fountain_water_jet.png"
     },
+    "floor_rock": {
+      "textures": "textures/blocks/floor_rock.png"
+    },
     "panel_gold": {
       "textures": "textures/blocks/panel_gold.png"
     },
     "market_furniture_fountain_neblion_statue": {
       "textures": "textures/blocks/market_furniture_fountain_neblion_statue.png"
+    },
+    "banner_flag_delta": {
+      "textures": "textures/blocks/banner_flag_delta.png"
+    },
+    "stair_ramp": {
+      "textures": "textures/blocks/stair_ramp.png"
+    },
+    "round_pillar": {
+      "textures": "textures/blocks/round_pillar.png"
+    },
+    "gold_variant_side": {
+      "textures": "textures/blocks/gold_variant_side.png"
+    },
+    "garden_fences_iron": {
+      "textures": "textures/blocks/garden_fences_iron.png"
+    },
+    "banner_flag_alpha": {
+      "textures": "textures/blocks/banner_flag_alpha.png"
+    },
+    "banner_flag_sigma": {
+      "textures": "textures/blocks/banner_flag_sigma.png"
+    },
+    "banner_flag_omega": {
+      "textures": "textures/blocks/banner_flag_omega.png"
+    },
+    "banner_flag_epsilon": {
+      "textures": "textures/blocks/banner_flag_epsilon.png"
     },
     "stone_wall": {
       "textures": "textures/blocks/stone_wall.png"
@@ -37,8 +268,17 @@
     "bush": {
       "textures": "textures/blocks/bush.png"
     },
+    "round_pillar_base": {
+      "textures": "textures/blocks/round_pillar_base.png"
+    },
+    "garden_fences_basic": {
+      "textures": "textures/blocks/garden_fences_basic.png"
+    },
     "garden_fences": {
       "textures": "textures/blocks/garden_fences.png"
+    },
+    "trophy_wonder": {
+      "textures": "textures/blocks/trophy_wonder.png"
     },
     "blackstone_3": {
       "textures": "textures/blocks/blackstone_3.png"
@@ -190,9 +430,6 @@
     "furniture_coastal_armchair": {
       "textures": "textures/blocks/furniture_coastal_armchair.png"
     },
-    "furniture_coastal_armchair": {
-      "textures": "textures/blocks/furniture_coastal_armchair.png"
-    },
     "xp_bush_default": {
       "textures": "textures/blocks/xp_bush_default"
     },
@@ -269,7 +506,7 @@
       "textures": "textures/blocks/flag_update_small_2"
     },
     "flag_event_block": {
-      "textures": "textures/blocks/flag_event_block"
+      "textures": "textures/entity/flagEvent"
     },
     "frame_ng": {
       "textures": "textures/blocks/frame_ng"
@@ -361,6 +598,12 @@
     },
 	"wool_colored_border": {
       "textures": "textures/blocks/wool_colored_border"
+    },
+	"border_2": {
+      "textures": "textures/blocks/border_2"
+    },
+	"border_3": {
+      "textures": "textures/blocks/border_3"
     },
 	"darkoak_pillar": {
       "textures": "textures/blocks/darkoak_pillar"
@@ -935,11 +1178,59 @@
     "nuclear_reactor_heart": {
       "textures": "textures/blocks/nuclear_reactor_heart"
     },
+    "horse_statue": {
+      "textures": "textures/entity/horse_statue"
+    },
+    "crate": {
+      "textures": "textures/entity/crate"
+    },
+    "test": {
+      "textures": "textures/entity/test"
+    },
+    "small_tree": {
+      "textures": "textures/entity/smallTree"
+    },
+    "info_stand": {
+      "textures": "textures/event/info_stand"
+    },
+    "science_light": {
+      "textures": "textures/entity/lamp"
+    },
+    "science_light_2": {
+      "textures": "textures/entity/lamp2"
+    },
     "confinement_alloy": {
       "textures": "textures/blocks/confinement_alloy"
     },
+    "stone_floor_1": {
+      "textures": "textures/blocks/stone_floor_1"
+    },
+    "stone_floor_2": {
+      "textures": "textures/blocks/stone_floor_2"
+    },
+    "stone_floor_3": {
+      "textures": "textures/blocks/stone_floor_3"
+    },
+    "stone_floor_4": {
+      "textures": "textures/blocks/stone_floor_4"
+    },
+    "custom_bush": {
+      "textures": "textures/blocks/custom_bush"
+    },
     "plasma_resonance": {
       "textures": "textures/blocks/plasma_resonance"
+    },
+    "white_granite_gold_top": {
+      "textures": "textures/blocks/white_granite_gold_top"
+    },
+    "white_granite_gold_side": {
+      "textures": "textures/blocks/white_granite_gold_side"
+    },
+    "white_granite_gold_corner": {
+      "textures": "textures/blocks/white_granite_gold_corner"
+    },
+    "npc_skye": {
+      "textures": "textures/npc/npc_skye"
     },
 	"verre_cyan": {
       "textures": "textures/blocks/verre_cyan"

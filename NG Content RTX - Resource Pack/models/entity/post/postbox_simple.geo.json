@@ -1,0 +1,72 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.postbox_simple",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "letter",
+					"pivot": [0, 1, 0],
+					"rotation": [0, 180, 0],
+					"cubes": [
+						{"origin": [-1, 0, -1], "size": [2, 16, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "box",
+					"parent": "letter",
+					"pivot": [0, 15, 0],
+					"cubes": [
+						{"origin": [-4, 15, -5], "size": [8, 8, 10], "uv": [0, 44]},
+						{"origin": [-4.5, 21.5, -5.5], "size": [9, 1, 11], "inflate": 0.55, "uv": [22, 30]}
+					]
+				},
+				{
+					"name": "notif",
+					"parent": "box",
+					"pivot": [-5.5, 22, 2.95],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-5.7, 21.5, 2.5], "size": [1, 1, 1], "uv": [22, 5]},
+						{"origin": [-5.8, 21.5, 1.5], "size": [0, 7, 2], "uv": [27, 3]}
+					]
+				},
+				{
+					"name": "locator",
+					"parent": "letter",
+					"pivot": [0, 29, 0],
+					"locators": {
+						"locator": [0, 33, 0]
+					}
+				},
+				{
+					"name": "colis",
+					"pivot": [7, -13, 0],
+					"cubes": [
+						{
+							"origin": [3.5, -13, -6.5],
+							"size": [10, 9, 10],
+							"pivot": [7, -13, 0],
+							"rotation": [0, 22.5, 0],
+							"uv": {
+								"north": {"uv": [51, 51], "uv_size": [13, 11]},
+								"east": {"uv": [51, 51], "uv_size": [13, 11]},
+								"south": {"uv": [51, 51], "uv_size": [13, 11]},
+								"west": {"uv": [51, 51], "uv_size": [13, 11]},
+								"up": {"uv": [50, 64], "uv_size": [-13, -13]},
+								"down": {"uv": [37, 64], "uv_size": [13, -13]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

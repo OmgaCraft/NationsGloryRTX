@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:stand_atlas",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/stand_atlas"
+			},
+			"geometry": {
+				"default": "geometry.stand_atlas"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

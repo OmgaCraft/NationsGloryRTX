@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:market_furniture_laboratory_hologram_solargenerator",
+			"materials": {
+				"default": "entity_beam_additive"
+			},
+			"textures": {
+				"default": "textures/entity/market_furniture_laboratory_hologram_solargenerator"
+			},
+			"geometry": {
+				"default": "geometry.market_furniture_laboratory_hologram_solargenerator"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.market_furniture_laboratory_hologram.idle"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#a6b37d",
+				"overlay_color": "#e122e8"
+			}
+		}
+	}
+}

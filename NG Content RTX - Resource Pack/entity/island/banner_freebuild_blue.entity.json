@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:balise_small_blue",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/island/banner_freebuild_blue"
+      },
+      "animations": {
+        "play": "animation.banner_freebuild.idle"
+      },
+      "scripts": {
+        "animate": [
+          "play"
+        ]
+      },
+      "geometry": {
+        "default": "geometry.banner_freebuild"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

@@ -22,8 +22,11 @@
 		"lootbox_anniv_1": {
 			"sounds": ["sounds/lootbox_anniv_1"]
 		},
-		"lootbox_anniv_2": {
-			"sounds": ["sounds/lootbox_anniv_2"]
+		"drone_kit": {
+			"sounds": ["sounds/drone_kit"]
+		},
+		"drone_market": {
+			"sounds": ["sounds/drone_market"]
 		},
 		"lootbox_anniv_3": {
 			"sounds": ["sounds/lootbox_anniv_3"]
@@ -39,6 +42,21 @@
 		},
 		"metal1": {
 			"sounds": ["sounds/metal1"]
+		},
+		"lootbox_demonic_common": {
+			"sounds": ["sounds/lootbox_demonic_common"]
+		},
+		"lootbox_demonic_rare": {
+			"sounds": ["sounds/lootbox_demonic_rare"]
+		},
+		"lootbox_demonic_epic": {
+			"sounds": ["sounds/lootbox_demonic_epic"]
+		},
+		"lootbox_demonic_legendary": {
+			"sounds": ["sounds/lootbox_demonic_legendary"]
+		},
+		"lootbox_demonic_idle": {
+			"sounds": ["sounds/lootbox_demonic_idle"]
 		},
 		"metal2": {
 			"sounds": ["sounds/metal2"]

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:gas_extractor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/gas_extractor"
+			},
+			"animations": {
+				"new": "animation.gas_extractor.new"
+			},
+			"scripts": {
+				"animate": [
+					{"new": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.gas_extractor"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

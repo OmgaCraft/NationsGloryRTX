@@ -1,0 +1,44 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.default_machine": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.on"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.default_machine_nuke": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.on_machine",
+            "Texture.on_machine_second"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    }
+  }
+}

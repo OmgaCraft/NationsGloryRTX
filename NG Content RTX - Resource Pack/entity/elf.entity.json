@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:elf",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/elf"
+			},
+			"animations": {
+			  "dance": "animation.elf.dance"
+			},
+			"scripts": {
+				"animate": [
+				  "dance"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.elf"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

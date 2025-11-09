@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:marketchariot",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/marketchariot"
+			},
+			"animations": {
+			  "wave": "animation.chariot.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.marketchariot"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.nuclear_chamber.0": {
+      "loop": true,
+      "bones": {
+        "1": {
+          "scale": 0
+        },
+        "2": {
+          "scale": 0
+        },
+        "3": {
+          "scale": 0
+        },
+        "4": {
+          "scale": 0
+        },
+        "5": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.nuclear_chamber.25": {
+      "loop": true,
+      "bones": {
+        "2": {
+          "scale": 0
+        },
+        "3": {
+          "scale": 0
+        },
+        "4": {
+          "scale": 0
+        },
+        "5": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.nuclear_chamber.50": {
+      "loop": true,
+      "bones": {
+        "3": {
+          "scale": 0
+        },
+        "4": {
+          "scale": 0
+        },
+        "5": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.nuclear_chamber.75": {
+      "loop": true,
+      "bones": {
+        "4": {
+          "scale": 0
+        },
+        "5": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.nuclear_chamber.99": {
+      "loop": true,
+      "bones": {
+        "5": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.nuclear_chamber.100": {
+      "loop": true
+    }
+  }
+}

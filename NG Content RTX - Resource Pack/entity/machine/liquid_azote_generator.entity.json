@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:liquid_azote_generator",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/liquid_azote_generator"
+			},
+			"animations": {
+				"new": "animation.liquid_azote_generator.work"
+			},
+			"scripts": {
+				"animate": [
+					{"new": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.liquid_azote_generator"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

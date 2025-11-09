@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:entityshopusa",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/entityshopusa"
+			},
+			"geometry": {
+				"default": "geometry.entityshopusa"
+			},
+			"animations": {
+				"idle": "animation.entityshopusa.new"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

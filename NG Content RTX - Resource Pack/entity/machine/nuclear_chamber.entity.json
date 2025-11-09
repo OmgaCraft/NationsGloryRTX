@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:nuclear_chamber",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/nuclear_chamber"
+			},
+			"animations": {
+				"statut_25": "animation.nuclear_chamber.25",
+				"statut_50": "animation.nuclear_chamber.50",
+				"statut_75": "animation.nuclear_chamber.75",
+				"statut_99": "animation.nuclear_chamber.99",
+				"statut_100": "animation.nuclear_chamber.100"
+			},
+			"scripts": {
+				"animate": [
+					{"statut_25": "q.variant == 1"},
+					{"statut_50": "q.variant == 2"},
+					{"statut_75": "q.variant == 3"},
+					{"statut_99": "q.variant == 4"},
+					{"statut_100": "q.variant == 5"}
+				
+				]
+			},
+			"geometry": {
+				"default": "geometry.nuclear_chamber"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

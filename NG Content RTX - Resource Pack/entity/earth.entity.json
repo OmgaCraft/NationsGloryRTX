@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:earth",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/earth"
+			},
+			"animations": {
+			  "rotate": "animation.earth.rotate"
+			},
+			"scripts": {
+				"animate": [
+				  "rotate"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.earth"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

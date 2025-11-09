@@ -1,0 +1,33 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:halloween_ghost_lv2",
+			"materials": {
+				"default": "entity_emissive_alpha_one_sided"
+			},
+			"textures": {
+				"default": "textures/ia/halloween_ghost_lv2"
+			},
+			"animations": {
+				"anim_1": "animation.halloween_ghost_lvl2.idle",
+				"anim_2": "animation.halloween_ghost_lvl2.walk",
+				"anim_3": "animation.halloween_ghost_lvl2.death",
+				"anim_4": "animation.halloween_ghost_lvl2.spawn"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 0"},
+					{"anim_2": "q.variant == 1"},
+					{"anim_3": "q.variant == 2"},
+					{"anim_4": "q.variant == 3"}
+
+				]
+			},
+			"geometry": {
+				"default": "geometry.halloween_ghost_lv2"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:lotostand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/lotoNonAnime"
+			},
+			"animations": {
+			  "default": "animation.lotostand.default"
+			},
+			"scripts": {
+				"animate": [
+				  "default"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.lotostand"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

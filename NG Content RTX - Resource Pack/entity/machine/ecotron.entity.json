@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:ecotron",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/ecotron_off",
+				"on_machine" : "textures/machine/ecotron"
+			},
+			"geometry": {
+				"default": "geometry.ecotron"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

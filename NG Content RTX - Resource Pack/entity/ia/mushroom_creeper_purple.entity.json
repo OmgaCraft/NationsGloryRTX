@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:mushroom_creeper_purple",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/mushroom_creeper_purple"
+			},
+			"animations": {
+				"idle": "animation.mushroom_creeper_purple.idle",
+				"walk": "animation.mushroom_creeper_purple.walk",
+				"fart": "animation.mushroom_creeper_purple.fart"
+			},
+			"scripts": {
+				"animate": [
+					{"idle": "q.variant == 0"},
+					{"walk": "q.variant == 1"},
+					{"fart": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.mushroom_creeper_purple"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

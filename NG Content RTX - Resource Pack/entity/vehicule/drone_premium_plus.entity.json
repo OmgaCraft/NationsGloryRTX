@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:drone_premium_plus",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/vehicule/drone_premium_plus"
+			},
+			"geometry": {
+				"default": "geometry.drone"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.drone.delivered"
+			},
+			"sound_effects": {
+                "drone_market": "drone_kit"
+            },
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

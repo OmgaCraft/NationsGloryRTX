@@ -1,0 +1,35 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:new_lootbox_chrismas",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/lootbox/new_lootbox_chrismas"
+      },
+      "animations": {
+        "anim_1": "animation.new_lootbox_chrismas.idle",
+        "anim_2": "animation.new_lootbox_chrismas.open1",
+        "anim_3": "animation.new_lootbox_chrismas.open2",
+        "anim_4": "animation.new_lootbox_chrismas.open3",
+        "anim_5": "animation.new_lootbox_chrismas.open4"
+      },
+      "scripts": {
+        "animate": [
+          {"anim_1": "q.variant == 0"},
+          {"anim_2": "q.variant == 1"},
+          {"anim_3": "q.variant == 2"},
+          {"anim_4": "q.variant == 3"},
+          {"anim_5": "q.variant == 4"}
+
+        ]
+      },
+      "geometry": {
+        "default": "geometry.new_lootbox_chrismas"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:solar_generator",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/solar_generator"
+			},
+			"animations": {
+				"animation_solar_generator_off": "animation.solar_generator.off",
+				"animation_solar_generator_on": "animation.solar_generator.on"
+			},
+			"scripts": {
+				"animate": [
+					{"animation_solar_generator_off": "q.variant == 0"},
+					{"animation_solar_generator_on": "q.variant == 1"}
+				
+				]
+			},
+			"geometry": {
+				"default": "geometry.solar_generator"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

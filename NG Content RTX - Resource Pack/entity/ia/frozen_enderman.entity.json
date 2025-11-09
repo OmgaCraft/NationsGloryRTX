@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:frozen_enderman",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/frozen_enderman"
+			},
+
+			"animations": {
+				"idle": "animation.frozen_enderman.idle",
+				"walk": "animation.frozen_enderman.walk",
+				"run": "animation.frozen_enderman.run"
+			},
+			"scripts": {
+				"animate": [
+					{"idle": "q.variant == 0"},
+					{"walk": "q.variant == 1"},
+					{"run": "q.variant == 3"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.frozen_enderman"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

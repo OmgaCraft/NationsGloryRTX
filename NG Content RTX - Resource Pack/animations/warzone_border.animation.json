@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.warzone_border.new": {
+			"loop": true,
+			"animation_length": 5,
+			"bones": {
+				"bone": {
+					"scale": {
+						"0.0": {
+							"post": [1, 1, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"2.5": {
+							"post": [1, 0.7, 1],
+							"lerp_mode": "catmullrom"
+						},
+						"5.0": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:refinery",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/refinery"
+			},
+			"geometry": {
+				"default": "geometry.refinery"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:housecosmetic",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/housecosmetic"
+			},
+			"animations": {
+				"new": "animation.model.new"
+			},
+			"scripts": {
+				"animate": [
+					"new"
+				]
+			},
+			"geometry": {
+				"default": "geometry.housecosmetic"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

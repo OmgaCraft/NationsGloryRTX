@@ -1,0 +1,38 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:postbox_simple_iron_red",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/postbox/postbox_iron_red"
+      },
+      "geometry": {
+        "default": "geometry.postbox_simple"
+      },
+      "animations": {
+        "idle": "animation.postbox.idle",
+        "letter": "animation.postbox.letter",
+        "package": "animation.postbox.package"
+      },
+      "animation_controllers": [
+        {
+          "post": "controller.animation.postbox"
+        }
+      ],
+      "particle_effects": {
+        "postbox": "nationsglory:postbox"
+      },
+      "sound_effects": {
+        "cloth": "block.bamboo.step"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "enable_attachables": true
+    }
+  }
+}

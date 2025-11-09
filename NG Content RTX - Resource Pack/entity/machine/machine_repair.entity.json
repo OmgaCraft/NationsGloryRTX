@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_repair",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_repair_off",
+				"on_machine" : "textures/machine/machine_repair_on"
+			},
+			"animations": {
+				"move": "animation.machine_repair.on"
+			},
+			"scripts": {
+				"animate": [
+					{"move": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.machine_repair"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:pumpjack",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/pumpjack"
+			},
+			"animations": {
+				"move": "animation.pumpjack.move"
+			},
+			"scripts": {
+				"animate": [
+					{"move": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.pumpjack"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

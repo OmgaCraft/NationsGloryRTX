@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.soul_lantern_ng.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"base": {
+					"rotation": [161.71273, 12.83245, 32.88299],
+					"position": [0, -17, 0],
+					"scale": 0.75
+				}
+			}
+		},
+		"animation.soul_lantern_ng.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [75, 0, 0],
+					"position": [0, 17.57099, 12.33938],
+					"scale": 0.45
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:hub_statue_warrior_flip",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/hub_statue_warrior"
+			},
+			"geometry": {
+				"default": "geometry.hub_statue_warrior_flip"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#6722b5",
+				"overlay_color": "#7e1c99"
+			}
+		}
+	}
+}

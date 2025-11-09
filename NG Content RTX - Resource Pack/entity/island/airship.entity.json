@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:airship",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/airship"
+			},
+			"geometry": {
+				"default": "geometry.airship"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#6806e1",
+				"overlay_color": "#62783e"
+			},
+			"animations": {
+				"idle": "animation.airship.idle"
+			},
+			"scripts": {
+			    "animate": ["idle"]
+			}
+		}
+	}
+}

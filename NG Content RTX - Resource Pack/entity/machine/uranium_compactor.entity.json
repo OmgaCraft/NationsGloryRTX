@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:uranium_compactor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/uranium_compactor_off",
+				"on_machine" : "textures/machine/uranium_compactor_on_235",
+				"on_machine_second" : "textures/machine/uranium_compactor_on_238"
+			},
+			"animations": {
+				"anim_1": "animation.nuclear.nuclear_on"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 1"},
+					{"anim_1": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.uranium_extractor"
+			},
+			"render_controllers": ["controller.render.default_machine_nuke"]
+		}
+	}
+}

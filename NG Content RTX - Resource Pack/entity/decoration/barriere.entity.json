@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:barriere",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/barriere"
+			},
+			"geometry": {
+				"default": "geometry.barriere"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

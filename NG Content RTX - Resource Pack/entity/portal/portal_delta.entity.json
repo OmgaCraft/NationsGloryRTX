@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:portal_delta",
+			"materials": {
+				"default": "entity_beam_additive"
+			},
+			"textures": {
+				"default": "textures/entity/portal/portal_yellow"
+			},
+			"geometry": {
+				"default": "geometry.portal_server"
+			},
+			"render_controllers": ["controller.render.default"],
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.portal.rotate"
+			},
+			"sound_effects": {
+                "portal": "portal.rotate"
+            },
+            "particle_effects": {
+                "portal": "portal:yellow",
+                "name": "portal:delta"
+            }
+		}
+	}
+}

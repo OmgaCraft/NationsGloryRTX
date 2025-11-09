@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:music_screen",
+			"materials": {
+				"default": "entity_beam_additive"
+			},
+			"textures": {
+				"default": "textures/event/music_screen"
+			},
+			"geometry": {
+				"default": "geometry.music_screen"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#d64646",
+				"overlay_color": "#2c193d"
+			}
+		}
+	}
+}

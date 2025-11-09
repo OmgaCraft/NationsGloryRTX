@@ -1,0 +1,32 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:brazier_flame",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/brazier_flame"
+			},
+			"geometry": {
+				"default": "geometry.brazier_flame"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#6722b5",
+				"overlay_color": "#7e1c99"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.brazier_flame.idle"
+			},
+            "particle_effects": {
+                "brazier": "nationsglory:brazier",
+                "smoke": "nationsglory:smoke_ng"
+            }
+		}
+	}
+}

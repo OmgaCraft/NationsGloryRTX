@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:platform",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/platform"
+			},
+			
+			"animations": {
+				"statut_25": "animation.platform.default",
+				"statut_50": "animation.platform.rocket",
+				"statut_75": "animation.platform.rocket_off"
+			},
+			"scripts": {
+				"animate": [
+					{"statut_25": "q.variant == 0"},
+					{"statut_50": "q.variant == 1"},
+					{"statut_75": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.platform"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:workstation",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/workstation"
+			},
+			"geometry": {
+				"default": "geometry.workstation"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

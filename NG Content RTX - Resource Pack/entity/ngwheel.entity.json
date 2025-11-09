@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:ngwheel",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/ngwheel"
+			},
+			"animations": {
+				"new": "animate.ngwheel.iddle"
+			},
+			"scripts": {
+				"animate": [
+					"new"
+				]
+			},
+			"geometry": {
+				"default": "geometry.ngwheel"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

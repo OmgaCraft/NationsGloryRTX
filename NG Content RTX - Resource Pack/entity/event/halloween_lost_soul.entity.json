@@ -1,0 +1,18 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:halloween_lost_soul",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/halloween_lost_soul"
+			},
+			"geometry": {
+				"default": "geometry.halloween_lost_soul"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

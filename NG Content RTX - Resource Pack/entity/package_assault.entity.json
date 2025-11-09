@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:package_assault",
+      "materials": {
+        "default": "alpha_block_color"
+      },
+      "textures": {
+        "default": "textures/entity/package_assault"
+      },
+      "animations": {
+        "anim_1": "animation.package.sky",
+        "anim_2": "animation.package.start_floor",
+        "anim_3": "animation.package.floor"
+      },
+      "scripts": {
+        "animate": [
+          {"anim_1": "q.variant == 0"},
+          {"anim_2": "q.variant == 1"},
+          {"anim_3": "q.variant == 2"}
+        ]
+      },
+      "geometry": {
+        "default": "geometry.package"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_trader",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_trader_off",
+				"on_machine" : "textures/machine/machine_trader"
+			},
+			"geometry": {
+				"default": "geometry.machine_trader"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

@@ -7,9 +7,87 @@
     "sound": "meuh",
     "textures": "volcanite"
   },
-  "nationsglory:testmilk": {
-    "sound": "meuh",
-    "textures": "testmilk"
+  "food_popcorn": {
+    "sound": "cloth"
+  },
+  "food_soda": {
+    "sound": "cloth"
+  },
+  "food_soda_amm": {
+    "sound": "cloth"
+  },
+  "food_hotdog": {
+    "sound": "cloth"
+  },
+  "food_fries": {
+    "sound": "cloth"
+  },
+  "store_counter_underside": {
+    "sound": "wood"
+  },
+  "store_counter_leg_top": {
+    "sound": "wood"
+  },
+  "store_counter_leg": {
+    "sound": "wood"
+  },
+  "store_counter_wide_corner": {
+    "sound": "wood"
+  },
+  "store_counter_wide": {
+    "sound": "wood"
+  },
+  "store_counter_pedestal": {
+    "sound": "wood"
+  },
+  "store_counter_corner": {
+    "sound": "wood"
+  },
+  "store_counter_center": {
+    "sound": "wood"
+  },
+  "food_burger": {
+    "sound": "wood"
+  },
+  "nationsglory:museum_wall_blue_dark": {
+    "sound": "stone",
+    "textures": "museum_wall_blue_dark"
+  },
+  "nationsglory:museum_stone_wall_dark": {
+    "sound": "stone",
+    "textures": "museum_stone_wall_dark"
+  },
+  "nationsglory:museum_wall_stone_cyan_dark": {
+    "sound": "stone",
+    "textures": "museum_wall_stone_cyan_dark"
+  },
+  "nationsglory:museum_stone_chisel_dark": {
+    "sound": "stone",
+    "textures": "museum_stone_chisel_dark"
+  },
+  "nationsglory:museum_wall_simple_dark": {
+    "sound": "stone",
+    "textures": "museum_wall_simple_dark"
+  },
+  "nationsglory:museum_floor_dark": {
+    "sound": "stone",
+    "textures": "museum_floor_dark"
+  },
+  "nationsglory:museum_wall_laboratory_top": {
+    "sound": "stone",
+    "textures": "museum_wall_laboratory_top"
+  },
+  "nationsglory:museum_wall_laboratory": {
+    "sound": "stone",
+    "textures": "museum_wall_laboratory"
+  },
+  "nationsglory:museum_floor_cyber_corner": {
+    "sound": "stone",
+    "textures": "museum_floor_cyber_corner"
+  },
+  "nationsglory:museum_floor_cyber": {
+    "sound": "stone",
+    "textures": "museum_floor_cyber"
   },
   "nationsglory:stone_granite_brown": {
     "sound": "stone",
@@ -371,7 +449,6 @@
       "up": "frozen_log_top"
     }
   },
-
   "nationsglory:stone_andesite_triangle": {
     "sound": "stone",
     "textures": "stone_andesite_triangle"
@@ -467,10 +544,11 @@
   "nationsglory:brown_concrete_brick": {
     "sound": "stone",
     "textures": "brown_concrete_brick"
-  },"nationsglory:brown_concrete_brick_small": {
-  "sound": "stone",
-  "textures": "brown_concrete_brick_small"
-},
+  },
+  "nationsglory:brown_concrete_brick_small": {
+    "sound": "stone",
+    "textures": "brown_concrete_brick_small"
+  },
   "nationsglory:brown_concrete_brick_square": {
     "sound": "stone",
     "textures": "brown_concrete_brick_square"
@@ -631,7 +709,6 @@
     "sound": "metal",
     "textures": "infocon"
   },
-
   "nationsglory:infocon_left": {
     "sound": "metal",
     "textures": {
@@ -640,7 +717,6 @@
       "up": "infocon"
     }
   },
-
   "nationsglory:infocon_left_simple": {
     "sound": "metal",
     "textures": {
@@ -657,7 +733,6 @@
       "up": "infocon"
     }
   },
-
   "nationsglory:infocon_right_simple": {
     "sound": "metal",
     "textures": {
@@ -666,7 +741,6 @@
       "up": "infocon"
     }
   },
-
   "nationsglory:infocon_texte": {
     "sound": "metal",
     "textures": {
@@ -675,7 +749,6 @@
       "up": "infocon"
     }
   },
-
   "nationsglory:infocon_texte_simple": {
     "sound": "metal",
     "textures": {
@@ -684,7 +757,6 @@
       "up": "infocon"
     }
   },
-
   "nationsglory:steel_scaffolding": {
     "sound": "metal",
     "textures": "steel_scaffolding"
@@ -941,11 +1013,6 @@
     "sound": "stone",
     "textures": "white_concrete_carved_2"
   },
-
-
-
-
-
   "nationsglory:frozen_log_frost": {
     "sound": "stone",
     "textures": {
@@ -2117,6 +2184,84 @@
     "sound": "stone",
     "textures": "plasma_accumulator"
   },
+  "nationsglory:plasma_resonance": {
+    "sound": "stone"
+  },
+  "nationsglory:moon_copper_ore": {
+    "textures": "moon_copper_ore"
+  },
+  "nationsglory:stone_floor_1": {
+    "textures": "stone_floor_1"
+  },
+  "nationsglory:stone_floor_2": {
+    "textures": "stone_floor_2"
+  },
+  "nationsglory:stone_floor_3": {
+    "textures": "stone_floor_3"
+  },
+  "nationsglory:stone_floor_4": {
+    "textures": "stone_floor_4"
+  },
+  "nationsglory:custom_bush": {
+    "textures": "custom_bush"
+  },
+  "nationsglory:salt_ore": {
+    "textures": "salt_ore"
+  },
+  "nationsglory:aluminium_ore": {
+    "textures": "aluminium_ore"
+  },
+  "nationsglory:tin_ore": {
+    "textures": "tin_ore"
+  },
+  "nationsglory:ashstone_ore": {
+    "textures": "ashstone_ore"
+  },
+  "nationsglory:moon_coal_ore": {
+    "textures": "moon_coal_ore"
+  },
+  "nationsglory:moon_diamond_ore": {
+    "textures": "moon_diamond_ore"
+  },
+  "nationsglory:moon_iron_ore": {
+    "textures": "moon_iron_ore"
+  },
+  "nationsglory:moon_redstone_ore": {
+    "textures": "moon_redstone_ore"
+  },
+  "nationsglory:moon_emerald_ore": {
+    "textures": "moon_emerald_ore"
+  },
+  "nationsglory:sulfur_ore": {
+    "textures": "sulfur_ore"
+  },
+  "nationsglory:zirconium_ore": {
+    "textures": "zirconium_ore"
+  },
+  "nationsglory:asteroid_crystal_ore": {
+    "textures": "asteroid_crystal_ore"
+  },
+  "nationsglory:edora_ice_crystal_ore": {
+    "textures": "edora_ice_crystal_ore"
+  },
+  "nationsglory:edora_emerald_ore": {
+    "textures": "edora_emerald_ore"
+  },
+  "nationsglory:edora_tin_ore": {
+    "textures": "edora_tin_ore"
+  },
+  "nationsglory:lead_ore": {
+    "textures": "lead_ore"
+  },
+  "nationsglory:uranium_ore": {
+    "textures": "uranium_ore"
+  },
+  "nationsglory:cryolite_ore": {
+    "textures": "cryolite_ore"
+  },
+  "nationsglory:moon_gold_ore": {
+    "textures": "moon_gold_ore"
+  },
   "nationsglory:dark_oak_bricks": {
     "sound": "stone",
     "textures": "dark_oak_bricks"
@@ -2377,118 +2522,114 @@
     "sound": "stone",
     "textures": "edora_cobble_purple_light"
   },
-
   "nationsglory:museum_mosaic_bottom": {
     "sound": "stone",
     "textures": "museum_mosaic_bottom"
   },
-    "nationsglory:museum_mosaic_bottom_2": {
-        "sound": "stone",
-        "textures": "museum_mosaic_bottom_2"
-    },
-    "nationsglory:museum_mosaic_top": {
-        "sound": "stone",
-        "textures": "museum_mosaic_top"
-    },
-    "nationsglory:museum_mosaic_top_2": {
-        "sound": "stone",
-        "textures": "museum_mosaic_top_2"
-    },
-    "nationsglory:museum_wall_blue": {
-        "sound": "stone",
-        "textures": "museum_wall_blue"
-    },
-    "nationsglory:museum_wall_top": {
-        "sound": "stone",
-        "textures": "museum_wall_top"
-    },
-    "nationsglory:pillar_center": {
-        "sound": "stone",
-        "textures": "pillar_center"
-    },
-    "nationsglory:museum_floor": {
-        "sound": "stone",
-        "textures": "museum_floor"
-    },
-    "nationsglory:museum_floor_carpet": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet"
-    },
-    "nationsglory:museum_floor_carpet_corner": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_corner"
-    },
-    "nationsglory:museum_floor_carpet_corner_2": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_corner_2"
-    },
-    "nationsglory:museum_floor_carpet_corner_3": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_corner_3"
-    },
-    "nationsglory:museum_floor_carpet_corner_4": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_corner_4"
-    },
-    "nationsglory:museum_floor_carpet_side": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_side"
-    },
-    "nationsglory:museum_floor_carpet_side_2": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_side_2"
-    },
-    "nationsglory:museum_floor_carpet_side_3": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_side_3"
-    },
-    "nationsglory:museum_floor_carpet_side_4": {
-        "sound": "stone",
-        "textures": "museum_floor_carpet_side_4"
-    },
-
+  "nationsglory:museum_mosaic_bottom_2": {
+    "sound": "stone",
+    "textures": "museum_mosaic_bottom_2"
+  },
+  "nationsglory:museum_mosaic_top": {
+    "sound": "stone",
+    "textures": "museum_mosaic_top"
+  },
+  "nationsglory:museum_mosaic_top_2": {
+    "sound": "stone",
+    "textures": "museum_mosaic_top_2"
+  },
+  "nationsglory:museum_wall_blue": {
+    "sound": "stone",
+    "textures": "museum_wall_blue"
+  },
+  "nationsglory:museum_wall_top": {
+    "sound": "stone",
+    "textures": "museum_wall_top"
+  },
+  "nationsglory:pillar_center": {
+    "sound": "stone",
+    "textures": "pillar_center"
+  },
+  "nationsglory:museum_floor": {
+    "sound": "stone",
+    "textures": "museum_floor"
+  },
+  "nationsglory:museum_floor_carpet": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet"
+  },
+  "nationsglory:museum_floor_carpet_corner": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_corner"
+  },
+  "nationsglory:museum_floor_carpet_corner_2": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_corner_2"
+  },
+  "nationsglory:museum_floor_carpet_corner_3": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_corner_3"
+  },
+  "nationsglory:museum_floor_carpet_corner_4": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_corner_4"
+  },
+  "nationsglory:museum_floor_carpet_side": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_side"
+  },
+  "nationsglory:museum_floor_carpet_side_2": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_side_2"
+  },
+  "nationsglory:museum_floor_carpet_side_3": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_side_3"
+  },
+  "nationsglory:museum_floor_carpet_side_4": {
+    "sound": "stone",
+    "textures": "museum_floor_carpet_side_4"
+  },
   "nationsglory:keystone_nether_brick": {
     "sound": "stone",
     "textures": "keystone_nether_brick"
   },
-
   "nationsglory:darkoak_pillar_base": {
     "sound": "stone",
     "textures": "darkoak_pillar_base"
   },
-    "nationsglory:museum_glass": {
-        "sound": "stone",
-        "textures": "museum_glass"
-    },
-    "nationsglory:museum_wall_mosaic_top_2": {
-        "sound": "stone",
-        "textures": "museum_wall_mosaic_top_2"
-    },
-    "nationsglory:museum_wall_mosaic_top_1": {
-        "sound": "stone",
-        "textures": "museum_wall_mosaic_top_1"
-    },
-    "nationsglory:museum_wall_mosaic_bottom_2": {
-        "sound": "stone",
-        "textures": "museum_wall_mosaic_bottom_2"
-    },
-    "nationsglory:museum_wall_mosaic_bottom_1": {
-        "sound": "stone",
-        "textures": "museum_wall_mosaic_bottom_1"
-    },
-    "nationsglory:wool_colored_ng": {
-        "sound": "stone",
-        "textures": "wool_colored_ng"
-    },
-    "nationsglory:wool_colored_border": {
-        "sound": "stone",
-        "textures": "wool_colored_border"
-    },
-    "nationsglory:darkoak_pillar": {
-        "sound": "stone",
-        "textures": "darkoak_pillar"
-    },
-
+  "nationsglory:museum_glass": {
+    "sound": "stone",
+    "textures": "museum_glass"
+  },
+  "nationsglory:museum_wall_mosaic_top_2": {
+    "sound": "stone",
+    "textures": "museum_wall_mosaic_top_2"
+  },
+  "nationsglory:museum_wall_mosaic_top_1": {
+    "sound": "stone",
+    "textures": "museum_wall_mosaic_top_1"
+  },
+  "nationsglory:museum_wall_mosaic_bottom_2": {
+    "sound": "stone",
+    "textures": "museum_wall_mosaic_bottom_2"
+  },
+  "nationsglory:museum_wall_mosaic_bottom_1": {
+    "sound": "stone",
+    "textures": "museum_wall_mosaic_bottom_1"
+  },
+  "nationsglory:wool_colored_ng": {
+    "sound": "stone",
+    "textures": "wool_colored_ng"
+  },
+  "nationsglory:wool_colored_border": {
+    "sound": "stone",
+    "textures": "wool_colored_border"
+  },
+  "nationsglory:darkoak_pillar": {
+    "sound": "stone",
+    "textures": "darkoak_pillar"
+  },
   "nationsglory:nuclear_reactor_hull": {
     "sound": "stone",
     "textures": "nuclear_reactor_hull"
@@ -2525,6 +2666,142 @@
     "sound": "stone",
     "textures": "aluminium_block"
   },
+  "price_tag": {
+    "sound": "wood"
+  },
+  "brush_holder_center": {
+    "sound": "wood"
+  },
+  "brush_holder_left": {
+    "sound": "wood"
+  },
+  "door_frame_side": {
+    "sound": "wood"
+  },
+  "market_furniture_paintshelf_left": {
+    "sound": "wood"
+  },
+  "market_furniture_stacked_paint_cans": {
+    "sound": "metal"
+  },
+  "vertical_stacked_planks": {
+    "sound": "wood"
+  },
+  "horizontal_stacked_planks": {
+    "sound": "wood"
+  },
+  "market_furniture_laboratory_blueprint": {
+    "sound": "cloth"
+  },
+  "plant_custom_flower_waterlily": {
+    "sound": "grass"
+  },
+  "custom_flower": {
+    "sound": "grass"
+  },
+  "giant_vine": {
+    "sound": "grass"
+  },
+  "hanging_flower": {
+    "sound": "glass"
+  },
+  "custom_bush": {
+    "sound": "grass"
+  },
+  "sky_wood_2": {
+    "sound": "wood"
+  },
+  "sky_wood": {
+    "sound": "wood"
+  },
+  "small_ground": {
+    "sound": "wood"
+  },
+  "brazier": {
+    "sound": "sand"
+  },
+  "market_furniture_laboratory_box_rocket": {
+    "sound": "metal"
+  },
+  "curtains_green": {
+    "sound": "cloth"
+  },
+  "market_furniture_table_little_side": {
+    "sound": "wood"
+  },
+  "market_furniture_table_little_corner": {
+    "sound": "wood"
+  },
+  "market_furniture_table_little": {
+    "sound": "wood"
+  },
+  "market_furniture_table_side": {
+    "sound": "wood"
+  },
+  "market_furniture_table_corner": {
+    "sound": "wood"
+  },
+  "market_furniture_palette": {
+    "sound": "wood"
+  },
+  "fountain_water_jet": {
+    "sound": "slime"
+  },
+  "market_furniture_fountain_neblion_statue": {
+    "sound": "stone"
+  },
+  "stone_wall_corner": {
+    "sound": "stone"
+  },
+  "stone_wall": {
+    "sound": "stone"
+  },
+  "market_furniture_cloth_green": {
+    "sound": "cloth"
+  },
+  "market_furniture_streetlamp_top_double": {
+    "sound": "metal"
+  },
+  "market_furniture_lamp_post_top_single": {
+    "sound": "metal"
+  },
+  "market_furniture_lamp_post_pillar": {
+    "sound": "metal"
+  },
+  "market_furniture_lamp_post_base": {
+    "sound": "wood"
+  },
+  "market_furniture_flower_pot_corner": {
+    "sound": "stone"
+  },
+  "market_furniture_flower_pot_side": {
+    "sound": "stone"
+  },
+  "market_furniture_greenhouse_capital": {
+    "sound": "metal"
+  },
+  "market_furniture_greenhouse_diamond_glass": {
+    "sound": "metal"
+  },
+  "market_furniture_greenhouse_glass": {
+    "sound": "wood"
+  },
+  "market_furniture_greenhouse_small_pillar": {
+    "sound": "metal"
+  },
+  "dark_grass": {
+    "sound": "stone"
+  },
+  "palette": {
+    "sound": "wood"
+  },
+  "nationsglory:market_furniture_greenhouse_bloc": {
+    "textures": {
+      "up": "market_furniture_greenhouse_bloc",
+      "down": "market_furniture_greenhouse_bloc",
+      "side": "market_furniture_greenhouse_bloc"
+    }
+  },
   "nationsglory:brique_grises": {
     "sound": "stone",
     "textures": "brique_grises"
@@ -2545,6 +2822,39 @@
       "north": "log_cherry",
       "west": "log_cherry",
       "east": "log_cherry"
+    },
+    "sound": "wood"
+  },
+  "nationsglory:white_granite_pillard_corner": {
+    "textures": {
+      "up": "white_granite_gold_top",
+      "down": "white_granite",
+      "south": "white_granite_gold_corner",
+      "north": "white_granite_gold_corner",
+      "west": "white_granite_gold_corner",
+      "east": "white_granite_gold_corner"
+    },
+    "sound": "wood"
+  },
+  "nationsglory:white_granite_pillard_gold_2": {
+    "textures": {
+      "up": "white_granite_gold_top",
+      "down": "white_granite_gold_top",
+      "south": "gold_variant_side",
+      "north": "gold_variant_side",
+      "west": "gold_variant_side",
+      "east": "gold_variant_side"
+    },
+    "sound": "wood"
+  },
+  "nationsglory:white_granite_pillard_gold": {
+    "textures": {
+      "up": "white_granite_gold_top",
+      "down": "white_granite",
+      "south": "white_granite_gold_side",
+      "north": "white_granite_gold_side",
+      "west": "white_granite_gold_side",
+      "east": "white_granite_gold_side"
     },
     "sound": "wood"
   },
@@ -3021,5 +3331,17 @@
   "nationsglory:wire_frame_white": {
     "sound": "stone",
     "textures": "wire_frame_white"
+  },
+  "nationsglory:soulsand_1": {
+    "sound": "soul_sand",
+    "textures": "soulsand_1"
+  },
+  "nationsglory:soulsand_2": {
+    "sound": "soul_sand",
+    "textures": "soulsand_2"
+  },
+  "nationsglory:soulsand_3": {
+    "sound": "soul_sand",
+    "textures": "soulsand_3"
   }
 }

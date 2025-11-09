@@ -1,0 +1,72 @@
+{
+	"format_version": "1.19.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.market_furniture_greenhouse_diamond_glass",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 5, 12],
+							"uv": {
+								"north": {"uv": [48, 33], "uv_size": [16, 5]},
+								"south": {"uv": [48, 33], "uv_size": [16, 5]},
+								"up": {"uv": [48, 52], "uv_size": [16, 12]},
+								"down": {"uv": [48, 51], "uv_size": [16, -12]}
+							}
+						},
+						{
+							"origin": [-8, 25, -8],
+							"size": [16, 5, 12],
+							"uv": {
+								"north": {"uv": [48, 33], "uv_size": [16, 5]},
+								"south": {"uv": [48, 33], "uv_size": [16, 5]},
+								"up": {"uv": [48, 52], "uv_size": [16, 12]},
+								"down": {"uv": [48, 51], "uv_size": [16, -12]}
+							}
+						},
+						{
+							"origin": [-2, -1, -6.85],
+							"size": [3, 31, 3],
+							"pivot": [-0.5, 15, 0.625],
+							"rotation": [0, 0, -45],
+							"uv": {
+								"north": {"uv": [36, 33], "uv_size": [3, 31]},
+								"east": {"uv": [40, 33], "uv_size": [3, 31]},
+								"south": {"uv": [44, 33], "uv_size": [3, 31]},
+								"west": {"uv": [40, 33], "uv_size": [3, 31]},
+								"up": {"uv": [28, 44], "uv_size": [3, 3]},
+								"down": {"uv": [28, 47], "uv_size": [3, -3]}
+							}
+						},
+						{
+							"origin": [-1, -1, -6.85],
+							"size": [3, 31, 3],
+							"inflate": 0.1,
+							"pivot": [0.5, 15, 0.5],
+							"rotation": [0, 0, 45],
+							"uv": {
+								"north": {"uv": [32, 33], "uv_size": [3, 31]},
+								"east": {"uv": [44, 33], "uv_size": [3, 31]},
+								"south": {"uv": [40, 33], "uv_size": [3, 31]},
+								"west": {"uv": [44, 33], "uv_size": [3, 31]},
+								"up": {"uv": [61, 29], "uv_size": [3, 3]},
+								"down": {"uv": [61, 32], "uv_size": [3, -3]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

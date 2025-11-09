@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:wikichariot",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/wikichariot"
+			},
+			"animations": {
+			  "wave": "animation.chariot.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.wikichariot"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

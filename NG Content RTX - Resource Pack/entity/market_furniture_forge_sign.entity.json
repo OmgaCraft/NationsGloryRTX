@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:market_furniture_forge_sign",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/market_furniture_forge_sign"
+			},
+			"geometry": {
+				"default": "geometry.market_furniture_forge_sign"
+			},
+			"scripts": {
+				"scale": "2.5"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#a6b37d",
+				"overlay_color": "#e122e8"
+			}
+		}
+	}
+}

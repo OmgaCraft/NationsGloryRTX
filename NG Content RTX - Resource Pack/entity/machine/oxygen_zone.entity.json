@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:oxygen_zone",
+			"materials": {
+				"default": "entity_alphablend"
+			},
+			"textures": {
+				"default": "textures/machine/oxygen_zone"
+			},
+			"geometry": {
+				"default": "geometry.oxygen_zone"
+			},
+			"animations": {
+				"idle": "animation.oxygen_zone.idle"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

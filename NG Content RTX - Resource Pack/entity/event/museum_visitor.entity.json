@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:museum_visitor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/museum_visitor"
+			},
+			"geometry": {
+				"default": "geometry.museum_visitor"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#75fdea",
+				"overlay_color": "#1ce7d8"
+			},
+			"animations": {
+				"idle": "animation.museum_visitor.look"
+			},
+			"scripts": {
+			    "animate": ["idle"]
+			}
+		}
+	}
+}

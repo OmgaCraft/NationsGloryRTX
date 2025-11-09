@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_potions",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_potions_off",
+				"on_machine" : "textures/machine/machine_potions"
+			},
+			"geometry": {
+				"default": "geometry.machine_potions"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

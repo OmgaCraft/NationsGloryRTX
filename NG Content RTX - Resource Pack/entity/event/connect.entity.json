@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:connect",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/connect"
+			},
+			"geometry": {
+				"default": "geometry.connect"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:hologram_calendar",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/hologram"
+			},
+			"animations": {
+			  "wave": "animation.hologram_calendar.on"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.hologram_calendar"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

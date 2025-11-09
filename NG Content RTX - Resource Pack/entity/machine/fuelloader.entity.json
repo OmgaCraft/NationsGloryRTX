@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:fuelloader",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/fuelloader_empty",
+				"on_machine" : "textures/machine/fuelloader"
+			},
+			"animations": {
+				"move": "animation.fuelloader.on"
+			},
+			"scripts": {
+				"animate": [
+					{"move": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.fuelloader"
+			},
+			"render_controllers": ["controller.render.fuelloader"]
+		}
+	}
+}

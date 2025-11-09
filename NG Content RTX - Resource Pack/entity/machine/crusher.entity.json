@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:crusher",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/crusher_off",
+				"on_machine" : "textures/machine/crusher_on"
+			},
+			"geometry": {
+				"default": "geometry.tritium_synthesizer"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

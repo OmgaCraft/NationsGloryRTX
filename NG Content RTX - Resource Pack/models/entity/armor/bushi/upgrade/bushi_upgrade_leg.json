@@ -1,0 +1,54 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.armor.bushi_upgrade_leg",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "waist",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "body",
+					"parent": "waist",
+					"pivot": [0, 12, 0]
+				},
+				{
+					"name": "RightLeg",
+					"parent": "body",
+					"pivot": [-1.9, 12, 0],
+					"cubes": [
+						{"origin": [-3.9, 0, -2], "size": [4, 12, 4], "inflate": 0.25, "uv": [112, 0]},
+						{"origin": [-3.9, 5, 0], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [22.5, 0, 0], "uv": [62, 17], "mirror": true},
+						{"origin": [-9.5, 4, -2], "size": [1, 6, 4], "pivot": [0, 0, -0.25], "rotation": [0, 0, 27.5], "uv": [38, 59], "mirror": true},
+						{"origin": [-8.5, 2, -2], "size": [1, 5, 4], "pivot": [0, 0, -0.25], "rotation": [0, 0, 27.5], "uv": [24, 38], "mirror": true},
+						{"origin": [-3.9, 5, -1], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [-22.5, 0, 0], "uv": [62, 17], "mirror": true},
+						{"origin": [-3.9, 8, -2], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [-22.5, 0, 0], "uv": [62, 12], "mirror": true},
+						{"origin": [-3.9, 8, 1], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [22.5, 0, 0], "uv": [62, 12], "mirror": true}
+					]
+				},
+				{
+					"name": "LeftLeg",
+					"parent": "body",
+					"pivot": [1.9, 12, 0],
+					"cubes": [
+						{"origin": [-0.1, 0, -2], "size": [4, 12, 4], "inflate": 0.25, "uv": [112, 0], "mirror": true},
+						{"origin": [-0.1, 5, 0], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [22.5, 0, 0], "uv": [62, 17]},
+						{"origin": [8.5, 4, -2], "size": [1, 6, 4], "pivot": [0, 0, -0.25], "rotation": [0, 0, -27.5], "uv": [38, 59]},
+						{"origin": [7.5, 2, -2], "size": [1, 5, 4], "pivot": [0, 0, -0.25], "rotation": [0, 0, -27.5], "uv": [24, 38]},
+						{"origin": [-0.1, 5, -1], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [-22.5, 0, 0], "uv": [62, 17]},
+						{"origin": [-0.1, 8, -2], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [-22.5, 0, 0], "uv": [62, 12]},
+						{"origin": [-0.1, 8, 1], "size": [4, 4, 1], "pivot": [0, 13, 0], "rotation": [22.5, 0, 0], "uv": [62, 12]}
+					]
+				}
+			]
+		}
+	]
+}

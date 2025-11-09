@@ -1,0 +1,48 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.night_sky",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 39,
+				"visible_bounds_height": 34,
+				"visible_bounds_offset": [0, 14, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-296, 0, 152],
+							"size": [304, 480, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [64, 64]}
+							}
+						},
+						{
+							"origin": [8, 0, -8],
+							"size": [0, 480, 160],
+							"uv": {
+								"east": {"uv": [0, 0], "uv_size": [64, 64]}
+							}
+						},
+						{
+							"origin": [-296, 0, -8],
+							"size": [0, 480, 160],
+							"uv": {
+								"west": {"uv": [0, 0], "uv_size": [64, 64]}
+							}
+						}
+					]
+				},
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				}
+			]
+		}
+	]
+}

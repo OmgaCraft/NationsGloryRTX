@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:gas_tank",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/gas_tank"
+			},
+			"geometry": {
+				"default": "geometry.gas_tank"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.helicoparrot.default": {
+			"loop": true,
+			"animation_length": 17.04167,
+			"bones": {
+				"bone2": {
+					"scale": 1
+				},
+				"bone12": {
+					"scale": 1.2
+				},
+				"elicearriere": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"17.0417": {
+							"pre": ["360*15", 0, 0],
+							"post": ["360*15", 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"eliceprincipale": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"17.0": {
+							"pre": [0, "360*15 ", 0],
+							"post": [0, "360*15 ", 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"bone6": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"4.0": [5, 0, 0],
+						"8.0417": [0, 0, 0],
+						"12.0417": [5, 0, 0],
+						"16.9167": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 37, 0],
+						"4.0": [0, 27, 0],
+						"8.0417": [0, 37, 0],
+						"12.0417": [0, 27, 0],
+						"16.9583": [0, 37, 0]
+					}
+				}
+			}
+		}
+	}
+}

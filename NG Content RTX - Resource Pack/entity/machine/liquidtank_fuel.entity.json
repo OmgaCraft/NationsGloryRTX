@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:liquidtank_fuel",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/tank/liquidtank",
+				"tank_1": "textures/machine/tank/liquidtank_oil_1",
+				"tank_2": "textures/machine/tank/liquidtank_oil_2",
+				"tank_3": "textures/machine/tank/liquidtank_oil_3",
+				"tank_4": "textures/machine/tank/liquidtank_oil_4"
+			},
+			"geometry": {
+				"default": "geometry.liquidtank_fuel"
+			},
+			"render_controllers": ["controller.render.tank"]
+		}
+	}
+}

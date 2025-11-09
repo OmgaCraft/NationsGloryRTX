@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:helicotaxi",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/helicotaxi"
+			},
+			"animations": {
+			  "wave": "animation.helicotaxi.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.helicotaxi"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

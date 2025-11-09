@@ -1,0 +1,136 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.storage_module": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.storage_1",
+            "Texture.storage_2",
+            "Texture.storage_3",
+            "Texture.storage_4"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.calendar_stand": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.calendar_stand_1",
+            "Texture.calendar_stand_2",
+            "Texture.calendar_stand_3",
+            "Texture.calendar_stand_4"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.tank": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.tank_1",
+            "Texture.tank_2",
+            "Texture.tank_3",
+            "Texture.tank_4"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.storage_module_advanced": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.storage_1",
+            "Texture.storage_2",
+            "Texture.storage_3",
+            "Texture.storage_4",
+            "Texture.storage_5",
+            "Texture.storage_6",
+            "Texture.storage_7",
+            "Texture.storage_8"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.machine_base": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.on_machine"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    },
+    "controller.render.fuelloader": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.on_machine",
+            "Texture.on_machine"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Array.skins[query.variant]"
+      ]
+    }
+  }
+}

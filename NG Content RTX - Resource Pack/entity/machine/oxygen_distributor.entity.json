@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:oxygen_distributor",
+			"materials": {
+				"default": "entity_alphablend"
+			},
+			"textures": {
+				"default": "textures/machine/oxygen_distributor"
+			},
+			"geometry": {
+				"default": "geometry.oxygen_distributor"
+			},
+			"render_controllers": ["controller.render.default"],
+			"animations": {
+				"new": "animation.oxygen_distributor.on"
+			},
+			"scripts": {
+				"animate": [
+					{"new": "q.variant == 1"}
+				]
+			}
+		}
+	}
+}

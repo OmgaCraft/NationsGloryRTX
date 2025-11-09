@@ -1,0 +1,33 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:frozen_ghost",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/frozen_ghost"
+			},
+			"animations": {
+				"anim_1": "animation.frozen_ghost.idle",
+				"anim_2": "animation.frozen_ghost.walk",
+				"anim_3": "animation.frozen_ghost.attack_1",
+				"anim_4": "animation.frozen_ghost.attack_2"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 0"},
+					{"anim_2": "q.variant == 1"},
+					{"anim_3": "q.variant == 2"},
+					{"anim_4": "q.variant == 3"}
+
+				]
+			},
+			"geometry": {
+				"default": "geometry.frozen_ghost"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

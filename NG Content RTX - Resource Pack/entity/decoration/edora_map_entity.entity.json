@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:edora_map_entity",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/edora_map_entity"
+			},
+			"geometry": {
+				"default": "geometry.edora_map_entity"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#8a4ae1",
+				"overlay_color": "#21c418"
+			}
+		}
+	}
+}

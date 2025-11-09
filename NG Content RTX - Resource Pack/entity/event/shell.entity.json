@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:shell",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/event/shell"
+      },
+      "animations": {
+        "anim_1": "animation.shell.idle"
+      },
+      "scripts": {
+        "animate": [
+          {"anim_1": "q.variant == 0"}
+        ]
+      },
+      "geometry": {
+        "default": "geometry.shell"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

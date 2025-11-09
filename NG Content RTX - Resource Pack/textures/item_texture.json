@@ -17,8 +17,149 @@
     "builder_armor_helmet": {
       "textures": "textures/items/builder_armor_helmet"
     },
+    "rp_item_capsule_blue": {
+      "textures": "textures/items/rp_item_capsule_blue.png"
+    },
+    "rp_item_capsule_red": {
+      "textures": "textures/items/rp_item_capsule_red.png"
+    },
+    "rp_item_plant": {
+      "textures": "textures/items/rp_item_plant.png"
+    },
+    "rp_item_potion_blue": {
+      "textures": "textures/items/rp_item_potion_blue.png"
+    },
+    "rp_item_potion_bottle_blue": {
+      "textures": "textures/items/rp_item_potion_bottle_blue.png"
+    },
+    "rp_item_potion_bottle_green": {
+      "textures": "textures/items/rp_item_potion_bottle_green.png"
+    },
+    "rp_item_potion_bottle_orange": {
+      "textures": "textures/items/rp_item_potion_bottle_orange.png"
+    },
+    "rp_item_potion_bottle_red": {
+      "textures": "textures/items/rp_item_potion_bottle_red.png"
+    },
+    "rp_item_potion_bottle_yellow": {
+      "textures": "textures/items/rp_item_potion_bottle_yellow.png"
+    },
+    "rp_item_potion_disposable_black": {
+      "textures": "textures/items/rp_item_potion_disposable_black.png"
+    },
+    "rp_item_potion_disposable_brown": {
+      "textures": "textures/items/rp_item_potion_disposable_brown.png"
+    },
+    "rp_item_potion_disposable_gray": {
+      "textures": "textures/items/rp_item_potion_disposable_gray.png"
+    },
+    "rp_item_potion_disposable_purple": {
+      "textures": "textures/items/rp_item_potion_disposable_purple.png"
+    },
+    "rp_item_potion_disposable_red": {
+      "textures": "textures/items/rp_item_potion_disposable_red.png"
+    },
+    "rp_item_potion_green": {
+      "textures": "textures/items/rp_item_potion_green.png"
+    },
+    "rp_item_potion_orange": {
+      "textures": "textures/items/rp_item_potion_orange.png"
+    },
+    "rp_item_potion_red": {
+      "textures": "textures/items/rp_item_potion_red.png"
+    },
+    "rp_item_potion_yellow": {
+      "textures": "textures/items/rp_item_potion_yellow.png"
+    },
+    "rp_item_rune_black": {
+      "textures": "textures/items/rp_item_rune_black.png"
+    },
+    "rp_item_rune_blue": {
+      "textures": "textures/items/rp_item_rune_blue.png"
+    },
+    "rp_item_rune_brown": {
+      "textures": "textures/items/rp_item_rune_brown.png"
+    },
+    "rp_item_rune_dark_red": {
+      "textures": "textures/items/rp_item_rune_dark_red.png"
+    },
+    "rp_item_rune_green": {
+      "textures": "textures/items/rp_item_rune_green.png"
+    },
+    "rp_item_rune_orange": {
+      "textures": "textures/items/rp_item_rune_orange.png"
+    },
+    "rp_item_rune_purple": {
+      "textures": "textures/items/rp_item_rune_purple.png"
+    },
+    "rp_item_rune_red": {
+      "textures": "textures/items/rp_item_rune_red.png"
+    },
+    "rp_item_rune_white": {
+      "textures": "textures/items/rp_item_rune_white.png"
+    },
+    "rp_item_rune_yellow": {
+      "textures": "textures/items/rp_item_rune_yellow.png"
+    },
+    "rp_item_syringe_green": {
+      "textures": "textures/items/rp_item_syringe_green.png"
+    },
+    "rp_item_syringe_yellow": {
+      "textures": "textures/items/rp_item_syringe_yellow.png"
+    },
     "builder_armor_chestplate": {
       "textures": "textures/items/builder_armor_chestplate"
+    },
+    "bike_pegasus": {
+      "textures": ["textures/items/bike_pegasus"]
+    },
+    "bike_chicken": {
+      "textures": ["textures/items/bike_chicken"]
+    },
+    "bike_camel": {
+      "textures": ["textures/items/bike_camel"]
+    },
+    "bike_cat": {
+      "textures": ["textures/items/bike_cat"]
+    },
+    "bike_frog": {
+      "textures": ["textures/items/bike_frog"]
+    },
+    "bike_llama": {
+      "textures": ["textures/items/bike_llama"]
+    },
+    "bike_goat": {
+      "textures": ["textures/items/bike_goat"]
+    },
+    "bike_phantom_fly": {
+      "textures": ["textures/items/bike_phantom_fly"]
+    },
+    "bike_cow": {
+      "textures": ["textures/items/bike_cow"]
+    },
+    "bike_happy_ghast": {
+      "textures": ["textures/items/bike_ghast"]
+    },
+    "bike_pig": {
+      "textures": ["textures/items/bike_pig"]
+    },
+    "bike_neblion": {
+      "textures": ["textures/items/bike_neblion"]
+    },
+    "bike_ender_dragon": {
+      "textures": ["textures/items/bike_ender_dragon"]
+    },
+    "bike_korvhar": {
+      "textures": ["textures/items/bike_korvhar"]
+    },
+    "bike_ignavor": {
+      "textures": ["textures/items/bike_ignavor"]
+    },
+    "soul_lantern_ng": {
+      "textures": ["textures/items/soul_lantern_ng"]
+    },
+    "soul_candle": {
+      "textures": ["textures/items/soul_candle"]
     },
     "chestplate_yellow_gilet": {
       "textures": "textures/items/chestplate_yellow_gilet"
@@ -115,6 +256,30 @@
     },
     "postbox_simple_spruce_yellow": {
       "textures": "textures/items/postbox_simple_spruce_yellow"
+    },
+    "balise_small_blue" : {
+      "textures": "textures/items/balise_small_blue"
+    },
+    "balise_small_red" : {
+      "textures": "textures/items/balise_small_red"
+    },
+    "balise_small_green" : {
+      "textures": "textures/items/balise_small_green"
+    },
+    "balise_small_purple" : {
+      "textures": "textures/items/balise_small_purple"
+    },
+    "balise_flag_blue" : {
+      "textures": "textures/items/balise_flag_blue"
+    },
+    "balise_flag_red" : {
+      "textures": "textures/items/balise_flag_red"
+    },
+    "balise_flag_green" : {
+      "textures": "textures/items/balise_flag_green"
+    },
+    "balise_flag_purple" : {
+      "textures": "textures/items/balise_flag_purple"
     },
     "avoine_arctique_glace": {
       "textures": "textures/items/avoine_arctique_glace"
@@ -406,6 +571,12 @@
     "white_spartan_sword": {
       "textures": "textures/items/white_spartan_sword"
     },
+    "bushi_sword": {
+      "textures": "textures/items/bushi_sword"
+    },
+    "lootbox_demonic": {
+      "textures": "textures/items/lootbox_demonic"
+    },
     "meteoric_iron_raw": {
       "textures": "textures/items/meteoric_iron_raw"
     },
@@ -429,6 +600,30 @@
     },
     "white_spartan_gun": {
       "textures": "textures/items/white_spartan_gun"
+    },
+    "bushi_helmet": {
+      "textures": "textures/items/bushi_helmet"
+    },
+    "bushi_chestplate": {
+      "textures": "textures/items/bushi_chestplate"
+    },
+    "bushi_leggings": {
+      "textures": "textures/items/bushi_leggings"
+    },
+    "bushi_boots": {
+      "textures": "textures/items/bushi_boots"
+    },
+    "bushi_upgrade_leggings": {
+      "textures": "textures/items/bushi_upgrade_leggings"
+    },
+    "bushi_upgrade_chestplate": {
+      "textures": "textures/items/bushi_upgrade_chestplate"
+    },
+    "bushi_upgrade_helmet": {
+      "textures": "textures/items/bushi_upgrade_helmet"
+    },
+    "bushi_upgrade_boots": {
+      "textures": "textures/items/bushi_upgrade_boots"
     },
     "white_spartan_helmet": {
       "textures": "textures/items/white_spartan_helmet"
@@ -789,6 +984,19 @@
     },
     "solar_panel_advanced": {
       "textures": "textures/items/solar_panel_advanced"
+    },
+
+    "kit_hero": {
+      "textures": "textures/items/kit_hero"
+    },
+    "kit_legend": {
+      "textures": "textures/items/kit_legend"
+    },
+    "kit_premium": {
+      "textures": "textures/items/kit_premium"
+    },
+    "kit_premium_plus": {
+      "textures": "textures/items/kit_premium_plus"
     },
     "solar_panel": {
       "textures": "textures/items/solar_panel"
@@ -1683,6 +1891,9 @@
     },
     "adamentium_leggings": {
       "textures": "textures/items/adamentium_leggings"
+    },
+    "spartan_sword": {
+      "textures": "textures/items/spartan_sword"
     },
     "demonic_sword": {
       "textures": "textures/items/demonic_sword"

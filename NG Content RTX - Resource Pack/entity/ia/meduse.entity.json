@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:meduse",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/meduse"
+			},
+			"animations": {
+				"anim1": "animation.meduse.fly"
+			},
+			"scripts": {
+				"animate": [
+					{"anim1": "q.variant == 0"},
+					{"anim1": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.meduse"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

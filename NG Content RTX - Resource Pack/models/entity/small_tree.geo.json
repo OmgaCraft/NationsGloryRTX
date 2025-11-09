@@ -1,0 +1,45 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.small_tree",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "tree",
+					"pivot": [8, 5, -8],
+					"cubes": [
+						{"origin": [-5, 0, -5], "size": [10, 8, 10], "uv": [0, 38]},
+						{"origin": [-6, 8, -6], "size": [12, 2, 12], "uv": [0, 23]}
+					]
+				},
+				{
+					"name": "group",
+					"parent": "tree",
+					"pivot": [0, 35, -6],
+					"cubes": [
+						{"origin": [-6, 25, -6], "size": [12, 10, 12], "uv": [0, 0]},
+						{"origin": [-10, 21, 0], "size": [20, 16, 0], "pivot": [0, 29, 0], "rotation": [0, 45, 0], "uv": [75, 73]},
+						{"origin": [-10, 21, 0], "size": [20, 16, 0], "pivot": [0, 29, 0], "rotation": [0, -45, 0], "uv": [74, 0]},
+						{"origin": [-1, 10, -1], "size": [2, 12, 2], "uv": [0, 57]},
+						{"origin": [-6, 10, -6], "size": [12, 0, 12], "uv": [37, 11]},
+						{"origin": [-5, 19, -7], "size": [0, 9, 16], "pivot": [-6, 29, 0], "rotation": [0, 0, 22.5], "uv": [59, 47]},
+						{"origin": [-6, 26, -8], "size": [0, 9, 16], "pivot": [-6, 35, 0], "rotation": [0, 0, 22.5], "uv": [42, 57]},
+						{"origin": [-8, 20, 5], "size": [16, 9, 0], "pivot": [0, 31, 6], "rotation": [22.5, 0, 0], "uv": [76, 47]},
+						{"origin": [-8, 26, 6], "size": [16, 9, 0], "pivot": [0, 35, 6], "rotation": [22.5, 0, 0], "uv": [70, 24]},
+						{"origin": [5, 19, -9], "size": [0, 9, 16], "pivot": [7, 31, 0], "rotation": [0, 0, -22.5], "uv": [0, 57]},
+						{"origin": [6, 26, -8], "size": [0, 9, 16], "pivot": [6, 35, 0], "rotation": [0, 0, -22.5], "uv": [25, 47]},
+						{"origin": [-8, 19, -5], "size": [16, 9, 0], "pivot": [0, 28, -6], "rotation": [-22.5, 0, 0], "uv": [42, 47]},
+						{"origin": [-8, 26, -6], "size": [16, 9, 0], "pivot": [0, 35, -6], "rotation": [-22.5, 0, 0], "uv": [37, 0]}
+					]
+				}
+			]
+		}
+	]
+}

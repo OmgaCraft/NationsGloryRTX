@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:harpagon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/harpagon"
+			},
+			"animations": {
+			  "wave": "animation.harpagon.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.harpagon"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

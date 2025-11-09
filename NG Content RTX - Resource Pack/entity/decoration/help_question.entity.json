@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:help_question",
+			"materials": {
+				"default": "entity_alphablend"
+			},
+			"textures": {
+				"default": "textures/entity/help_question"
+			},
+			"geometry": {
+				"default": "geometry.help_question"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#902d2f",
+				"overlay_color": "#af627b"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.help_question.idle"
+			}
+		}
+	}
+}

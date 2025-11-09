@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:voriack",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/voriack"
+			},
+			"animations": {
+				"anim_1": "animation.voriack.idle",
+				"anim_2": "animation.voriack.walk",
+				"anim_3": "animation.voriack.death",
+				"anim_4": "animation.voriack.attack",
+				"anim_5": "animation.voriack.thrown_poison",
+				"anim_6": "animation.voriack.beamattack",
+				"anim_7": "animation.voriack.beamattack2"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 0"},
+					{"anim_2": "q.variant == 1"},
+					{"anim_3": "q.variant == 2"},
+					{"anim_4": "q.variant == 3"},
+					{"anim_5": "q.variant == 4"},
+					{"anim_6": "q.variant == 5"},
+					{"anim_7": "q.variant == 6"}
+
+				]
+			},
+			"geometry": {
+				"default": "geometry.voriack"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

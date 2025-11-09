@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:storage_module_advanced",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/storage/storage_module_advanced_0",
+				"storage_1": "textures/machine/storage/storage_module_advanced_1",
+				"storage_2": "textures/machine/storage/storage_module_advanced_2",
+				"storage_3": "textures/machine/storage/storage_module_advanced_3",
+				"storage_4": "textures/machine/storage/storage_module_advanced_4",
+				"storage_5": "textures/machine/storage/storage_module_advanced_5",
+				"storage_6": "textures/machine/storage/storage_module_advanced_6",
+				"storage_7": "textures/machine/storage/storage_module_advanced_7",
+				"storage_8": "textures/machine/storage/storage_module_advanced_8"
+			},
+			"geometry": {
+				"default": "geometry.storage_module"
+			},
+			"render_controllers": ["controller.render.storage_module_advanced"]
+		}
+	}
+}

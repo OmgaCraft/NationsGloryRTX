@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:ice_spider",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/ice_spider"
+			},
+			"animations": {
+				"anim1": "animation.ice_spider.idle",
+				"anim2": "animation.ice_spider.walk",
+				"anim3": "animation.ice_spider.death"
+			},
+			"scripts": {
+				"animate": [
+					{"anim1": "q.variant == 0"},
+					{"anim2": "q.variant == 1"},
+					{"anim3": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.ice_spider"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

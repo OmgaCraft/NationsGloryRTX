@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:ngphonetablette",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/ngphonetablette"
+			},
+			"geometry": {
+				"default": "geometry.ngphonetablette"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

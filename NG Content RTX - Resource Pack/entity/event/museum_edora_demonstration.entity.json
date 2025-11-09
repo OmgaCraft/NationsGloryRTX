@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:museum_edora_demonstration",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/museum_edora_demonstration"
+			},
+			"geometry": {
+				"default": "geometry.museum_edora_demonstration"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#bc75fd",
+				"overlay_color": "#1ce7d8"
+			},
+			"particle_effects": {
+                "museum_snowflake": "nationsglory:museum_snowflake"
+            },
+            "animations": {
+				"idle": "animation.museum_edora_demonstration.idle"
+			},
+			"scripts": {
+			    "animate": ["idle"]
+			}
+		}
+	}
+}

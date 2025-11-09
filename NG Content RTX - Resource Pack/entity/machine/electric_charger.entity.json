@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:electric_charger",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/electric_charger_off",
+				"on_machine" : "textures/machine/electric_charger_on"
+			},
+			"geometry": {
+				"default": "geometry.electric_charger"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

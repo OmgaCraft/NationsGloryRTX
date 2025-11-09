@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:saxo",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/npcguitare"
+			},
+			"animations": {
+			  "play": "animation.saxo.play"
+			},
+			"scripts": {
+				"animate": [
+				  "play"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.saxo"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

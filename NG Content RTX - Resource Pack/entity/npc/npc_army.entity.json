@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:npc_army",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/npc_army"
+			},
+			"animations": {
+			  "new": "animation.npc_scientist.new"
+			},
+			"scripts": {
+				"animate": [
+				  "new"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.npc_army"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:oxygen_compressor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/oxygen_compressor",
+				"on_machine" : "textures/machine/oxygen_compressor_on"
+			},
+			"geometry": {
+				"default": "geometry.oxygen_compressor"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

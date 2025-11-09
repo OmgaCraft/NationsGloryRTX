@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.music_screen",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 34,
+				"visible_bounds_height": 12.5,
+				"visible_bounds_offset": [0, 5.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-264, 0, -1],
+							"size": [272, 176, 0],
+							"uv": {
+								"north": {"uv": [0, 2], "uv_size": [272, 176]},
+								"east": {"uv": [-268, 2], "uv_size": [0, 176]},
+								"south": {"uv": [4, 2], "uv_size": [272, 176]},
+								"west": {"uv": [4, 2], "uv_size": [0, 176]},
+								"up": {"uv": [-268, 2], "uv_size": [272, 0]},
+								"down": {"uv": [4, 2], "uv_size": [272, 0]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

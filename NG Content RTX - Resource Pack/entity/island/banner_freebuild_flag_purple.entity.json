@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:balise_flag_purple",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/island/banner_freebuild_purple"
+      },
+      "animations": {
+        "play": "animation.banner_freebuild.idle"
+      },
+      "scripts": {
+        "animate": [
+          "play"
+        ]
+      },
+      "geometry": {
+        "default": "geometry.banner_freebuild_flag"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

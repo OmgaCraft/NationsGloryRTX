@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_reparator",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_reparator",
+				"on_machine" : "textures/machine/machine_reparator_on"
+			},
+			"geometry": {
+				"default": "geometry.machine_reparator"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

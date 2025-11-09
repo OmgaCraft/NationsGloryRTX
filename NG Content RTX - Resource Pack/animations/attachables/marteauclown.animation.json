@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.marteauclown.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"hallohammer": {
+					"rotation": [-61.84972, 12.9029, -5.39676],
+					"position": [0, -14, 3]
+				},
+				"root_item": {
+					"rotation": [66, 60, -60],
+					"position": [3, 23, 4]
+				}
+			}
+		},
+		"animation.marteauclown.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"hallohammer": {
+					"rotation": [-75, 0, 0],
+					"position": [6, -11, 12]
+				},
+				"root_item": {
+					"rotation": [90, 0, 0],
+					"position": [0.5, 22.5, -0.5]
+				}
+			}
+		}
+	}
+}

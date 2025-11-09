@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:nuclear_forge",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/nuclear_forge_off",
+				"on_machine" : "textures/machine/nuclear_forge_on"
+			},
+			"geometry": {
+				"default": "geometry.nuclear_forge"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

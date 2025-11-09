@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:frozen_ghost_fly",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/frozen_ghost_fly"
+			},
+			"animations": {
+				"anim1": "animation.frozen_ghost_fly.fly",
+				"anim2": "animation.frozen_ghost_fly.attack"
+			},
+			"scripts": {
+				"animate": [
+					{"anim1": "q.variant == 0"},
+					{"anim1": "q.variant == 1"},
+					{"anim2": "q.variant == 4"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.frozen_ghost_fly"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

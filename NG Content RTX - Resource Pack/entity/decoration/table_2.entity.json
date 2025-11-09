@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:table_2",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/table_2"
+			},
+			"geometry": {
+				"default": "geometry.table_2"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

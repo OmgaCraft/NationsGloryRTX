@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:earth_statue",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/earth_statue"
+			},
+			"geometry": {
+				"default": "geometry.earth_statue"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#c8bab6",
+				"overlay_color": "#d75827"
+			}
+		}
+	}
+}

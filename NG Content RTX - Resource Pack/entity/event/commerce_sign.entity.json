@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:commerce_sign",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/commerce_sign"
+			},
+			"geometry": {
+				"default": "geometry.commerce_sign"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#6d30a9",
+				"overlay_color": "#383589"
+			}
+		}
+	}
+}

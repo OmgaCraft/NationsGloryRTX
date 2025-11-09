@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:market_furniture_laboratory_sign",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/market_furniture_laboratory_sign"
+			},
+			"geometry": {
+				"default": "geometry.market_furniture_laboratory_sign"
+			},
+			"scripts": {
+				"animate": ["idle"],
+				"scale": "2.5"
+			},
+			"animations": {
+				"idle": "animation.market_furniture_laboratory_sign.idle"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:marketstand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/marketstand"
+			},
+			"geometry": {
+				"default": "geometry.marketstand"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

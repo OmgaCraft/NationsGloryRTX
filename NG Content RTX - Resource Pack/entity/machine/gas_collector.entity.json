@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:gas_collector",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/gas_collector_off",
+				"on_machine" : "textures/machine/gas_collector_on"
+			},
+			"geometry": {
+				"default": "geometry.oxygen_collector"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

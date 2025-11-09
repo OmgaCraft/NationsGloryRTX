@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:ng",
+			"materials": {
+				"default": "alpha_block_color"
+			},
+			"textures": {
+				"default": "textures/entity/ng"
+			},
+			"geometry": {
+				"default": "geometry.ng"
+			},
+			"animations": {
+				"idle": "animation.ng.idle"
+			},
+			"scripts": {
+				"scale":"2",
+			    "animate": ["idle"]
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

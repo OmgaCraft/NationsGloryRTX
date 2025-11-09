@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:autel_creeper",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/autel_creeper"
+			},
+			"animations": {
+				"idle": "animation.autel_creeper.idle",
+				"walk": "animation.autel_creeper.walk",
+				"fart": "animation.autel_creeper.fart"
+			},
+			"scripts": {
+				"animate": [
+					{"idle": "q.variant == 0"},
+					{"walk": "q.variant == 1"},
+					{"fart": "q.variant == 3"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.autel_creeper"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_casino",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_casino"
+			},
+			"animations": {
+				"anim_1": "animation.machine_casino.casino_idle",
+				"anim_2": "animation.machine_casino.casino_run_win",
+				"anim_3": "animation.machine_casino.casino_run_loose"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 0"},
+					{"anim_2": "q.variant == 1"},
+					{"anim_3": "q.variant == 2"}
+
+				]
+			},
+			"geometry": {
+				"default": "geometry.machine_casino"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

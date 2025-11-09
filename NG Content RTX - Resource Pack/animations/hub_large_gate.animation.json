@@ -1,0 +1,75 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.hub_large_gate.close": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"right": {
+					"rotation": [0, 0, 0]
+				},
+				"left": {
+					"rotation": [0, 0, 0]
+				},
+				"right_guard": {
+					"rotation": [0, 0, 0]
+				},
+				"leftArm": {
+					"rotation": [0, 0, "-(math.cos(query.life_time * 103.2) * -1 )"]
+				},
+				"rightArm": {
+					"rotation": [0, 0, "-(math.cos(query.life_time * 103.2) * 2) + 1"]
+				}
+			}
+		},
+		"animation.hub_large_gate.open": {
+			"loop": true,
+			"animation_length": 2.25,
+			"bones": {
+				"right": {
+					"rotation": [0, 62.5, 0]
+				},
+				"left": {
+					"rotation": [0, -62.5, 0]
+				},
+				"right_guard": {
+					"rotation": [0, 40, 0],
+					"position": [4, 0, 0]
+				},
+				"head": {
+					"rotation": [0, 25, 0]
+				},
+				"body": {
+					"rotation": [0, 27.5, 0]
+				},
+				"leftArm": {
+					"rotation": [42.5, 0, 67.5]
+				},
+				"rightLeg": {
+					"rotation": [14.78217, 2.57594, -9.6658]
+				},
+				"left_guard": {
+					"rotation": [0, -40, 0],
+					"position": [-4, 0, 0]
+				},
+				"body2": {
+					"rotation": [0, -27.5, 0]
+				},
+				"head2": {
+					"rotation": [0, -25, 0]
+				},
+				"leftArm2": {
+					"rotation": [42.5, 0, -67.5]
+				},
+				"rightLeg2": {
+					"rotation": [14.78217, -2.57594, 9.6658]
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "massive_door_open"
+				}
+			}
+		}
+	}
+}

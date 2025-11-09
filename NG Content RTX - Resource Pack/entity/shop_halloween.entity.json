@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:shop_halloween",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/shop_halloween"
+			},
+			"animations": {
+				"new": "animation.shop_halloween.new"
+			},
+			"scripts": {
+				"animate": [
+					"new"
+				]
+			},
+			"geometry": {
+				"default": "geometry.stand_shop"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_electric_meter",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_electric_meter_off",
+				"on_machine": "textures/machine/machine_electric_meter_on"
+			},
+			"animations": {
+				"on": "animation.machine_electric_meter.on",
+				"off": "animation.machine_electric_meter.off"
+
+			},
+			"scripts": {
+				"animate": [
+					{"on": "q.variant == 1"},
+					{"off": "q.variant == 0"}
+				
+				]
+			},
+			"geometry": {
+				"default": "geometry.machine_electric_meter"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

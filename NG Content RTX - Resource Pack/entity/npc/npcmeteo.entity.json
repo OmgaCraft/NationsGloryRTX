@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:npcmeteo",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/npcstella",
+        "on_machine": "textures/entity/npcluna"
+      },
+      "animations": {
+        "wave": "animation.npcstella.new"
+      },
+      "scripts": {
+        "animate": [
+          "wave"
+        ]
+      },
+      "geometry": {
+        "default": "geometry.npcstella"
+      },
+      "render_controllers": [
+        "controller.render.machine_base"
+      ]
+    }
+  }
+}

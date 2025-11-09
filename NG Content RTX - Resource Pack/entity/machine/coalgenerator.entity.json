@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:coalgenerator",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/coalgenerator",
+				"on_machine" : "textures/machine/coalgenerator_on"
+			},
+			"geometry": {
+				"default": "geometry.coalgenerator"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

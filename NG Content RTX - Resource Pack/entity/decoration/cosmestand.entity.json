@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:cosmestand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/cosmestand"
+			},
+			"geometry": {
+				"default": "geometry.cosmestand"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

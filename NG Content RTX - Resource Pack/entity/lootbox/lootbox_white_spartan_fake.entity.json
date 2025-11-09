@@ -1,0 +1,46 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:lootbox_white_spartan_fake",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/lootbox/lootbox_white_spartan"
+      },
+      "animations": {
+        "anim_1": "animation.lootbox_white_spartan.idle",
+        "anim_2": "animation.lootbox_white_spartan.open1",
+        "anim_3": "animation.lootbox_white_spartan.open2",
+        "anim_4": "animation.lootbox_white_spartan.open3",
+        "anim_5": "animation.lootbox_white_spartan.open4"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "anim_1": "q.variant == 0"
+          },
+          {
+            "anim_2": "q.variant == 1"
+          },
+          {
+            "anim_3": "q.variant == 2"
+          },
+          {
+            "anim_4": "q.variant == 3"
+          },
+          {
+            "anim_5": "q.variant == 4"
+          }
+        ]
+      },
+      "geometry": {
+        "default": "geometry.lootbox_white_spartan"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:lootbox_ultimate_stand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/lootbox_ultimate_stand"
+			},
+			"animations": {
+			  "wave": "animation.lootbox_ultimate_stand"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.lootbox_ultimate_stand"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

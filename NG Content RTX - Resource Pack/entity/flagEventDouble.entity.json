@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:flagEventDouble",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/flagEvent"
+			},
+			"geometry": {
+				"default": "geometry.flagEventDouble"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

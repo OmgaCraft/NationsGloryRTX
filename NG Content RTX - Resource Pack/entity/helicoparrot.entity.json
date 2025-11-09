@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:helicoparrot",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/helicoparrot"
+			},
+			"animations": {
+			  "wave": "animation.helicoparrot.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.helicoparrot"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

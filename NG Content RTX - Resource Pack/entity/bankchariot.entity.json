@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:bankchariot",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/bankchariot"
+			},
+			"animations": {
+			  "wave": "animation.chariot.default"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.bankchariot"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:museum_voriack",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/museum_voriack"
+			},
+			"geometry": {
+				"default": "geometry.museum_voriack"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

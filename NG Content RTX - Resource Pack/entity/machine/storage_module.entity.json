@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:storage_module",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/storage/storage_module_0",
+				"storage_1": "textures/machine/storage/storage_module_1",
+				"storage_2": "textures/machine/storage/storage_module_2",
+				"storage_3": "textures/machine/storage/storage_module_3",
+				"storage_4": "textures/machine/storage/storage_module_4"
+			},
+			"geometry": {
+				"default": "geometry.storage_module"
+			},
+			"render_controllers": ["controller.render.storage_module"]
+		}
+	}
+}

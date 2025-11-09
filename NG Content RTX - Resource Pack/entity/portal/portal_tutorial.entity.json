@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:portal_tutorial",
+			"materials": {
+				"default": "entity_beam_additive"
+			},
+			"textures": {
+				"default": "textures/entity/portal/portal_blue"
+			},
+			"geometry": {
+				"default": "geometry.portal_server"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#c1031a",
+				"overlay_color": "#282f6c"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.portal.rotate"
+			},
+			"sound_effects": {
+                "portal": "portal.rotate"
+            },
+            "particle_effects": {
+                "portal": "portal:blue",
+                "name": "portal:title_tutorial"
+            }
+		}
+	}
+}

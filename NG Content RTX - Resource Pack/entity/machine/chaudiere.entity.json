@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:chaudiere",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/chaudiere_off",
+				"on" : "textures/machine/chaudiere_on"
+			},
+			"animations": {
+				"move": "animation.chaudiere.on"
+			},
+			"scripts": {
+				"animate": [
+					{"move": "q.variant == 1"}
+//					{"rotate": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.chaudiere"
+			},
+			"render_controllers": ["controller.render.default_machine"]
+		}
+	}
+}

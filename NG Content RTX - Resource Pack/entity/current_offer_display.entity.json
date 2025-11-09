@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:current_offer_display",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/offer/current_offer_display"
+			},
+			"geometry": {
+				"default": "geometry.current_offer_display"
+			},
+			"particle_effects": {
+                "npc_name": "nationsglory:current_offer_display"
+            },
+			"render_controllers": ["controller.render.default"],
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.current_offer_display.idle"
+			}
+		}
+	}
+}

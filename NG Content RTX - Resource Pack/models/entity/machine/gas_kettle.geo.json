@@ -1,0 +1,65 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.gas_kettle",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [-9, 2, -10]
+				},
+				{
+					"name": "cuve",
+					"parent": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-14, 0, 11], "size": [28, 9, 3], "uv": [94, 12]},
+						{"origin": [12, 9, -24], "size": [3, 16, 46], "uv": [98, 122]},
+						{"origin": [-12, 5, -24], "size": [24, 24, 46], "uv": [0, 0]},
+						{"origin": [8, 24, -24], "size": [6, 7, 46], "uv": [0, 186], "mirror": true},
+						{"origin": [-8, 29, -24], "size": [16, 3, 46], "uv": [0, 70]},
+						{"origin": [-14, 24, -24], "size": [6, 7, 46], "uv": [0, 186]},
+						{"origin": [-11, 10, 22], "size": [11, 16, 2], "uv": [0, 70]},
+						{"origin": [-15, 9, -24], "size": [3, 16, 46], "uv": [0, 119]},
+						{"origin": [-8, 2, -24], "size": [16, 3, 46], "uv": [78, 73]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "bone",
+					"pivot": [0, 0, 12],
+					"cubes": [
+						{"origin": [-14, 0, -15], "size": [28, 9, 3], "uv": [94, 0]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "bone2",
+					"pivot": [5, 0, 27],
+					"cubes": [
+						{"origin": [-11, 0, 22], "size": [12, 9, 11], "uv": [0, 0]},
+						{"origin": [6, 15, 24], "size": [2, 6, 2], "uv": [0, 20]},
+						{"origin": [6, 19, 22], "size": [2, 2, 2], "uv": [24, 24]},
+						{"origin": [2, 15, 24], "size": [2, 6, 2], "uv": [0, 0]},
+						{"origin": [2, 19, 22], "size": [2, 2, 2], "uv": [24, 20]}
+					]
+				},
+				{
+					"name": "elec",
+					"parent": "bone3",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [1, 0, 23], "size": [8, 15, 8], "uv": [0, 20]}
+					]
+				}
+			]
+		}
+	]
+}

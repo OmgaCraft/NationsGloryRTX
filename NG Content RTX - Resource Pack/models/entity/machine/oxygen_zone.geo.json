@@ -1,0 +1,74 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.oxygen_zone",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 23,
+				"visible_bounds_height": 13,
+				"visible_bounds_offset": [0, 5.5, 0]
+			},
+			"bones": [
+				{
+					"name": "outdoor",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "outdoor1",
+					"parent": "outdoor",
+					"pivot": [1, 0, 0],
+					"cubes": [
+						{
+							"origin": [-79, 0, -80],
+							"size": [160, 80, 160],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 16]},
+								"east": {"uv": [16, 0], "uv_size": [16, 16]},
+								"south": {"uv": [16, 0], "uv_size": [16, 16]},
+								"west": {"uv": [16, 0], "uv_size": [16, 16]},
+								"up": {"uv": [32, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "outdoor2",
+					"parent": "outdoor",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-85, 0, -85],
+							"size": [170, 90, 170],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 16]},
+								"east": {"uv": [16, 0], "uv_size": [16, 16]},
+								"south": {"uv": [16, 0], "uv_size": [16, 16]},
+								"west": {"uv": [16, 0], "uv_size": [16, 16]},
+								"up": {"uv": [32, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "indoor",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [75, 80, 75],
+							"size": [-150, -80, -150],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 16]},
+								"east": {"uv": [16, 0], "uv_size": [16, 16]},
+								"south": {"uv": [16, 0], "uv_size": [16, 16]},
+								"west": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [0, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

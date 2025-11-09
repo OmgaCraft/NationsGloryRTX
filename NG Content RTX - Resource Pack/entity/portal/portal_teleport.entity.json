@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:portal_teleport",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/portal/portal_teleport"
+			},
+			"animations": {
+			  "wave": "animation.portal_teleport.idle"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.portal_teleport"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

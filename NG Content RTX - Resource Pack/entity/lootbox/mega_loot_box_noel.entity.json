@@ -1,0 +1,62 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:mega_loot_box_noel",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/lootbox/mega_loot_box_noel"
+      },
+      "animations": {
+        "anim_1": "animation.mega_loot_box_noel.idle",
+        "anim_2": "animation.mega_loot_box_noel.open1",
+        "anim_3": "animation.mega_loot_box_noel.open2",
+        "anim_4": "animation.mega_loot_box_noel.open_key",
+        "anim_5": "animation.mega_loot_box_noel.idle_key",
+        "anim_6": "animation.mega_loot_box_noel.open"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "anim_1": "q.variant == 0"
+          },
+          {
+            "anim_2": "q.variant == 1"
+          },
+          {
+            "anim_3": "q.variant == 2"
+          },
+          {
+            "anim_4": "q.variant == 3"
+          },
+          {
+            "anim_5": "q.variant == 4"
+          },
+          {
+            "anim_6": "q.variant == 5"
+          }
+        ]
+      },
+      "sound_effects": {
+        "giant_gift_loot_unique": "giant_gift_loot_unique",
+        "giant_gift_loot_epic": "giant_gift_loot_epic",
+        "giant_gift_idle": "giant_gift_idle",
+        "giant_gift_idle_key": "giant_gift_idle_key",
+        "giant_gift_open_key": "giant_gift_open_key",
+        "giant_gift_open": "giant_gift_open"
+      },
+
+      "particle_effects": {
+        "snowflake_xmas": "nationsglory:snowflake_xmas"
+      },
+      "geometry": {
+        "default": "geometry.mega_loot_box_noel"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    }
+  }
+}

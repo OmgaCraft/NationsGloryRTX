@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:mushroom_creeper_blue",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/mushroom_creeper_blue"
+			},
+			"animations": {
+				"idle": "animation.mushroom_creeper_blue.idle",
+				"walk": "animation.mushroom_creeper_blue.walk",
+				"fart": "animation.mushroom_creeper_blue.fart"
+			},
+			"scripts": {
+				"animate": [
+					{"idle": "q.variant == 0"},
+					{"walk": "q.variant == 1"},
+					{"fart": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.mushroom_creeper_blue"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

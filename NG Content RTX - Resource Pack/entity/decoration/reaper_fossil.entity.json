@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:reaper_fossil",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/reaper_fossil"
+			},
+			"geometry": {
+				"default": "geometry.reaper_fossil"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#53d7d4",
+				"overlay_color": "#aa7e1b"
+			}
+		}
+	}
+}

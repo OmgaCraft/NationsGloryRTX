@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:solar_panel",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/solar_panel"
+			},
+			"animations": {
+				"new": "animation.solar_panel_advanced.on"
+			},
+			"scripts": {
+				"animate": [
+					"new"
+				]
+			},
+			"geometry": {
+				"default": "geometry.solar_panel"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

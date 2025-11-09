@@ -1,0 +1,199 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.accumulateur_plasmique.work1": {
+			"loop": true,
+			"animation_length": 1.33333,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [360, 0, 0]
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [360, 360, 360]
+					}
+				},
+				"bone": {
+					"scale": 1
+				},
+				"bone8": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [360, -360, 0]
+					}
+				},
+				"bone9": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 360, 0]
+					}
+				},
+				"bone10": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 0, 360]
+					},
+					"scale": 1.5
+				},
+				"bone12": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 360, 0]
+					},
+					"scale": 1.5
+				},
+				"bone11": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 360, 0]
+					},
+					"scale": 1.5
+				},
+				"bleu": {
+					"scale": 2
+				},
+				"orange": {
+					"scale": 0
+				},
+				"violet": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.accumulateur_plasmique.work2": {
+			"loop": true,
+			"animation_length": 1.33333,
+			"bones": {
+				"bleu": {
+					"scale": 0
+				},
+				"orange": {
+					"scale": 2
+				},
+				"bone15": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 720, 0]
+					},
+					"scale": 1.5
+				},
+				"bone16": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 720, 0]
+					},
+					"scale": 1.5
+				},
+				"bone17": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 0, 720]
+					},
+					"scale": 1.5
+				},
+				"bone18": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [720, -720, 0]
+					}
+				},
+				"bone21": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [720, 0, 0]
+					}
+				},
+				"bone26": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.3333": [0, 720, 0]
+					}
+				},
+				"violet": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.accumulateur_plasmique.work3": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"bleu": {
+					"scale": 0
+				},
+				"orange": {
+					"scale": 0
+				},
+				"violet": {
+					"scale": 2
+				},
+				"bone13": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 720, 0]
+					},
+					"scale": 1.5
+				},
+				"bone14": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 720, 0]
+					},
+					"scale": 1.5
+				},
+				"bone27": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 0, 720]
+					},
+					"scale": 1.5
+				},
+				"bone28": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [720, -720, 0]
+					}
+				},
+				"bone31": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [720, 0, 0]
+					}
+				},
+				"bone36": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 720, 0]
+					}
+				}
+			}
+		},
+		"animation.accumulateur_plasmique.off": {
+			"loop": true,
+			"bones": {
+				"bone11": {
+					"scale": 0
+				},
+				"bone8": {
+					"position": [0, -7, 0]
+				},
+				"bone2": {
+					"scale": 0
+				},
+				"bone9": {
+					"scale": 0
+				},
+				"orange": {
+					"scale": 0
+				},
+				"violet": {
+					"scale": 0
+				}
+			}
+		}
+	}
+}

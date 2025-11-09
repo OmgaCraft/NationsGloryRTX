@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:terminal",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/terminal"
+			},
+			"geometry": {
+				"default": "geometry.terminal"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

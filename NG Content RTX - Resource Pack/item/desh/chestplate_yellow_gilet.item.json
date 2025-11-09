@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:chestplate_yellow_gilet",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "desh_chestplate",
+            "minecraft:render_offsets": "chestplate"
+        }
+    }
+}

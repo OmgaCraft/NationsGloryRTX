@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:stand_halloween",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/stand_halloween"
+			},
+			"animations": {
+			  "wave": "animation.standhalloween.new"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.stand_halloween"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

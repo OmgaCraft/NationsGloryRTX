@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:lyre_projector_ceiling",
+			"materials": {
+				"default": "entity_alphablend"
+			},
+			"textures": {
+				"default": "textures/event/lyre_projector_floor"
+			},
+			"geometry": {
+				"default": "geometry.lyre_projector_ceiling"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#000000",
+				"overlay_color": "#2c193d"
+			},
+			"animations": {
+				"idle": "animation.lyre_projector_floor.new"
+			},
+			"scripts": {
+			    "animate": ["idle"]
+			}
+		}
+	}
+}

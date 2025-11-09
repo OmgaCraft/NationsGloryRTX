@@ -1,0 +1,35 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:lootbox_birthday_10",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/lootbox/lootbox_birthday_10"
+      },
+      "animations": {
+        "anim_1": "animation.lootbox_birthday.idle",
+        "anim_2": "animation.lootbox_birthday.opena",
+        "anim_3": "animation.lootbox_birthday.openb",
+        "anim_4": "animation.lootbox_birthday.openc",
+        "anim_5": "animation.lootbox_birthday.opend"
+      },
+      "scripts": {
+        "animate": [
+          {"anim_1": "q.variant == 0"},
+          {"anim_2": "q.variant == 1"},
+          {"anim_3": "q.variant == 2"},
+          {"anim_4": "q.variant == 3"},
+          {"anim_5": "q.variant == 4"}
+
+        ]
+      },
+      "geometry": {
+        "default": "geometry.lootbox_birthday_10"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:banner_onu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/banner_onu"
+			},
+			"animations": {
+			  "stand": "animation.banner_onu.new"
+			},
+			"scripts": {
+				"animate": [
+				  "stand"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.banner_onu"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

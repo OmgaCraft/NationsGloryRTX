@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:freebuild_island_flag",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/freebuild_island_panel"
+			},
+			"geometry": {
+				"default": "geometry.freebuild_island_flag"
+			},
+			"render_controllers": ["controller.render.default"],
+			"animations": {
+				"idle": "animation.banner_freebuild.idle"
+			},
+			"scripts": {
+			    "animate": ["idle"]
+			}
+		}
+	}
+}

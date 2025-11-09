@@ -1,0 +1,44 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:npc_furniture",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/npc/npc_furniture"
+			},
+			"geometry": {
+				"default": "geometry.npc_furniture"
+			},
+			"scripts": {
+			"scale":"1.05",
+				"pre_animation": [
+				  "v.rotation_to_camera_0 = -Math.atan2(-q.distance_from_camera * Math.sin(q.rotation_to_camera(0)) - 1, q.distance_from_camera * Math.cos(q.rotation_to_camera(0)));",
+				  "v.look_at_entity = Math.abs(Math.abs(q.rotation_to_camera(1) - q.camera_rotation(1)) - 180) < (60 / q.distance_from_camera) && Math.abs(v.rotation_to_camera_0 + q.camera_rotation(0)) < (120 / q.distance_from_camera);"
+				]
+			},
+			"animations": {
+				"look": "animation.npc.look",
+				"idle": "animation.npc.look",
+				"talk": "animation.npc.talk"
+			},
+			"animation_controllers": [
+				{
+					"npc_guideon": "controller.animation.npc_guideon"  // Ajout du contrôleur d'animation
+				}
+			],
+			"particle_effects": {
+                "npc_name": "nationsglory:npc_furniture",
+                "npc_talk": "nationsglory:npc_talk"
+            },
+            "sound_effects": {
+                "talk": "talk_high"
+            },
+			"render_controllers": ["controller.render.default"],
+			"enable_attachables": true
+		}
+	}
+}

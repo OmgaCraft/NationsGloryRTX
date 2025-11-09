@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:antiaircraftturret",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/antiaircraftturret"
+			},
+			"animations": {
+				"anim_1": "animation.antiaircraftturret.new"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 1"}
+
+				]
+			},
+			"geometry": {
+				"default": "geometry.antiaircraftturret"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:electric_repeater",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/electric_repeater"
+			},
+			"geometry": {
+				"default": "geometry.electric_repeater"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

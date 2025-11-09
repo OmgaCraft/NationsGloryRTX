@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.hologram_calendar.on": {
+			"loop": true,
+			"animation_length": 9.95833,
+			"bones": {
+				"bone74": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"9.9583": [0, 359, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"5.0": [0, 3, 0],
+						"9.9583": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

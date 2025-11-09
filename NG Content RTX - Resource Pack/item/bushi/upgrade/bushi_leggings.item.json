@@ -1,0 +1,13 @@
+{
+    "format_version": "1.18",
+    "minecraft:item": {
+        "description": {
+            "identifier": "nationsglory:bushi_upgrade_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "bushi_upgrade_leggings",
+            "minecraft:render_offsets": "leggings"
+        }
+    }
+}

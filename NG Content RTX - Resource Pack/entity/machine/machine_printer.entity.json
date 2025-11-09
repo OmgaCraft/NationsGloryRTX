@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:machine_printer",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/machine_printer"
+			},
+			"animations": {
+				"anim_1": "animation.machine_printer.machine_printer_on"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 1"},
+					{"anim_2": "q.variant == 0"}
+				
+				]
+			},
+			"geometry": {
+				"default": "geometry.machine_printer"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

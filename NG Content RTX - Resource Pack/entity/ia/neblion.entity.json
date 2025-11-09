@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:neblion",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/neblion"
+			},
+			"animations": {
+				"anim1": "animation.neblion.idle",
+				"anim2": "animation.neblion.walk",
+				"anim3": "animation.neblion.pet"
+			},
+			"scripts": {
+				"animate": [
+					{"anim1": "q.variant == 0"},
+					{"anim2": "q.variant == 1"},
+					{"anim3": "q.variant == 2"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.neblion"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

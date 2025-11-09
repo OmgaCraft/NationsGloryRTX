@@ -1,0 +1,60 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.solar_generator.off": {
+			"loop": true,
+			"bones": {
+				"bone10": {
+					"scale": 0
+				},
+				"bone11": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.solar_generator.on": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"bone10": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"2.0": [0, 360, 360]
+					}
+				},
+				"bone11": {
+					"rotation": [0, 0, 0],
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, -2, 0],
+						"2.0": [0, 0, 0]
+					}
+				},
+				"bone12": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.2917": [0, 25, 0]
+					}
+				},
+				"bone13": {
+					"position": {
+						"0.5": [0, 0, 0],
+						"0.7917": [0, 25, 0]
+					}
+				},
+				"bone14": {
+					"position": {
+						"1.25": [0, 0, 0],
+						"1.5417": [0, 25, 0]
+					}
+				},
+				"bone15": {
+					"position": {
+						"0.7083": [0, 0, 0],
+						"1.0": [0, 25, 0]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nationsglory:warzone_border",
+      "materials": {
+        "default": "entity_beam_additive"
+      },
+      "textures": {
+        "default": "textures/entity/warzone_border"
+      },
+      "animations": {
+        "anim_1": "animation.warzone_border.new"
+      },
+      "scripts": {
+        "animate": [
+          {"anim_1": "q.variant == 0"}
+        ]
+      },
+      "geometry": {
+        "default": "geometry.warzone_border"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

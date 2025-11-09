@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:phantom_fossil",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/phantom_fossil"
+			},
+			"geometry": {
+				"default": "geometry.phantom_fossil"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#8a4ae1",
+				"overlay_color": "#21c418"
+			}
+		}
+	}
+}

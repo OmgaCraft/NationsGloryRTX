@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:icewarriorarmor",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/icewarriorarmor"
+			},
+			"animations": {
+			  "new": "animation.icewarriorarmor.new"
+			},
+			"scripts": {
+				"animate": [
+				  "new"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.icewarriorarmor"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

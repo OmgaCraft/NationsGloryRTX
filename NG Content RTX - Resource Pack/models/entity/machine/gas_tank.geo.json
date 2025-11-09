@@ -1,0 +1,37 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.gas_tank",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 7,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [-8, 0, 0],
+					"cubes": [
+						{"origin": [-13, 3, -22], "size": [26, 26, 60], "uv": [0, 0]},
+						{"origin": [-5, 29, -17], "size": [11, 3, 12], "uv": [119, 0]},
+						{"origin": [-8, 29, 28], "size": [16, 1, 9], "uv": [193, 111]},
+						{"origin": [-7, 32, -19], "size": [15, 3, 16], "uv": [160, 32]},
+						{"origin": [-14, 3, -7.5], "size": [28, 27, 30], "uv": [0, 150]},
+						{"origin": [-8, 8, -25], "size": [16, 16, 3], "uv": [0, 0]},
+						{"origin": [-24, 8, -41], "size": [16, 16, 3], "pivot": [-8, 0, 0], "rotation": [0, 180, 0], "uv": [0, 0]},
+						{"origin": [12, 0, -13], "size": [6, 14, 9], "uv": [0, 19]},
+						{"origin": [12, 0, 19], "size": [6, 14, 9], "uv": [0, 19]},
+						{"origin": [-18, 0, -13], "size": [6, 14, 9], "uv": [0, 19], "mirror": true},
+						{"origin": [-18, 0, 19], "size": [6, 14, 9], "uv": [0, 19], "mirror": true},
+						{"origin": [13, 7, -22], "size": [3, 18, 60], "uv": [96, 89]},
+						{"origin": [-16, 7, -22], "size": [3, 18, 60], "uv": [96, 89], "mirror": true},
+						{"origin": [-9, 0, -22], "size": [18, 3, 60], "uv": [0, 86]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+  "format_version" : "1.10.0",
+  "animation_controllers" : {
+    "controller.animation.player.fusee": {
+      "initial_state": "draw",
+      "states" : {
+        "draw": {
+          "animations": [
+            {
+              "akm.first_person.draw": "v.akm && v.is_first_person"
+            }
+          ],
+          "transitions": [
+            {
+              "first_person": "q.all_animations_finished && v.akm && v.is_first_person"
+            },
+            {
+              "draw": "!v.akm"
+            }
+          ]
+        },
+        "first_person" : {
+          "animations" : [
+            {
+              "akm.first_person.holding": "v.is_first_person && v.akm"
+            }
+          ],
+          "transitions" : [
+            {
+              "aim": "v.is_first_person && v.akm && v.s"
+            },
+            {
+              "sprinting": "v.is_first_person && v.akm && v.m && !v.r"
+            },
+            {
+              "reloading": "v.is_first_person && v.is_holding_akmempty && v.r"
+            },
+            {
+              "draw": "!v.akm || v.is_third_person"
+            }
+          ],
+          "blend_transition": 0.1,
+          "blend_via_shortest_path": true
+        },
+        "reloading": {
+          "animations": [
+            {
+              "akm.first_person.reload": "v.is_first_person && v.akm"
+            }
+          ],
+          "transitions": [
+            {
+              "draw": "!v.akm || v.is_third_person"
+            },
+            {
+              "first_person": "q.all_animations_finished && !v.r && v.akm"
+            }
+          ],
+          "blend_transition": 0.1,
+          "blend_via_shortest_path": true
+        },
+        "sprinting": {
+          "animations": [
+            {
+              "akm.first_person.sprinting": "v.is_first_person && v.akm"
+            }
+          ],
+          "transitions": [
+            {
+              "draw": "!v.akm || v.is_third_person"
+            },
+            {
+              "aim": "v.is_first_person && v.akm && v.s"
+            },
+            {
+              "first_person": "v.is_first_person && v.akm && !v.m"
+            },
+            {
+              "reloading": "v.is_first_person && v.is_holding_akmempty && v.r"
+            }
+          ],
+          "blend_transition": 0.1,
+          "blend_via_shortest_path": true
+        },
+        "aim": {
+          "animations": [
+            {
+              "akm.first_person.aim": "v.is_first_person && v.akm"
+            }
+          ],
+          "transitions": [
+            {
+              "first_person": "v.is_first_person && v.akm && !v.s"
+            },
+            {
+              "draw": "!v.akm || v.is_third_person"
+            },
+            {
+              "reloading": "v.is_first_person && v.is_holding_akmempty && v.r"
+            }
+          ],
+          "blend_transition": 0.1,
+          "blend_via_shortest_path": true
+        }
+      }
+    }
+  }
+}

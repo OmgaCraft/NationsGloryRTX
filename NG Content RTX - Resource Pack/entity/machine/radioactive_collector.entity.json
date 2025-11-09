@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:radioactive_collector",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/radioactive_collector"
+			},
+			"geometry": {
+				"default": "geometry.radioactive_collector"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

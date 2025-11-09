@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:key_mob",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/ia/key_mob"
+			},
+			"animations": {
+				"anim1": "animation.key_mob.idle",
+				"anim2": "animation.key_mob.run",
+				"anim3": "animation.key_mob.death"
+			},
+			"scripts": {
+				"animate": [
+					{"anim1": "q.variant == 0"},
+					{"anim2": "q.variant == 1"},
+					{"anim3": "q.variant == 2"}
+				]
+			},
+			"sound_effects": {
+				"key_mob_death": "key_mob_death",
+				"key_mob_step": "key_mob_step",
+				"key_mob_idle": "key_mob_idle"
+			},
+			"geometry": {
+				"default": "geometry.key_mob"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

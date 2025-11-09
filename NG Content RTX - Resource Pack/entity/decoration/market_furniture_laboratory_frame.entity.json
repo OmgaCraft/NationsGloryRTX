@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:market_furniture_laboratory_frame",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/market_furniture_laboratory_frame"
+			},
+			"geometry": {
+				"default": "geometry.hdv_frame"
+			},
+			"scripts": {
+				"animate": ["idle"]
+			},
+			"animations": {
+				"idle": "animation.hdv_sales.idle"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#540fe4",
+				"overlay_color": "#00c0d2"
+			}
+		}
+	}
+}

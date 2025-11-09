@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.fuelloader.on": {
+			"loop": true,
+			"animation_length": 2.20833,
+			"bones": {
+				"pompeR": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.1667": {
+							"pre": [0, -13, 0],
+							"post": [0, -13, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.2083": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"pompeL": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.1667": {
+							"pre": [0, 13, 0],
+							"post": [0, 13, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.2083": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:light_beam_5",
+			"materials": {
+				"default": "entity_beam_additive"
+			},
+			"textures": {
+				"default": "textures/event/light_beam_5"
+			},
+			"geometry": {
+				"default": "geometry.light_beam_5"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#f1d404",
+				"overlay_color": "#ffd600"
+			}
+		}
+	}
+}

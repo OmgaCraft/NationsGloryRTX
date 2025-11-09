@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:balloon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/balloon"
+			},
+			"animations": {
+			  "wave": "animation.balloon.wave"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.balloon"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -17,12 +17,38 @@ item.nationsglory:christmas_santaclaus_chestplate.name=Veste du Père Noel   #
 item.nationsglory:christmas_santaclaus_helmet.name=Bonnet du Père Noel  #
 item.nationsglory:christmas_santaclaus_leggings.name=Pantalon du Père Noel  #
 item.nationsglory:christmas_snowflake.name=Flocon de Neige  #
-item.nationsglory:christmas_snowglobe.name=Boule à Neige    #
+item.nationsglory:christmas_snowglobe.name=Boule à Neige    #d
 item.nationsglory:christmas_star.name=Etoile de Noel    #
+item.nationsglory:chestplate_yellow_gilet.name=
+tile.nationsglory:store_counter_pedestal.name=Comptoir piédestal (Haute Adminisatration Only)
+
+item.nationsglory:meduse_residue_1.name=Résidu de méduse	#
+
+
+tile.nationsglory:food_burger.name=Burger
+tile.nationsglory:food_fries.name=Frites
+tile.nationsglory:food_hotdog.name=Hot-dog
+tile.nationsglory:food_soda.name=Soda
+tile.nationsglory:food_popcorn.name=Popcorn
+
+tile.nationsglory:market_furniture_forge_anvil.name= Enclume
+tile.nationsglory:market_furniture_forge_grindstone.name= Meule
+tile.nationsglory:market_furniture_forge_furnace_1.name= Four §7§o(Bas avant)
+tile.nationsglory:market_furniture_forge_furnace_back.name= Four §7§o(Bas arrière)
+tile.nationsglory:market_furniture_forge_furnace_back_2.name= Four §7§o(Milieu arrière)
+tile.nationsglory:market_furniture_forge_furnace_back_3.name= Four §7§o(Haut arrière)
+tile.nationsglory:market_furniture_forge_weapon_rack.name= Râtelier d’armes vide
+tile.nationsglory:market_furniture_forge_weapon_rack_sword.name= Râtelier d’armes
+tile.nationsglory:market_furniture_table_wood_corner.name= Table Meuble Coin
+tile.nationsglory:market_furniture_table_wood_side.name= Table Coté
+tile.nationsglory:market_furniture_table_wood_little.name= Petite table meuble
+tile.nationsglory:market_furniture_table_wood_little_corner.name= Petite table coin
+tile.nationsglory:market_furniture_table_wood_little_side.name= Petite table côté
+
 tile.nationsglory:swamp_grass.name=Herbe des marais
 tile.nationsglory:dark_grass.name=Herbe sombre
 tile.nationsglory:jungle_grass.name=Herbe de la jungle
-tile.nationsglory:grass_1.name=Herbes
+tile.nationsglory:grass_1.name=Herbesd
 tile.nationsglory:jungle_grass_rocky.name=Herbe de jungle rocailleuse
 tile.nationsglory:white_granite.name=Granite Blanc
 tile.nationsglory:white_granite_sculpted.name=Pierre Sculptée de Granite Blanc
@@ -37,6 +63,180 @@ tile.nationsglory:dry_stone.name=Pierre Sèche
 tile.nationsglory:clean_dry_stone.name=Pierre Sèche
 tile.nationsglory:pebbled_dirt.name=Terre Caillouteuse
 tile.nationsglory:grassy_dirt.name=Terre Herbeuse
+tile.nationsglory:market_furniture_flower_pot_side.name=Pot de fleur (côté)
+tile.nationsglory:market_furniture_flower_pot_corner.name=Coin de pot de fleur
+tile.nationsglory:market_furniture_lamp_post_base.name=Pied de lampadaire
+tile.nationsglory:market_furniture_lamp_post_pillar.name=Pilier central de lampadaire
+tile.nationsglory:market_furniture_lamp_post_top_single.name=Haut de lampadaire simple
+tile.nationsglory:market_furniture_lamp_post_top_double.name=Haut de lampadaire double
+
+
+tile.nationsglory:custom_bush.name=Buisson
+tile.nationsglory:hanging_flower.name=Fleur suspendue tropicale
+tile.nationsglory:hanging_flower_red.name=Fleur suspendue tropicale
+tile.nationsglory:hanging_flower_purple.name=Fleur suspendue tropicale
+tile.nationsglory:giant_vine.name=Grande liane suspendue
+tile.nationsglory:giant_vine_purple.name=Grande liane violette suspendue
+tile.nationsglory:plant_longgrass_flowerpot.name= Plante d'interieur en pot
+tile.nationsglory:plant_smallgrass_flowerpot.name= Plante d'interieur en pot
+tile.nationsglory:plant_longleaves_flowerpot.name= Plante d'interieur en pot
+tile.nationsglory:custom_flower.name=Fleurs
+tile.nationsglory:plant_custom_flower_waterlily.name=Fleur de nénuphar
+
+
+tile.nationsglory:market_furniture_greenhouse_small_pillar.name= Petit pilier de serre
+tile.nationsglory:market_furniture_greenhouse_bloc.name= Pilier de serre
+tile.nationsglory:market_furniture_greenhouse_diamond_glass.name= Serre à motif losange
+tile.nationsglory:market_furniture_greenhouse_capital.name= Chapiteau de serre
+
+tile.nationsglory:horizontal_stacked_planks.name= Pile de planches horizontale
+tile.nationsglory:vertical_stacked_planks.name= Pile de planches verticale
+tile.nationsglory:market_furniture_stacked_paint_cans.name= Pile de pots de peinture
+tile.nationsglory:market_furniture_paint_can.name= Pot de peinture
+tile.nationsglory:market_furniture_paintshelf_left.name= Étagère à peinture §7§o(Gauche)
+tile.nationsglory:market_furniture_paintshelf_right.name= Étagère à peinture §7§o(Gauche)
+tile.nationsglory:brush_holder_left.name= Mural de pinceaux §7§o(gauche)
+tile.nationsglory:brush_holder_center.name= Mural de pinceaux §7§o(centre)
+tile.nationsglory:brush_holder_right.name= Mural de pinceaux §7§o(droit)
+tile.nationsglory:market_furniture_cloth_green.name= Store magasin meuble
+
+tile.nationsglory:curtains_green.name= Rideau vert
+tile.nationsglory:plant_custom_flower_cactus.name=Plante cactus
+tile.nationsglory:plant_custom_flower_lavender.name=Plante lavande
+tile.nationsglory:plant_custom_flower_orange.name=Plante orange
+tile.nationsglory:plant_custom_flower_white_2.name=Plante blanche
+tile.nationsglory:plant_custom_smallgrass_2.name=Plante d'interieur
+
+tile.nationsglory:market_furniture_table_corner.name= Table Meuble Coin
+tile.nationsglory:market_furniture_table_side.name= Table Coté
+tile.nationsglory:market_furniture_table_little.name= Petite table meuble
+tile.nationsglory:market_furniture_table_little_corner.name= Petite table coin
+tile.nationsglory:market_furniture_table_little_side.name= Petite table côté
+tile.nationsglory:market_furniture_table1_corner.name= Table Meuble Coin
+tile.nationsglory:market_furniture_table1_side.name= Table Coté
+tile.nationsglory:market_furniture_table1_little.name= Petite table meuble
+tile.nationsglory:market_furniture_table1_little_corner.name= Petite table coin
+tile.nationsglory:market_furniture_table1_little_side.name= Petite table côté
+
+tile.nationsglory:market_furniture_blueprint.name= Plan
+tile.nationsglory:market_furniture_laboratory_box_rocket.name= Boite a missile
+tile.nationsglory:market_furniture_table_iron_corner.name= Table Meuble Coin
+tile.nationsglory:market_furniture_table_iron_side.name= Table Coté
+tile.nationsglory:market_furniture_table_iron_little.name= Petite table meuble
+tile.nationsglory:market_furniture_table_iron_little_corner.name= Petite table coin
+tile.nationsglory:market_furniture_table_iron_little_side.name= Petite table côté
+tile.nationsglory:market_furniture_cloth_blue.name= Store laboratoire
+tile.nationsglory:curtains_blue.name= Rideau bleu
+
+tile.nationsglory:price_tag.name= Étiquette de prix
+tile.nationsglory:price_tag_stand.name= Étiquette de prix
+tile.nationsglory:door_frame_side.name=Contour de porte §7§O(Côté)
+
+
+
+item.nationsglory:bike_cow.name= Monture de vache 
+item.nationsglory:bike_happy_ghast.name= Monture de ghast heureux 
+item.nationsglory:bike_pig.name= Monture de cochon 
+item.nationsglory:bike_ender_dragon.name= Monture de dragon de l'End 
+item.nationsglory:bike_phantom_fly.name= Monture de phantome 
+item.nationsglory:bike_pegasus.name= Monture Pegasus 
+item.nationsglory:bike_neblion.name= Monture de néblion 
+item.nationsglory:bike_llama.name=  Monture Lama 
+item.nationsglory:bike_chicken.name= Monture poule
+item.nationsglory:bike_frog.name= Monture grenouille
+item.nationsglory:bike_cat.name= Monture chat
+item.nationsglory:bike_goat.name=  Monture Chèvre 
+item.nationsglory:bike_camel.name=  Monture Chameaux 
+
+item.nationsglory:rp_item_capsule_blue.name= Capsule Bleue
+item.nationsglory:rp_item_capsule_red.name= Capsule Rouge
+item.nationsglory:rp_item_plant.name= Plante Herboriste
+item.nationsglory:rp_item_potion_blue.name= Potion Bleue
+item.nationsglory:rp_item_potion_bottle_blue.name= Potion Bleue
+item.nationsglory:rp_item_potion_bottle_green.name= Potion Verte
+item.nationsglory:rp_item_potion_bottle_orange.name= Potion Orange
+item.nationsglory:rp_item_potion_bottle_red.name= Potion Rouge
+item.nationsglory:rp_item_potion_bottle_yellow.name= Potion Jaune
+item.nationsglory:rp_item_potion_disposable_black.name= Potion Jetable Noire
+item.nationsglory:rp_item_potion_disposable_brown.name= Potion Jetable Marron
+item.nationsglory:rp_item_potion_disposable_gray.name= Potion Jetable Grise
+item.nationsglory:rp_item_potion_disposable_purple.name= Potion Jetable Violette
+item.nationsglory:rp_item_potion_disposable_red.name= Potion Jetable Rouge
+item.nationsglory:rp_item_potion_green.name= Potion Verte
+item.nationsglory:rp_item_potion_orange.name= Potion Orange
+item.nationsglory:rp_item_potion_red.name= Potion Rouge
+item.nationsglory:rp_item_potion_yellow.name= Potion Jaune
+item.nationsglory:rp_item_syringe_green.name= Seringue Verte
+item.nationsglory:rp_item_syringe_yellow.name= Seringue Jaune
+item.nationsglory:rp_item_rune_black.name= Rune Noire
+item.nationsglory:rp_item_rune_blue.name= Rune Bleue
+item.nationsglory:rp_item_rune_brown.name= Rune Marron
+item.nationsglory:rp_item_rune_dark_red.name= Rune Rouge Foncée
+item.nationsglory:rp_item_rune_green.name= Rune Verte
+item.nationsglory:rp_item_rune_orange.name= Rune Orange
+item.nationsglory:rp_item_rune_purple.name= Rune Violette
+item.nationsglory:rp_item_rune_red.name= Rune Rouge
+item.nationsglory:rp_item_rune_white.name= Rune Blanche
+item.nationsglory:rp_item_rune_yellow.name= Rune Jaune
+tile.nationsglory:brazier.name=Brasero
+
+item.nationsglory:kit_hero.name=Kit Hero
+item.nationsglory:kit_legend.name=Kit Legend
+item.nationsglory:kit_premium.name=Kit Premium
+item.nationsglory:kit_premium_plus.name=Kit Premium Plus
+
+tile.nationsglory:ng_frame_1_1.name=Affiche ( 1, 1 )
+tile.nationsglory:ng_frame_1_2.name=Affiche ( 1, 2 )
+tile.nationsglory:ng_frame_1_3.name=Affiche ( 1, 3 )
+tile.nationsglory:ng_frame_1_4.name=Affiche ( 1, 4 )
+tile.nationsglory:ng_frame_1_5.name=Affiche ( 1, 5 )
+tile.nationsglory:ng_frame_1_6.name=Affiche ( 1, 6 )
+tile.nationsglory:ng_frame_1_7.name=Affiche ( 1, 7 )
+tile.nationsglory:ng_frame_2_1.name=Affiche ( 2, 1 )
+tile.nationsglory:ng_frame_2_2.name=Affiche ( 2, 2 )
+tile.nationsglory:ng_frame_2_3.name=Affiche ( 2, 3 )
+tile.nationsglory:ng_frame_2_4.name=Affiche ( 2, 4 )
+tile.nationsglory:ng_frame_2_5.name=Affiche ( 2, 5 )
+tile.nationsglory:ng_frame_2_6.name=Affiche ( 2, 6 )
+tile.nationsglory:ng_frame_2_7.name=Affiche ( 2, 7 )
+tile.nationsglory:ng_frame_3_1.name=Affiche ( 3, 1 )
+tile.nationsglory:ng_frame_3_2.name=Affiche ( 3, 2 )
+tile.nationsglory:ng_frame_3_3.name=Affiche ( 3, 3 )
+tile.nationsglory:ng_frame_3_4.name=Affiche ( 3, 4 )
+tile.nationsglory:ng_frame_3_5.name=Affiche ( 3, 5 )
+tile.nationsglory:ng_frame_3_6.name=Affiche ( 3, 6 )
+tile.nationsglory:ng_frame_3_7.name=Affiche ( 3, 7 )
+tile.nationsglory:ng_frame_4_1.name=Affiche ( 4, 1 )
+tile.nationsglory:ng_frame_4_2.name=Affiche ( 4, 2 )
+tile.nationsglory:ng_frame_4_3.name=Affiche ( 4, 3 )
+tile.nationsglory:ng_frame_4_4.name=Affiche ( 4, 4 )
+tile.nationsglory:ng_frame_4_5.name=Affiche ( 4, 5 )
+tile.nationsglory:ng_frame_4_6.name=Affiche ( 4, 6 )
+tile.nationsglory:ng_frame_4_7.name=Affiche ( 4, 7 )
+
+tile.nationsglory:round_pillar.name=Pilier arrondi
+tile.nationsglory:round_pillar_base.name=Base de pilier arrondi
+tile.nationsglory:stair_ramp.name=Rampe escalier
+tile.nationsglory:stair_ramp_top_connector.name=Jointure supérieure de rampe d’escalier
+
+tile.nationsglory:stone_floor_1=Sol du hub 1
+tile.nationsglory:stone_floor_2=Sol du hub 2
+tile.nationsglory:stone_floor_3=Sol du hub 3
+tile.nationsglory:stone_floor_4=Sol du hub 4
+
+tile.nationsglory:trophy_wonder=Trophée Wonder
+
+tile.nationsglory:garden_fences.name=Barrieres de jardin
+tile.nationsglory:garden_fences_corner.name=Barrieres de jardin §8§o(coin)
+tile.nationsglory:garden_fences_iron.name=Barrieres de jardin
+tile.nationsglory:garden_fences_iron_corner.name=Barrieres de jardin §8§o(coin)
+
+tile.nationsglory:museum_barrier_cord_corner.name=Barrière de musée §8§o(coin)
+
+tile.nationsglory:white_granite_pillard_gold=Granite blanc doré
+tile.nationsglory:white_granite_pillard_corner=Granite blanc doré
+
+tile.nationsglory:border_3=Bordure
 
 tile.nationsglory:sand_wall.name=Muret
 tile.nationsglory:sand_wall_corner.name=Muret Coin
@@ -58,39 +258,51 @@ tile.nationsglory:museum_lamp_floor.name=Lampe de musée au sol
 tile.nationsglory:museum_pedestal_center_metal.name=Socle central en métal
 tile.nationsglory:museum_pedestal_metal.name=Piédestal en métal
 tile.nationsglory:museum_pedestal_top_metal.name=Haut du piédestal en métal
+
+
+tile.nationsglory:banner_flag_market.name= Drapeau Mural
 tile.nationsglory:wall_flag.name=Drapeau mural
+tile.nationsglory:banner_flag_delta.name=Drapeau de bannière Delta
+tile.nationsglory:banner_flag_epsilon.name=Drapeau de bannière Epsilon
+tile.nationsglory:banner_flag_omega.name=Drapeau de bannière Omega
+tile.nationsglory:banner_flag_sigma.name=Drapeau de bannière Sigma
+tile.nationsglory:banner_flag_alpha.name=Drapeau de bannière Alpha
+tile.nationsglory:floor_rock_1.name=Cailloux
+tile.nationsglory:floor_rock_2.name=Cailloux
+tile.nationsglory:floor_rock_3.name=Cailloux
+
 tile.nationsglory:museum_table.name=Table de musée
 tile.nationsglory:museum_table_corner.name=Drapeau mural (Coin)
-item.nationsglory:potion_boost_xp_1.name=Potion Boost XP I
-item.nationsglory:potion_boost_xp_2.name=Potion Boost XP II
-item.nationsglory:potion_boost_xp_3.name=Potion Boost XP III
-item.nationsglory:potion_boost_atm_1.name=Potion Boost ATM I
-item.nationsglory:potion_boost_atm_2.name=Potion Boost ATM II
-item.nationsglory:potion_boost_atm_3.name=Potion Boost ATM III
-item.nationsglory:potion_boost_skill_all_1.name=Potion Boost Skill All I
-item.nationsglory:potion_boost_skill_all_2.name=Potion Boost Skill All II
-item.nationsglory:potion_boost_skill_all_3.name=Potion Boost Skill All III
-item.nationsglory:potion_boost_skill_builder_1.name=Potion Boost Skill Builder I
-item.nationsglory:potion_boost_skill_builder_2.name=Potion Boost Skill Builder II
-item.nationsglory:potion_boost_skill_builder_3.name=Potion Boost Skill Builder III
-item.nationsglory:potion_boost_skill_miner_1.name=Potion Boost Skill Miner I
-item.nationsglory:potion_boost_skill_miner_2.name=Potion Boost Skill Miner II
-item.nationsglory:potion_boost_skill_miner_3.name=Potion Boost Skill Miner III
-item.nationsglory:potion_boost_skill_farmer_1.name=Potion Boost Skill Farmer I
-item.nationsglory:potion_boost_skill_farmer_2.name=Potion Boost Skill Farmer II
-item.nationsglory:potion_boost_skill_farmer_3.name=Potion Boost Skill Farmer III
-item.nationsglory:potion_boost_skill_hunter_1.name=Potion Boost Skill Hunter I
-item.nationsglory:potion_boost_skill_hunter_2.name=Potion Boost Skill Hunter II
-item.nationsglory:potion_boost_skill_hunter_3.name=Potion Boost Skill Hunter III
-item.nationsglory:potion_boost_skill_lumberjack_1.name=Potion Boost Skill Lumberjack I
-item.nationsglory:potion_boost_skill_lumberjack_2.name=Potion Boost Skill Lumberjack II
-item.nationsglory:potion_boost_skill_lumberjack_3.name=Potion Boost Skill Lumberjack III
-item.nationsglory:potion_boost_skill_engineer_1.name=Potion Boost Skill Engineer I
-item.nationsglory:potion_boost_skill_engineer_2.name=Potion Boost Skill Engineer II
-item.nationsglory:potion_boost_skill_engineer_3.name=Potion Boost Skill Engineer III
-item.nationsglory:lait_frais.name=Verre de lait frais	#
-item.nationsglory:cookie_noisette.name=Cookie à la noisette	#
-item.nationsglory:sucre_orge.name=Sucre d'orge	#
+item.nationsglory:parchment_boost_xp_1.name=Potion Boost XP I
+item.nationsglory:parchment_boost_xp_2.name=Potion Boost XP II
+item.nationsglory:parchment_boost_xp_3.name=Potion Boost XP III
+item.nationsglory:parchment_boost_atm_1.name=Potion Boost ATM I
+item.nationsglory:parchment_boost_atm_2.name=Potion Boost ATM II
+item.nationsglory:parchment_boost_atm_3.name=Potion Boost ATM III
+item.nationsglory:parchment_boost_skill_all_1.name=Potion Boost Skill All I
+item.nationsglory:parchment_boost_skill_all_2.name=Potion Boost Skill All II
+item.nationsglory:parchment_boost_skill_all_3.name=Potion Boost Skill All III
+item.nationsglory:parchment_boost_skill_builder_1.name=Potion Boost Skill Builder I
+item.nationsglory:parchment_boost_skill_builder_2.name=Potion Boost Skill Builder II
+item.nationsglory:parchment_boost_skill_builder_3.name=Potion Boost Skill Builder III
+item.nationsglory:parchment_boost_skill_miner_1.name=Potion Boost Skill Miner I
+item.nationsglory:parchment_boost_skill_miner_2.name=Potion Boost Skill Miner II
+item.nationsglory:parchment_boost_skill_miner_3.name=Potion Boost Skill Miner III
+item.nationsglory:parchment_boost_skill_farmer_1.name=Potion Boost Skill Farmer I
+item.nationsglory:parchment_boost_skill_farmer_2.name=Potion Boost Skill Farmer II
+item.nationsglory:parchment_boost_skill_farmer_3.name=Potion Boost Skill Farmer III
+item.nationsglory:parchment_boost_skill_hunter_1.name=Potion Boost Skill Hunter I
+item.nationsglory:parchment_boost_skill_hunter_2.name=Potion Boost Skill Hunter II
+item.nationsglory:parchment_boost_skill_hunter_3.name=Potion Boost Skill Hunter III
+item.nationsglory:parchment_boost_skill_lumberjack_1.name=Potion Boost Skill Lumberjack I
+item.nationsglory:parchment_boost_skill_lumberjack_2.name=Potion Boost Skill Lumberjack II
+item.nationsglory:parchment_boost_skill_lumberjack_3.name=Potion Boost Skill Lumberjack III
+item.nationsglory:parchment_boost_skill_engineer_1.name=Potion Boost Skill Engineer I
+item.nationsglory:parchment_boost_skill_engineer_2.name=Potion Boost Skill Engineer II
+item.nationsglory:parchment_boost_skill_engineer_3.name=Potion Boost Skill Engineer III
+item.nationsglory:lait_frais.name= Verre de lait frais 	#
+item.nationsglory:cookie_noisette.name= Cookie à la noisette 	#
+item.nationsglory:sucre_orge.name= Sucre d'orge 	#
 item.nationsglory:noel_key_1.name=§eClé de l'ange (N°1)
 item.nationsglory:noel_key_2.name=§eClé du lutin (N°2)
 item.nationsglory:noel_key_3.name=§eClé du flocon (N°3)
@@ -480,7 +692,9 @@ item.nationsglory:adamentium_boots.name=Bottes Adamentium	#
 item.nationsglory:adamentium_chestplate.name=Plastron Adamentium	#
 item.nationsglory:adamentium_helmet.name=Casque Adamentium	#
 item.nationsglory:adamentium_leggings.name=Jambières Adamentium	#
+
 item.nationsglory:demonic_sword.name=§5Epée Demonic	#
+item.nationsglory:spartan_sword.name=§eEpée Gladiateur	#
 item.nationsglory:white_spartan_sword.name=§bEpée Spartan	#
 item.nationsglory:white_spartan_shield.name=§bBouclier Spartan	#
 item.nationsglory:onyx_sword.name=Epée Onyx	#
@@ -1106,7 +1320,19 @@ item.nationsglory:frozen_2023_hammer.name=§cMarteau d'hiver	#
 item.nationsglory:white_spartan_helmet.name=§bCasque Spartan	#
 item.nationsglory:white_spartan_chestplate.name=§bPlastron Spartan	#
 item.nationsglory:white_spartan_leggings.name=§bPantalon Spartan	#
+
 item.nationsglory:white_spartan_boots.name=§bBottes Spartan	#
+item.nationsglory:bushi_helmet.name=§4Casque du Samouraï démoniaque	#
+item.nationsglory:bushi_chestplate.name=§4Plastron du Samouraï démoniaque	#
+item.nationsglory:bushi_leggings.name=§4Pantalon du Samouraï démoniaque	#
+item.nationsglory:bushi_boots.name=§4Bottes du Samouraï démoniaque	#
+item.nationsglory:bushi_sword.name=§4 Katana du Samouraï démoniaque	#
+item.nationsglory:lootbox_demonic.name=§4Lootbox Démoniaque	#
+
+item.nationsglory:bike_ignavor.name= Monture de Ignavor 
+item.nationsglory:soul_candle.name=Bougie d'exorcisme
+item.nationsglory:soul_lantern_ng.name=Lanterne d'exorcisme
+item.nationsglory:bike_korvhar.name= Monture de Korvhar 
 
 
 item.nationsglory:mark_1.name=Lanceur Nucléaire	tier 1	#
@@ -1736,11 +1962,11 @@ item.nationsglory:modo_armor_chestplate.name=§2Plastron de Modo	#
 item.nationsglory:modo_armor_helmet.name=§2Casque de Modo	#
 
 
-item.nationsglory:spartan_boots.name=§eBottes Spartiate	#
-item.nationsglory:spartan_leggings.name=§eJambières Spartiate	#
-item.nationsglory:spartan_chestplate.name=§ePlastron Spartiate	#
+item.nationsglory:spartan_boots.name=§eBottes Gladiateur	#
+item.nationsglory:spartan_leggings.name=§eJambières Gladiateur	#
+item.nationsglory:spartan_chestplate.name=§ePlastron Gladiateur	#
 
-item.nationsglory:spartan_helmet.name=§eCasque Spartiate	#
+item.nationsglory:spartan_helmet.name=§eCasque Gladiateur	#
 
 item.nationsglory:christmas_biscuit.name=Biscuit de Noel	#
 item.nationsglory:christmas_candycane_blue.name=Canne à Sucre Bleu	#

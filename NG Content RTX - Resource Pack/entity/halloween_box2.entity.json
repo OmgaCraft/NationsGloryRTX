@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+				"identifier": "nationsglory:halloween_box2",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/halloween_box2"
+			},
+			"animations": {
+			  "wave": "animation.halloween_box2.open4"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.halloween_box2"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

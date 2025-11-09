@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:calendar_stand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/calendar_stand_0",
+				"calendar_stand_1": "textures/event/calendar_stand_1",
+				"calendar_stand_2": "textures/event/calendar_stand_2",
+				"calendar_stand_3": "textures/event/calendar_stand_3",
+				"calendar_stand_4": "textures/event/calendar_stand_4"
+			},
+			"geometry": {
+				"default": "geometry.calendar_stand"
+			},
+			"render_controllers": ["controller.render.calendar_stand"]
+		}
+	}
+}

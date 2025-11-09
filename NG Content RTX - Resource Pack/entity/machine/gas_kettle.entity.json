@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:gas_kettle",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/gas_kettle"
+			},
+			"animations": {
+				"anim_1": "animation.gas_kettle.start"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.gas_kettle"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

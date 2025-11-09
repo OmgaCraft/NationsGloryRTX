@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:liquidtank_petrol",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/tank/liquidtank",
+				"tank_1": "textures/machine/tank/liquidtank_petrol_1",
+				"tank_2": "textures/machine/tank/liquidtank_petrol_2",
+				"tank_3": "textures/machine/tank/liquidtank_petrol_3",
+				"tank_4": "textures/machine/tank/liquidtank_petrol_4"
+			},
+			"geometry": {
+				"default": "geometry.liquidtank_petrol"
+			},
+			"render_controllers": ["controller.render.tank"]
+		}
+	}
+}

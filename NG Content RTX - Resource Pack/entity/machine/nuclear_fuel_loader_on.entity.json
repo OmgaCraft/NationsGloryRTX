@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:nuclear_fuel_loader",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/nuclear_fuel_loader_off",
+				"on_machine" : "textures/machine/nuclear_fuel_loader_on"
+			},
+			"geometry": {
+				"default": "geometry.tritium_synthesizer"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

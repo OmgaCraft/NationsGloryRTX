@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:horse_statue",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/horse_statue"
+			},
+			"geometry": {
+				"default": "geometry.horse_statue"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

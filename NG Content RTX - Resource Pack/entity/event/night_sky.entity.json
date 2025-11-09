@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:night_sky",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/night_sky"
+			},
+			"geometry": {
+				"default": "geometry.night_sky"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#000000",
+				"overlay_color": "#3f3f3f"
+			}
+		}
+	}
+}

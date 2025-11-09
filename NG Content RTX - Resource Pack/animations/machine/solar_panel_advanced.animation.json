@@ -1,0 +1,76 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.solar_panel_advanced.on": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 4.5,
+			"bones": {
+				"head": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.5": [52.5, 0, 0],
+						"4.4583": [10, 0, 0]
+					}
+				},
+				"gauche": {
+					"rotation": {
+						"2.125": [0, 0, 180],
+						"3.625": [0, 0, 0]
+					},
+					"position": [0, 0, 0]
+				},
+				"droit": {
+					"rotation": {
+						"1.5": [0, 0, -180],
+						"3.0": [0, 0, 0]
+					},
+					"position": {
+						"1.5": [0, 2, 0],
+						"3.0": [0, 0, 0]
+					}
+				},
+				"pied": {
+					"position": {
+						"0.0": [0, -16, 0],
+						"1.5": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.solar_panel_advanced.off": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 3.04167,
+			"bones": {
+				"head": {
+					"rotation": {
+						"1.4167": [10, 0, 0],
+						"3.0417": [0, 0, 0]
+					}
+				},
+				"gauche": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"2.125": [0, 0, 180]
+					},
+					"position": [0, 0, 0]
+				},
+				"droit": {
+					"rotation": {
+						"1.2917": [0, 0, 0],
+						"2.7917": [0, 0, -180]
+					},
+					"position": {
+						"1.2917": [0, 0, 0],
+						"2.7917": [0, 2, 0]
+					}
+				},
+				"pied": {
+					"position": {
+						"1.5417": [0, 0, 0],
+						"3.0417": [0, -16, 0]
+					}
+				}
+			}
+		}
+	}
+}

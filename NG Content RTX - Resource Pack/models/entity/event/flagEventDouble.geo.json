@@ -1,0 +1,93 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.flagEventDouble",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 7,
+				"visible_bounds_offset": [0, 2.5, 0]
+			},
+			"bones": [
+				{
+					"name": "lamp",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 180, 0]
+				},
+				{
+					"name": "poteau",
+					"parent": "lamp",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 8, -2], "size": [4, 60, 4], "uv": [0, 0]},
+						{"origin": [-3, 68, -3], "size": [6, 6, 6], "uv": [38, 0]},
+						{
+							"origin": [-4, 0, -4],
+							"size": [8, 8, 8],
+							"uv": {
+								"north": {"uv": [56, 56], "uv_size": [8, 8]},
+								"east": {"uv": [48, 56], "uv_size": [8, 8]},
+								"south": {"uv": [56, 56], "uv_size": [8, 8]},
+								"west": {"uv": [48, 56], "uv_size": [8, 8]},
+								"up": {"uv": [48, 48], "uv_size": [8, 8]},
+								"down": {"uv": [56, 56], "uv_size": [8, -8]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "poteau",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-0.08, 37, 4],
+							"size": [0.08, 34, 14],
+							"uv": {
+								"north": {"uv": [60, 35], "uv_size": [0, 0]},
+								"east": {"uv": [163, 0], "uv_size": [93, 256]},
+								"south": {"uv": [61, 35], "uv_size": [0, 0]},
+								"west": {"uv": [163, 0], "uv_size": [93, 256]},
+								"up": {"uv": [60, 35], "uv_size": [0, 0]},
+								"down": {"uv": [60, 35], "uv_size": [0, 0]}
+							}
+						},
+						{"origin": [-1, 71, 3], "size": [2, 2, 16], "uv": [17, 0]}
+					]
+				},
+				{
+					"name": "flag",
+					"parent": "bone",
+					"pivot": [-0.04, 71, 11]
+				},
+				{
+					"name": "bone2",
+					"parent": "poteau",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-0.08, 37, -18],
+							"size": [0.08, 34, 14],
+							"uv": {
+								"north": {"uv": [61, 35], "uv_size": [0, 0]},
+								"east": {"uv": [163, 0], "uv_size": [93, 256]},
+								"south": {"uv": [60, 35], "uv_size": [0, 0]},
+								"west": {"uv": [163, 0], "uv_size": [93, 256]},
+								"up": {"uv": [60, 35], "uv_size": [0, 0]},
+								"down": {"uv": [60, 35], "uv_size": [0, 0]}
+							}
+						},
+						{"origin": [-1, 71, -19], "size": [2, 2, 16], "uv": [17, 0]}
+					]
+				},
+				{
+					"name": "flag2",
+					"parent": "bone2",
+					"pivot": [-0.04, 71, 11]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:planet_display_museum",
+			"materials": {
+				"default": "entity_alphablend"
+			},
+			"textures": {
+				"default": "textures/entity/planet_display_earth"
+			},
+			"geometry": {
+				"default": "geometry.planet_display"
+			},
+			"animations": {
+				"idle": "animation.planet_display.idle"
+			},
+			"scripts": {
+				"scale":"3",
+			    "animate": ["idle"]
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

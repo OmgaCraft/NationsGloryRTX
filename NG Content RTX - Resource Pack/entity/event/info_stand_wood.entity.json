@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:info_stand_wood",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/info_stand_wood_texture"
+			},
+			"geometry": {
+				"default": "geometry.info_stand_wood"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

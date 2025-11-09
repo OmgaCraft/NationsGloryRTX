@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:caoutchouteuse",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/caoutchouteuse",
+				"on_machine" : "textures/machine/caoutchouteuse_on"
+			},
+			"geometry": {
+				"default": "geometry.storage_module"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

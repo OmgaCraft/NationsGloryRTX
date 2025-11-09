@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:npcwiki",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/npc/npc_guideon"
+			},
+			"animations": {
+			  "stand": "animation.npcwiki.stand"
+			},
+			"scripts": {
+				"animate": [
+				  "stand"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.npcwiki"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

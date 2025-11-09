@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.market_furniture_laboratory_sign.idle": {
+			"loop": true,
+			"bones": {
+				"gear1": {
+					"rotation": [0, 0, "query.life_time * 12"]
+				},
+				"gear2": {
+					"rotation": [0, 0, "query.life_time * -4"]
+				},
+				"gear3": {
+					"rotation": [0, 0, "query.life_time * 8"]
+				}
+			}
+		}
+	}
+}

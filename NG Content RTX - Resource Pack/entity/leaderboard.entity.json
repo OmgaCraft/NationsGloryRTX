@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:leaderboard",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/leaderboard"
+			},
+			"animations": {
+			  "wave": "animation.leaderboard.new"
+			},
+			"scripts": {
+				"animate": [
+				  "wave"
+				]
+			  },
+			"geometry": {
+				"default": "geometry.leaderboard"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

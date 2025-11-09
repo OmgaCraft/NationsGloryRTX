@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.voriack_meteor",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-5, 0, -5], "size": [10, 10, 10], "uv": [0, 0]},
+						{"origin": [-4, 10, -4], "size": [8, 1, 8], "uv": [0, 21]},
+						{"origin": [-4, -1, -4], "size": [8, 1, 8], "uv": [0, 21]},
+						{"origin": [-4, 10, -4], "size": [8, 1, 8], "pivot": [0, 5, 0], "rotation": [-90, 0, 0], "uv": [0, 21]},
+						{"origin": [-4, 10, -4], "size": [8, 1, 8], "pivot": [0, 5, 0], "rotation": [90, 0, 0], "uv": [0, 21]},
+						{"origin": [-4, 10, -4], "size": [8, 1, 8], "pivot": [0, 5, 0], "rotation": [90, -90, 0], "uv": [0, 21]},
+						{"origin": [-4, 10, -4], "size": [8, 1, 8], "pivot": [0, 5, 0], "rotation": [90, 90, 0], "uv": [0, 21]}
+					]
+				}
+			]
+		}
+	]
+}

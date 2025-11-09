@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:info_stand",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/event/info_stand"
+			},
+			"geometry": {
+				"default": "geometry.info_stand"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

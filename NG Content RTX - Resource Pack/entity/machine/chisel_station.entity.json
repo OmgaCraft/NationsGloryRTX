@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "nationsglory:chisel_station",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/machine/chisel_station",
+				"on_machine" : "textures/machine/chisel_station"
+			},
+			"animations": {
+				"anim_1": "animation.chisel_station.on_machine"
+			},
+			"scripts": {
+				"animate": [
+					{"anim_1": "q.variant == 1"}
+				]
+			},
+			"geometry": {
+				"default": "geometry.chisel_station"
+			},
+			"render_controllers": ["controller.render.machine_base"]
+		}
+	}
+}

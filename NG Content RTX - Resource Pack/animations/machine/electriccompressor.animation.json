@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.electriccompressor.on": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"head": {
+					"position": {
+						"0.0": [0, 5, 0],
+						"0.5": {
+							"pre": [0, -3, 0],
+							"post": [0, -3, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"2.0": {
+							"post": [0, 5, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"bone6": {
+					"position": {
+						"0.0": [0, -4.4, 0],
+						"0.5": [0, 0, 0],
+						"1.2083": [0, 0, 0],
+						"2.0": [0, -4.4, 0]
+					}
+				},
+				"base": {
+					"scale": {
+						"0.4583": [1, 1, 1],
+						"0.5": [1.02, 1.02, 1.02],
+						"0.5833": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}
